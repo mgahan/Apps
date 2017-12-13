@@ -153,6 +153,7 @@ $(function() {
   queue().defer(d3.json, "json/countries2.topo.json")
          .defer(d3.json, "json/airports2.topo.json")
          .await(loaded);
+    
 
   $(window).resize(function() {
     currentWidth = $("#map").width();
