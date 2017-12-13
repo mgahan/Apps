@@ -1,0 +1,7993 @@
+Country,Year,Fertility
+Algeria,1960,7648
+Algeria,1961,7649
+Algeria,1962,7650
+Algeria,1963,7652
+Algeria,1964,7653
+Algeria,1965,7655
+Algeria,1966,7657
+Algeria,1967,7658
+Algeria,1968,7657
+Algeria,1969,7652
+Algeria,1970,7641
+Algeria,1971,7622
+Algeria,1972,7591
+Algeria,1973,7548
+Algeria,1974,7492
+Algeria,1975,7422
+Algeria,1976,7339
+Algeria,1977,7244
+Algeria,1978,7138
+Algeria,1979,7021
+Algeria,1980,6889
+Algeria,1981,6741
+Algeria,1982,6576
+Algeria,1983,6392
+Algeria,1984,6192
+Algeria,1985,5976
+Algeria,1986,5747
+Algeria,1987,5508
+Algeria,1988,5263
+Algeria,1989,5014
+Algeria,1990,4761
+Algeria,1991,4503
+Algeria,1992,4238
+Algeria,1993,3971
+Algeria,1994,3705
+Algeria,1995,3449
+Algeria,1996,3207
+Algeria,1997,2987
+Algeria,1998,2794
+Algeria,1999,2634
+Algeria,2000,2514
+Algeria,2001,2439
+Algeria,2002,2407
+Algeria,2003,2412
+Algeria,2004,2448
+Algeria,2005,2507
+Algeria,2006,2580
+Algeria,2007,2656
+Algeria,2008,2725
+Algeria,2009,2781
+Algeria,2010,2817
+Algeria,2011,2829
+Algeria,2012,2820
+Algeria,2013,2795
+Angola,1960,7316
+Angola,1961,7354
+Angola,1962,7385
+Angola,1963,7410
+Angola,1964,7425
+Angola,1965,7430
+Angola,1966,7422
+Angola,1967,7403
+Angola,1968,7375
+Angola,1969,7339
+Angola,1970,7301
+Angola,1971,7264
+Angola,1972,7232
+Angola,1973,7208
+Angola,1974,7192
+Angola,1975,7185
+Angola,1976,7186
+Angola,1977,7189
+Angola,1978,7194
+Angola,1979,7197
+Angola,1980,7200
+Angola,1981,7201
+Angola,1982,7203
+Angola,1983,7205
+Angola,1984,7207
+Angola,1985,7208
+Angola,1986,7206
+Angola,1987,7202
+Angola,1988,7194
+Angola,1989,7182
+Angola,1990,7165
+Angola,1991,7143
+Angola,1992,7116
+Angola,1993,7087
+Angola,1994,7054
+Angola,1995,7019
+Angola,1996,6984
+Angola,1997,6949
+Angola,1998,6913
+Angola,1999,6878
+Angola,2000,6844
+Angola,2001,6811
+Angola,2002,6778
+Angola,2003,6743
+Angola,2004,6704
+Angola,2005,6657
+Angola,2006,6598
+Angola,2007,6523
+Angola,2008,6434
+Angola,2009,6331
+Angola,2010,6218
+Angola,2011,6099
+Angola,2012,5979
+Angola,2013,5863
+Benin,1960,6282
+Benin,1961,6339
+Benin,1962,6394
+Benin,1963,6447
+Benin,1964,6497
+Benin,1965,6544
+Benin,1966,6588
+Benin,1967,6630
+Benin,1968,6671
+Benin,1969,6710
+Benin,1970,6748
+Benin,1971,6786
+Benin,1972,6823
+Benin,1973,6860
+Benin,1974,6896
+Benin,1975,6929
+Benin,1976,6959
+Benin,1977,6984
+Benin,1978,7004
+Benin,1979,7018
+Benin,1980,7025
+Benin,1981,7025
+Benin,1982,7021
+Benin,1983,7010
+Benin,1984,6994
+Benin,1985,6972
+Benin,1986,6942
+Benin,1987,6904
+Benin,1988,6858
+Benin,1989,6805
+Benin,1990,6744
+Benin,1991,6677
+Benin,1992,6603
+Benin,1993,6526
+Benin,1994,6446
+Benin,1995,6365
+Benin,1996,6284
+Benin,1997,6205
+Benin,1998,6128
+Benin,1999,6051
+Benin,2000,5975
+Benin,2001,5898
+Benin,2002,5818
+Benin,2003,5733
+Benin,2004,5645
+Benin,2005,5553
+Benin,2006,5459
+Benin,2007,5365
+Benin,2008,5273
+Benin,2009,5182
+Benin,2010,5095
+Benin,2011,5010
+Benin,2012,4927
+Benin,2013,4845
+Bhutan,1960,6670
+Bhutan,1961,6670
+Bhutan,1962,6670
+Bhutan,1963,6670
+Bhutan,1964,6670
+Bhutan,1965,6670
+Bhutan,1966,6670
+Bhutan,1967,6670
+Bhutan,1968,6670
+Bhutan,1969,6670
+Bhutan,1970,6671
+Bhutan,1971,6674
+Bhutan,1972,6679
+Bhutan,1973,6685
+Bhutan,1974,6690
+Bhutan,1975,6692
+Bhutan,1976,6685
+Bhutan,1977,6668
+Bhutan,1978,6640
+Bhutan,1979,6601
+Bhutan,1980,6553
+Bhutan,1981,6504
+Bhutan,1982,6456
+Bhutan,1983,6410
+Bhutan,1984,6362
+Bhutan,1985,6306
+Bhutan,1986,6230
+Bhutan,1987,6127
+Bhutan,1988,5994
+Bhutan,1989,5829
+Bhutan,1990,5639
+Bhutan,1991,5431
+Bhutan,1992,5216
+Bhutan,1993,5003
+Bhutan,1994,4796
+Bhutan,1995,4597
+Bhutan,1996,4401
+Bhutan,1997,4205
+Bhutan,1998,4006
+Bhutan,1999,3806
+Bhutan,2000,3608
+Bhutan,2001,3417
+Bhutan,2002,3237
+Bhutan,2003,3071
+Bhutan,2004,2923
+Bhutan,2005,2793
+Bhutan,2006,2682
+Bhutan,2007,2587
+Bhutan,2008,2506
+Bhutan,2009,2436
+Bhutan,2010,2375
+Bhutan,2011,2322
+Bhutan,2012,2275
+Bhutan,2013,2232
+Botswana,1960,6615
+Botswana,1961,6632
+Botswana,1962,6649
+Botswana,1963,6666
+Botswana,1964,6681
+Botswana,1965,6693
+Botswana,1966,6698
+Botswana,1967,6696
+Botswana,1968,6686
+Botswana,1969,6667
+Botswana,1970,6641
+Botswana,1971,6611
+Botswana,1972,6579
+Botswana,1973,6546
+Botswana,1974,6512
+Botswana,1975,6477
+Botswana,1976,6440
+Botswana,1977,6399
+Botswana,1978,6350
+Botswana,1979,6291
+Botswana,1980,6217
+Botswana,1981,6125
+Botswana,1982,6012
+Botswana,1983,5880
+Botswana,1984,5731
+Botswana,1985,5567
+Botswana,1986,5393
+Botswana,1987,5214
+Botswana,1988,5036
+Botswana,1989,4863
+Botswana,1990,4698
+Botswana,1991,4542
+Botswana,1992,4394
+Botswana,1993,4252
+Botswana,1994,4117
+Botswana,1995,3989
+Botswana,1996,3866
+Botswana,1997,3746
+Botswana,1998,3631
+Botswana,1999,3519
+Botswana,2000,3413
+Botswana,2001,3316
+Botswana,2002,3227
+Botswana,2003,3148
+Botswana,2004,3079
+Botswana,2005,3017
+Botswana,2006,2962
+Botswana,2007,2910
+Botswana,2008,2860
+Botswana,2009,2811
+Botswana,2010,2761
+Botswana,2011,2712
+Botswana,2012,2665
+Botswana,2013,2619
+Brunei Darussalam,1960,6487
+Brunei Darussalam,1961,6487
+Brunei Darussalam,1962,6448
+Brunei Darussalam,1963,6360
+Brunei Darussalam,1964,6227
+Brunei Darussalam,1965,6068
+Brunei Darussalam,1966,5918
+Brunei Darussalam,1967,5804
+Brunei Darussalam,1968,5742
+Brunei Darussalam,1969,5731
+Brunei Darussalam,1970,5751
+Brunei Darussalam,1971,5771
+Brunei Darussalam,1972,5758
+Brunei Darussalam,1973,5687
+Brunei Darussalam,1974,5555
+Brunei Darussalam,1975,5365
+Brunei Darussalam,1976,5132
+Brunei Darussalam,1977,4884
+Brunei Darussalam,1978,4645
+Brunei Darussalam,1979,4429
+Brunei Darussalam,1980,4246
+Brunei Darussalam,1981,4103
+Brunei Darussalam,1982,3992
+Brunei Darussalam,1983,3906
+Brunei Darussalam,1984,3843
+Brunei Darussalam,1985,3794
+Brunei Darussalam,1986,3755
+Brunei Darussalam,1987,3715
+Brunei Darussalam,1988,3668
+Brunei Darussalam,1989,3608
+Brunei Darussalam,1990,3532
+Brunei Darussalam,1991,3435
+Brunei Darussalam,1992,3321
+Brunei Darussalam,1993,3197
+Brunei Darussalam,1994,3064
+Brunei Darussalam,1995,2929
+Brunei Darussalam,1996,2798
+Brunei Darussalam,1997,2677
+Brunei Darussalam,1998,2569
+Brunei Darussalam,1999,2477
+Brunei Darussalam,2000,2401
+Brunei Darussalam,2001,2341
+Brunei Darussalam,2002,2292
+Brunei Darussalam,2003,2249
+Brunei Darussalam,2004,2211
+Brunei Darussalam,2005,2177
+Brunei Darussalam,2006,2147
+Brunei Darussalam,2007,2119
+Brunei Darussalam,2008,2095
+Brunei Darussalam,2009,2072
+Brunei Darussalam,2010,2051
+Brunei Darussalam,2011,2031
+Brunei Darussalam,2012,2012
+Brunei Darussalam,2013,1994
+Burkina Faso,1960,6291
+Burkina Faso,1961,6316
+Burkina Faso,1962,6344
+Burkina Faso,1963,6377
+Burkina Faso,1964,6414
+Burkina Faso,1965,6454
+Burkina Faso,1966,6493
+Burkina Faso,1967,6530
+Burkina Faso,1968,6563
+Burkina Faso,1969,6593
+Burkina Faso,1970,6623
+Burkina Faso,1971,6657
+Burkina Faso,1972,6697
+Burkina Faso,1973,6744
+Burkina Faso,1974,6799
+Burkina Faso,1975,6859
+Burkina Faso,1976,6922
+Burkina Faso,1977,6984
+Burkina Faso,1978,7041
+Burkina Faso,1979,7090
+Burkina Faso,1980,7127
+Burkina Faso,1981,7152
+Burkina Faso,1982,7165
+Burkina Faso,1983,7167
+Burkina Faso,1984,7159
+Burkina Faso,1985,7142
+Burkina Faso,1986,7119
+Burkina Faso,1987,7092
+Burkina Faso,1988,7064
+Burkina Faso,1989,7036
+Burkina Faso,1990,7007
+Burkina Faso,1991,6979
+Burkina Faso,1992,6950
+Burkina Faso,1993,6917
+Burkina Faso,1994,6882
+Burkina Faso,1995,6844
+Burkina Faso,1996,6801
+Burkina Faso,1997,6754
+Burkina Faso,1998,6704
+Burkina Faso,1999,6650
+Burkina Faso,2000,6592
+Burkina Faso,2001,6531
+Burkina Faso,2002,6468
+Burkina Faso,2003,6403
+Burkina Faso,2004,6335
+Burkina Faso,2005,6265
+Burkina Faso,2006,6193
+Burkina Faso,2007,6116
+Burkina Faso,2008,6037
+Burkina Faso,2009,5954
+Burkina Faso,2010,5869
+Burkina Faso,2011,5781
+Burkina Faso,2012,5693
+Burkina Faso,2013,5605
+Burundi,1960,6953
+Burundi,1961,6998
+Burundi,1962,7045
+Burundi,1963,7092
+Burundi,1964,7138
+Burundi,1965,7179
+Burundi,1966,7216
+Burundi,1967,7247
+Burundi,1968,7272
+Burundi,1969,7293
+Burundi,1970,7311
+Burundi,1971,7329
+Burundi,1972,7348
+Burundi,1973,7370
+Burundi,1974,7395
+Burundi,1975,7419
+Burundi,1976,7439
+Burundi,1977,7452
+Burundi,1978,7457
+Burundi,1979,7455
+Burundi,1980,7450
+Burundi,1981,7449
+Burundi,1982,7454
+Burundi,1983,7469
+Burundi,1984,7492
+Burundi,1985,7520
+Burundi,1986,7546
+Burundi,1987,7565
+Burundi,1988,7572
+Burundi,1989,7564
+Burundi,1990,7542
+Burundi,1991,7508
+Burundi,1992,7465
+Burundi,1993,7418
+Burundi,1994,7368
+Burundi,1995,7318
+Burundi,1996,7267
+Burundi,1997,7217
+Burundi,1998,7165
+Burundi,1999,7112
+Burundi,2000,7057
+Burundi,2001,7000
+Burundi,2002,6939
+Burundi,2003,6873
+Burundi,2004,6803
+Burundi,2005,6729
+Burundi,2006,6650
+Burundi,2007,6567
+Burundi,2008,6481
+Burundi,2009,6393
+Burundi,2010,6304
+Burundi,2011,6214
+Burundi,2012,6123
+Burundi,2013,6033
+Cabo Verde,1960,6885
+Cabo Verde,1961,6922
+Cabo Verde,1962,6953
+Cabo Verde,1963,6976
+Cabo Verde,1964,6989
+Cabo Verde,1965,6993
+Cabo Verde,1966,6990
+Cabo Verde,1967,6982
+Cabo Verde,1968,6970
+Cabo Verde,1969,6954
+Cabo Verde,1970,6935
+Cabo Verde,1971,6913
+Cabo Verde,1972,6887
+Cabo Verde,1973,6855
+Cabo Verde,1974,6818
+Cabo Verde,1975,6771
+Cabo Verde,1976,6714
+Cabo Verde,1977,6645
+Cabo Verde,1978,6564
+Cabo Verde,1979,6473
+Cabo Verde,1980,6375
+Cabo Verde,1981,6274
+Cabo Verde,1982,6174
+Cabo Verde,1983,6075
+Cabo Verde,1984,5979
+Cabo Verde,1985,5883
+Cabo Verde,1986,5784
+Cabo Verde,1987,5680
+Cabo Verde,1988,5565
+Cabo Verde,1989,5441
+Cabo Verde,1990,5307
+Cabo Verde,1991,5164
+Cabo Verde,1992,5016
+Cabo Verde,1993,4863
+Cabo Verde,1994,4708
+Cabo Verde,1995,4550
+Cabo Verde,1996,4388
+Cabo Verde,1997,4221
+Cabo Verde,1998,4050
+Cabo Verde,1999,3876
+Cabo Verde,2000,3701
+Cabo Verde,2001,3527
+Cabo Verde,2002,3357
+Cabo Verde,2003,3192
+Cabo Verde,2004,3037
+Cabo Verde,2005,2895
+Cabo Verde,2006,2770
+Cabo Verde,2007,2660
+Cabo Verde,2008,2567
+Cabo Verde,2009,2490
+Cabo Verde,2010,2427
+Cabo Verde,2011,2375
+Cabo Verde,2012,2331
+Cabo Verde,2013,2292
+Cambodia,1960,6967
+Cambodia,1961,6964
+Cambodia,1962,6955
+Cambodia,1963,6937
+Cambodia,1964,6909
+Cambodia,1965,6868
+Cambodia,1966,6815
+Cambodia,1967,6749
+Cambodia,1968,6672
+Cambodia,1969,6583
+Cambodia,1970,6475
+Cambodia,1971,6338
+Cambodia,1972,6173
+Cambodia,1973,5988
+Cambodia,1974,5795
+Cambodia,1975,5622
+Cambodia,1976,5498
+Cambodia,1977,5441
+Cambodia,1978,5459
+Cambodia,1979,5545
+Cambodia,1980,5685
+Cambodia,1981,5850
+Cambodia,1982,6008
+Cambodia,1983,6130
+Cambodia,1984,6200
+Cambodia,1985,6210
+Cambodia,1986,6160
+Cambodia,1987,6065
+Cambodia,1988,5941
+Cambodia,1989,5792
+Cambodia,1990,5623
+Cambodia,1991,5438
+Cambodia,1992,5240
+Cambodia,1993,5033
+Cambodia,1994,4825
+Cambodia,1995,4620
+Cambodia,1996,4423
+Cambodia,1997,4236
+Cambodia,1998,4059
+Cambodia,1999,3896
+Cambodia,2000,3750
+Cambodia,2001,3619
+Cambodia,2002,3504
+Cambodia,2003,3401
+Cambodia,2004,3310
+Cambodia,2005,3230
+Cambodia,2006,3162
+Cambodia,2007,3102
+Cambodia,2008,3051
+Cambodia,2009,3007
+Cambodia,2010,2966
+Cambodia,2011,2929
+Cambodia,2012,2894
+Cambodia,2013,2861
+Cameroon,1960,5647
+Cameroon,1961,5705
+Cameroon,1962,5766
+Cameroon,1963,5828
+Cameroon,1964,5890
+Cameroon,1965,5949
+Cameroon,1966,6005
+Cameroon,1967,6058
+Cameroon,1968,6110
+Cameroon,1969,6159
+Cameroon,1970,6205
+Cameroon,1971,6247
+Cameroon,1972,6286
+Cameroon,1973,6322
+Cameroon,1974,6356
+Cameroon,1975,6391
+Cameroon,1976,6429
+Cameroon,1977,6470
+Cameroon,1978,6516
+Cameroon,1979,6563
+Cameroon,1980,6609
+Cameroon,1981,6651
+Cameroon,1982,6683
+Cameroon,1983,6703
+Cameroon,1984,6708
+Cameroon,1985,6697
+Cameroon,1986,6669
+Cameroon,1987,6627
+Cameroon,1988,6572
+Cameroon,1989,6508
+Cameroon,1990,6434
+Cameroon,1991,6352
+Cameroon,1992,6264
+Cameroon,1993,6173
+Cameroon,1994,6080
+Cameroon,1995,5989
+Cameroon,1996,5903
+Cameroon,1997,5823
+Cameroon,1998,5749
+Cameroon,1999,5682
+Cameroon,2000,5621
+Cameroon,2001,5567
+Cameroon,2002,5515
+Cameroon,2003,5464
+Cameroon,2004,5413
+Cameroon,2005,5358
+Cameroon,2006,5299
+Cameroon,2007,5235
+Cameroon,2008,5167
+Cameroon,2009,5094
+Cameroon,2010,5017
+Cameroon,2011,4939
+Cameroon,2012,4859
+Cameroon,2013,4780
+Central African Republic,1960,5840
+Central African Republic,1961,5867
+Central African Republic,1962,5891
+Central African Republic,1963,5910
+Central African Republic,1964,5925
+Central African Republic,1965,5937
+Central African Republic,1966,5945
+Central African Republic,1967,5950
+Central African Republic,1968,5953
+Central African Republic,1969,5954
+Central African Republic,1970,5954
+Central African Republic,1971,5954
+Central African Republic,1972,5953
+Central African Republic,1973,5952
+Central African Republic,1974,5951
+Central African Republic,1975,5950
+Central African Republic,1976,5951
+Central African Republic,1977,5952
+Central African Republic,1978,5953
+Central African Republic,1979,5954
+Central African Republic,1980,5954
+Central African Republic,1981,5955
+Central African Republic,1982,5956
+Central African Republic,1983,5955
+Central African Republic,1984,5952
+Central African Republic,1985,5944
+Central African Republic,1986,5927
+Central African Republic,1987,5902
+Central African Republic,1988,5868
+Central African Republic,1989,5826
+Central African Republic,1990,5780
+Central African Republic,1991,5734
+Central African Republic,1992,5691
+Central African Republic,1993,5653
+Central African Republic,1994,5622
+Central African Republic,1995,5596
+Central African Republic,1996,5573
+Central African Republic,1997,5550
+Central African Republic,1998,5522
+Central African Republic,1999,5488
+Central African Republic,2000,5446
+Central African Republic,2001,5393
+Central African Republic,2002,5329
+Central African Republic,2003,5257
+Central African Republic,2004,5176
+Central African Republic,2005,5089
+Central African Republic,2006,4997
+Central African Republic,2007,4903
+Central African Republic,2008,4809
+Central African Republic,2009,4716
+Central African Republic,2010,4626
+Central African Republic,2011,4538
+Central African Republic,2012,4451
+Central African Republic,2013,4365
+Chad,1960,6250
+Chad,1961,6268
+Chad,1962,6285
+Chad,1963,6301
+Chad,1964,6318
+Chad,1965,6337
+Chad,1966,6362
+Chad,1967,6393
+Chad,1968,6432
+Chad,1969,6477
+Chad,1970,6528
+Chad,1971,6582
+Chad,1972,6636
+Chad,1973,6688
+Chad,1974,6736
+Chad,1975,6780
+Chad,1976,6820
+Chad,1977,6857
+Chad,1978,6892
+Chad,1979,6925
+Chad,1980,6958
+Chad,1981,6990
+Chad,1982,7023
+Chad,1983,7056
+Chad,1984,7089
+Chad,1985,7124
+Chad,1986,7161
+Chad,1987,7199
+Chad,1988,7238
+Chad,1989,7276
+Chad,1990,7313
+Chad,1991,7346
+Chad,1992,7376
+Chad,1993,7399
+Chad,1994,7416
+Chad,1995,7425
+Chad,1996,7426
+Chad,1997,7419
+Chad,1998,7405
+Chad,1999,7384
+Chad,2000,7354
+Chad,2001,7315
+Chad,2002,7268
+Chad,2003,7212
+Chad,2004,7147
+Chad,2005,7074
+Chad,2006,6992
+Chad,2007,6902
+Chad,2008,6805
+Chad,2009,6702
+Chad,2010,6596
+Chad,2011,6486
+Chad,2012,6375
+Chad,2013,6263
+Comoros,1960,6792
+Comoros,1961,6849
+Comoros,1962,6897
+Comoros,1963,6939
+Comoros,1964,6975
+Comoros,1965,7004
+Comoros,1966,7027
+Comoros,1967,7044
+Comoros,1968,7055
+Comoros,1969,7060
+Comoros,1970,7061
+Comoros,1971,7060
+Comoros,1972,7058
+Comoros,1973,7055
+Comoros,1974,7052
+Comoros,1975,7054
+Comoros,1976,7065
+Comoros,1977,7084
+Comoros,1978,7106
+Comoros,1979,7126
+Comoros,1980,7129
+Comoros,1981,7102
+Comoros,1982,7033
+Comoros,1983,6921
+Comoros,1984,6766
+Comoros,1985,6576
+Comoros,1986,6362
+Comoros,1987,6141
+Comoros,1988,5928
+Comoros,1989,5735
+Comoros,1990,5573
+Comoros,1991,5447
+Comoros,1992,5355
+Comoros,1993,5293
+Comoros,1994,5257
+Comoros,1995,5246
+Comoros,1996,5253
+Comoros,1997,5270
+Comoros,1998,5289
+Comoros,1999,5306
+Comoros,2000,5315
+Comoros,2001,5313
+Comoros,2002,5303
+Comoros,2003,5283
+Comoros,2004,5254
+Comoros,2005,5216
+Comoros,2006,5168
+Comoros,2007,5112
+Comoros,2008,5051
+Comoros,2009,4986
+Comoros,2010,4919
+Comoros,2011,4850
+Comoros,2012,4782
+Comoros,2013,4714
+Dem. Rep. Congo,1960,6001
+Dem. Rep. Congo,1961,6015
+Dem. Rep. Congo,1962,6030
+Dem. Rep. Congo,1963,6048
+Dem. Rep. Congo,1964,6067
+Dem. Rep. Congo,1965,6089
+Dem. Rep. Congo,1966,6111
+Dem. Rep. Congo,1967,6135
+Dem. Rep. Congo,1968,6161
+Dem. Rep. Congo,1969,6187
+Dem. Rep. Congo,1970,6214
+Dem. Rep. Congo,1971,6242
+Dem. Rep. Congo,1972,6271
+Dem. Rep. Congo,1973,6301
+Dem. Rep. Congo,1974,6333
+Dem. Rep. Congo,1975,6366
+Dem. Rep. Congo,1976,6403
+Dem. Rep. Congo,1977,6443
+Dem. Rep. Congo,1978,6487
+Dem. Rep. Congo,1979,6535
+Dem. Rep. Congo,1980,6585
+Dem. Rep. Congo,1981,6636
+Dem. Rep. Congo,1982,6689
+Dem. Rep. Congo,1983,6742
+Dem. Rep. Congo,1984,6794
+Dem. Rep. Congo,1985,6847
+Dem. Rep. Congo,1986,6902
+Dem. Rep. Congo,1987,6960
+Dem. Rep. Congo,1988,7019
+Dem. Rep. Congo,1989,7077
+Dem. Rep. Congo,1990,7133
+Dem. Rep. Congo,1991,7183
+Dem. Rep. Congo,1992,7223
+Dem. Rep. Congo,1993,7251
+Dem. Rep. Congo,1994,7267
+Dem. Rep. Congo,1995,7267
+Dem. Rep. Congo,1996,7253
+Dem. Rep. Congo,1997,7227
+Dem. Rep. Congo,1998,7190
+Dem. Rep. Congo,1999,7143
+Dem. Rep. Congo,2000,7089
+Dem. Rep. Congo,2001,7027
+Dem. Rep. Congo,2002,6960
+Dem. Rep. Congo,2003,6887
+Dem. Rep. Congo,2004,6809
+Dem. Rep. Congo,2005,6728
+Dem. Rep. Congo,2006,6642
+Dem. Rep. Congo,2007,6550
+Dem. Rep. Congo,2008,6454
+Dem. Rep. Congo,2009,6354
+Dem. Rep. Congo,2010,6251
+Dem. Rep. Congo,2011,6146
+Dem. Rep. Congo,2012,6039
+Dem. Rep. Congo,2013,5933
+Congo,1960,5880
+Congo,1961,5922
+Congo,1962,5967
+Congo,1963,6012
+Congo,1964,6056
+Congo,1965,6098
+Congo,1966,6138
+Congo,1967,6174
+Congo,1968,6207
+Congo,1969,6235
+Congo,1970,6259
+Congo,1971,6280
+Congo,1972,6297
+Congo,1973,6312
+Congo,1974,6321
+Congo,1975,6325
+Congo,1976,6318
+Congo,1977,6301
+Congo,1978,6273
+Congo,1979,6231
+Congo,1980,6178
+Congo,1981,6112
+Congo,1982,6036
+Congo,1983,5952
+Congo,1984,5864
+Congo,1985,5774
+Congo,1986,5682
+Congo,1987,5591
+Congo,1988,5503
+Congo,1989,5421
+Congo,1990,5347
+Congo,1991,5286
+Congo,1992,5236
+Congo,1993,5198
+Congo,1994,5171
+Congo,1995,5154
+Congo,1996,5145
+Congo,1997,5141
+Congo,1998,5139
+Congo,1999,5137
+Congo,2000,5134
+Congo,2001,5131
+Congo,2002,5128
+Congo,2003,5125
+Congo,2004,5122
+Congo,2005,5119
+Congo,2006,5114
+Congo,2007,5109
+Congo,2008,5101
+Congo,2009,5089
+Congo,2010,5072
+Congo,2011,5046
+Congo,2012,5012
+Congo,2013,4969
+C�te d'Ivoire,1960,7351
+C�te d'Ivoire,1961,7427
+C�te d'Ivoire,1962,7501
+C�te d'Ivoire,1963,7572
+C�te d'Ivoire,1964,7639
+C�te d'Ivoire,1965,7701
+C�te d'Ivoire,1966,7757
+C�te d'Ivoire,1967,7806
+C�te d'Ivoire,1968,7849
+C�te d'Ivoire,1969,7883
+C�te d'Ivoire,1970,7908
+C�te d'Ivoire,1971,7927
+C�te d'Ivoire,1972,7937
+C�te d'Ivoire,1973,7940
+C�te d'Ivoire,1974,7934
+C�te d'Ivoire,1975,7916
+C�te d'Ivoire,1976,7884
+C�te d'Ivoire,1977,7837
+C�te d'Ivoire,1978,7774
+C�te d'Ivoire,1979,7695
+C�te d'Ivoire,1980,7602
+C�te d'Ivoire,1981,7497
+C�te d'Ivoire,1982,7383
+C�te d'Ivoire,1983,7263
+C�te d'Ivoire,1984,7139
+C�te d'Ivoire,1985,7013
+C�te d'Ivoire,1986,6884
+C�te d'Ivoire,1987,6752
+C�te d'Ivoire,1988,6619
+C�te d'Ivoire,1989,6486
+C�te d'Ivoire,1990,6356
+C�te d'Ivoire,1991,6232
+C�te d'Ivoire,1992,6114
+C�te d'Ivoire,1993,6005
+C�te d'Ivoire,1994,5904
+C�te d'Ivoire,1995,5810
+C�te d'Ivoire,1996,5720
+C�te d'Ivoire,1997,5633
+C�te d'Ivoire,1998,5547
+C�te d'Ivoire,1999,5460
+C�te d'Ivoire,2000,5375
+C�te d'Ivoire,2001,5289
+C�te d'Ivoire,2002,5207
+C�te d'Ivoire,2003,5130
+C�te d'Ivoire,2004,5060
+C�te d'Ivoire,2005,5000
+C�te d'Ivoire,2006,4956
+C�te d'Ivoire,2007,4928
+C�te d'Ivoire,2008,4913
+C�te d'Ivoire,2009,4909
+C�te d'Ivoire,2010,4910
+C�te d'Ivoire,2011,4907
+C�te d'Ivoire,2012,4894
+C�te d'Ivoire,2013,4866
+Cyprus,1960,3500
+Cyprus,1961,3471
+Cyprus,1962,3421
+Cyprus,1963,3346
+Cyprus,1964,3249
+Cyprus,1965,3133
+Cyprus,1966,3010
+Cyprus,1967,2889
+Cyprus,1968,2779
+Cyprus,1969,2686
+Cyprus,1970,2610
+Cyprus,1971,2547
+Cyprus,1972,2491
+Cyprus,1973,2440
+Cyprus,1974,2393
+Cyprus,1975,2352
+Cyprus,1976,2323
+Cyprus,1977,2310
+Cyprus,1978,2312
+Cyprus,1979,2328
+Cyprus,1980,2354
+Cyprus,1981,2385
+Cyprus,1982,2415
+Cyprus,1983,2438
+Cyprus,1984,2453
+Cyprus,1985,2458
+Cyprus,1986,2456
+Cyprus,1987,2450
+Cyprus,1988,2442
+Cyprus,1989,2430
+Cyprus,1990,2411
+Cyprus,1991,2381
+Cyprus,1992,2337
+Cyprus,1993,2278
+Cyprus,1994,2206
+Cyprus,1995,2124
+Cyprus,1996,2035
+Cyprus,1997,1945
+Cyprus,1998,1860
+Cyprus,1999,1781
+Cyprus,2000,1714
+Cyprus,2001,1658
+Cyprus,2002,1613
+Cyprus,2003,1577
+Cyprus,2004,1549
+Cyprus,2005,1529
+Cyprus,2006,1514
+Cyprus,2007,1503
+Cyprus,2008,1493
+Cyprus,2009,1485
+Cyprus,2010,1478
+Cyprus,2011,1470
+Cyprus,2012,1465
+Cyprus,2013,1461
+Djibouti,1960,6461
+Djibouti,1961,6493
+Djibouti,1962,6527
+Djibouti,1963,6561
+Djibouti,1964,6595
+Djibouti,1965,6629
+Djibouti,1966,6665
+Djibouti,1967,6702
+Djibouti,1968,6739
+Djibouti,1969,6774
+Djibouti,1970,6804
+Djibouti,1971,6826
+Djibouti,1972,6836
+Djibouti,1973,6834
+Djibouti,1974,6817
+Djibouti,1975,6784
+Djibouti,1976,6734
+Djibouti,1977,6671
+Djibouti,1978,6598
+Djibouti,1979,6520
+Djibouti,1980,6443
+Djibouti,1981,6373
+Djibouti,1982,6316
+Djibouti,1983,6271
+Djibouti,1984,6239
+Djibouti,1985,6218
+Djibouti,1986,6205
+Djibouti,1987,6193
+Djibouti,1988,6174
+Djibouti,1989,6142
+Djibouti,1990,6087
+Djibouti,1991,6000
+Djibouti,1992,5879
+Djibouti,1993,5727
+Djibouti,1994,5548
+Djibouti,1995,5352
+Djibouti,1996,5148
+Djibouti,1997,4950
+Djibouti,1998,4768
+Djibouti,1999,4607
+Djibouti,2000,4469
+Djibouti,2001,4353
+Djibouti,2002,4253
+Djibouti,2003,4160
+Djibouti,2004,4074
+Djibouti,2005,3991
+Djibouti,2006,3911
+Djibouti,2007,3832
+Djibouti,2008,3755
+Djibouti,2009,3679
+Djibouti,2010,3604
+Djibouti,2011,3530
+Djibouti,2012,3457
+Djibouti,2013,3387
+Egypt,1960,6630
+Egypt,1961,6605
+Egypt,1962,6570
+Egypt,1963,6526
+Egypt,1964,6471
+Egypt,1965,6405
+Egypt,1966,6327
+Egypt,1967,6238
+Egypt,1968,6141
+Egypt,1969,6040
+Egypt,1970,5940
+Egypt,1971,5846
+Egypt,1972,5763
+Egypt,1973,5692
+Egypt,1974,5633
+Egypt,1975,5585
+Egypt,1976,5545
+Egypt,1977,5507
+Egypt,1978,5465
+Egypt,1979,5418
+Egypt,1980,5366
+Egypt,1981,5310
+Egypt,1982,5251
+Egypt,1983,5189
+Egypt,1984,5123
+Egypt,1985,5045
+Egypt,1986,4947
+Egypt,1987,4827
+Egypt,1988,4684
+Egypt,1989,4522
+Egypt,1990,4350
+Egypt,1991,4179
+Egypt,1992,4018
+Egypt,1993,3876
+Egypt,1994,3757
+Egypt,1995,3659
+Egypt,1996,3579
+Egypt,1997,3508
+Egypt,1998,3440
+Egypt,1999,3372
+Egypt,2000,3306
+Egypt,2001,3242
+Egypt,2002,3184
+Egypt,2003,3134
+Egypt,2004,3091
+Egypt,2005,3053
+Egypt,2006,3020
+Egypt,2007,2987
+Egypt,2008,2954
+Egypt,2009,2919
+Egypt,2010,2883
+Egypt,2011,2845
+Egypt,2012,2807
+Egypt,2013,2770
+Equatorial Guinea,1960,5505
+Equatorial Guinea,1961,5515
+Equatorial Guinea,1962,5529
+Equatorial Guinea,1963,5548
+Equatorial Guinea,1964,5570
+Equatorial Guinea,1965,5595
+Equatorial Guinea,1966,5619
+Equatorial Guinea,1967,5640
+Equatorial Guinea,1968,5658
+Equatorial Guinea,1969,5671
+Equatorial Guinea,1970,5678
+Equatorial Guinea,1971,5681
+Equatorial Guinea,1972,5680
+Equatorial Guinea,1973,5677
+Equatorial Guinea,1974,5675
+Equatorial Guinea,1975,5674
+Equatorial Guinea,1976,5676
+Equatorial Guinea,1977,5682
+Equatorial Guinea,1978,5693
+Equatorial Guinea,1979,5708
+Equatorial Guinea,1980,5728
+Equatorial Guinea,1981,5751
+Equatorial Guinea,1982,5776
+Equatorial Guinea,1983,5802
+Equatorial Guinea,1984,5826
+Equatorial Guinea,1985,5848
+Equatorial Guinea,1986,5866
+Equatorial Guinea,1987,5881
+Equatorial Guinea,1988,5891
+Equatorial Guinea,1989,5897
+Equatorial Guinea,1990,5900
+Equatorial Guinea,1991,5901
+Equatorial Guinea,1992,5902
+Equatorial Guinea,1993,5902
+Equatorial Guinea,1994,5901
+Equatorial Guinea,1995,5897
+Equatorial Guinea,1996,5888
+Equatorial Guinea,1997,5872
+Equatorial Guinea,1998,5847
+Equatorial Guinea,1999,5814
+Equatorial Guinea,2000,5773
+Equatorial Guinea,2001,5727
+Equatorial Guinea,2002,5678
+Equatorial Guinea,2003,5627
+Equatorial Guinea,2004,5574
+Equatorial Guinea,2005,5518
+Equatorial Guinea,2006,5457
+Equatorial Guinea,2007,5390
+Equatorial Guinea,2008,5314
+Equatorial Guinea,2009,5231
+Equatorial Guinea,2010,5140
+Equatorial Guinea,2011,5044
+Equatorial Guinea,2012,4945
+Equatorial Guinea,2013,4845
+Eritrea,1960,6899
+Eritrea,1961,6868
+Eritrea,1962,6837
+Eritrea,1963,6806
+Eritrea,1964,6778
+Eritrea,1965,6752
+Eritrea,1966,6728
+Eritrea,1967,6706
+Eritrea,1968,6686
+Eritrea,1969,6667
+Eritrea,1970,6650
+Eritrea,1971,6637
+Eritrea,1972,6626
+Eritrea,1973,6619
+Eritrea,1974,6615
+Eritrea,1975,6614
+Eritrea,1976,6616
+Eritrea,1977,6619
+Eritrea,1978,6623
+Eritrea,1979,6627
+Eritrea,1980,6628
+Eritrea,1981,6625
+Eritrea,1982,6618
+Eritrea,1983,6607
+Eritrea,1984,6591
+Eritrea,1985,6572
+Eritrea,1986,6553
+Eritrea,1987,6535
+Eritrea,1988,6519
+Eritrea,1989,6504
+Eritrea,1990,6488
+Eritrea,1991,6467
+Eritrea,1992,6438
+Eritrea,1993,6400
+Eritrea,1994,6351
+Eritrea,1995,6293
+Eritrea,1996,6228
+Eritrea,1997,6159
+Eritrea,1998,6088
+Eritrea,1999,6015
+Eritrea,2000,5940
+Eritrea,2001,5860
+Eritrea,2002,5774
+Eritrea,2003,5681
+Eritrea,2004,5582
+Eritrea,2005,5478
+Eritrea,2006,5372
+Eritrea,2007,5266
+Eritrea,2008,5163
+Eritrea,2009,5063
+Eritrea,2010,4968
+Eritrea,2011,4875
+Eritrea,2012,4785
+Eritrea,2013,4696
+Estonia,1960,1980
+Estonia,1961,1980
+Estonia,1962,1950
+Estonia,1963,1890
+Estonia,1964,1940
+Estonia,1965,1880
+Estonia,1966,1870
+Estonia,1967,1900
+Estonia,1968,2030
+Estonia,1969,2130
+Estonia,1970,2170
+Estonia,1971,2190
+Estonia,1972,2130
+Estonia,1973,2060
+Estonia,1974,2070
+Estonia,1975,2040
+Estonia,1976,2070
+Estonia,1977,2060
+Estonia,1978,2020
+Estonia,1979,2000
+Estonia,1980,2020
+Estonia,1981,2070
+Estonia,1982,2070
+Estonia,1983,2160
+Estonia,1984,2170
+Estonia,1985,2130
+Estonia,1986,2180
+Estonia,1987,2270
+Estonia,1988,2270
+Estonia,1989,2220
+Estonia,1990,2050
+Estonia,1991,1800
+Estonia,1992,1710
+Estonia,1993,1490
+Estonia,1994,1420
+Estonia,1995,1380
+Estonia,1996,1370
+Estonia,1997,1320
+Estonia,1998,1280
+Estonia,1999,1300
+Estonia,2000,1360
+Estonia,2001,1320
+Estonia,2002,1360
+Estonia,2003,1370
+Estonia,2004,1470
+Estonia,2005,1520
+Estonia,2006,1580
+Estonia,2007,1690
+Estonia,2008,1720
+Estonia,2009,1700
+Estonia,2010,1720
+Estonia,2011,1610
+Estonia,2012,1560
+Estonia,2013,1560
+Ethiopia,1960,6880
+Ethiopia,1961,6877
+Ethiopia,1962,6875
+Ethiopia,1963,6872
+Ethiopia,1964,6867
+Ethiopia,1965,6864
+Ethiopia,1966,6867
+Ethiopia,1967,6880
+Ethiopia,1968,6903
+Ethiopia,1969,6937
+Ethiopia,1970,6978
+Ethiopia,1971,7020
+Ethiopia,1972,7060
+Ethiopia,1973,7094
+Ethiopia,1974,7121
+Ethiopia,1975,7143
+Ethiopia,1976,7167
+Ethiopia,1977,7195
+Ethiopia,1978,7230
+Ethiopia,1979,7271
+Ethiopia,1980,7316
+Ethiopia,1981,7360
+Ethiopia,1982,7397
+Ethiopia,1983,7424
+Ethiopia,1984,7437
+Ethiopia,1985,7435
+Ethiopia,1986,7418
+Ethiopia,1987,7387
+Ethiopia,1988,7347
+Ethiopia,1989,7298
+Ethiopia,1990,7246
+Ethiopia,1991,7193
+Ethiopia,1992,7143
+Ethiopia,1993,7094
+Ethiopia,1994,7046
+Ethiopia,1995,6995
+Ethiopia,1996,6935
+Ethiopia,1997,6861
+Ethiopia,1998,6769
+Ethiopia,1999,6659
+Ethiopia,2000,6529
+Ethiopia,2001,6380
+Ethiopia,2002,6218
+Ethiopia,2003,6046
+Ethiopia,2004,5870
+Ethiopia,2005,5693
+Ethiopia,2006,5520
+Ethiopia,2007,5353
+Ethiopia,2008,5193
+Ethiopia,2009,5043
+Ethiopia,2010,4902
+Ethiopia,2011,4769
+Ethiopia,2012,4642
+Ethiopia,2013,4519
+Gabon,1960,4384
+Gabon,1961,4462
+Gabon,1962,4541
+Gabon,1963,4619
+Gabon,1964,4694
+Gabon,1965,4766
+Gabon,1966,4834
+Gabon,1967,4899
+Gabon,1968,4961
+Gabon,1969,5021
+Gabon,1970,5081
+Gabon,1971,5143
+Gabon,1972,5208
+Gabon,1973,5275
+Gabon,1974,5343
+Gabon,1975,5412
+Gabon,1976,5480
+Gabon,1977,5543
+Gabon,1978,5600
+Gabon,1979,5648
+Gabon,1980,5684
+Gabon,1981,5709
+Gabon,1982,5722
+Gabon,1983,5723
+Gabon,1984,5712
+Gabon,1985,5689
+Gabon,1986,5654
+Gabon,1987,5609
+Gabon,1988,5554
+Gabon,1989,5491
+Gabon,1990,5421
+Gabon,1991,5343
+Gabon,1992,5259
+Gabon,1993,5170
+Gabon,1994,5078
+Gabon,1995,4987
+Gabon,1996,4898
+Gabon,1997,4814
+Gabon,1998,4735
+Gabon,1999,4664
+Gabon,2000,4600
+Gabon,2001,4544
+Gabon,2002,4494
+Gabon,2003,4449
+Gabon,2004,4408
+Gabon,2005,4370
+Gabon,2006,4335
+Gabon,2007,4304
+Gabon,2008,4275
+Gabon,2009,4246
+Gabon,2010,4214
+Gabon,2011,4178
+Gabon,2012,4136
+Gabon,2013,4087
+"Gambia, The",1960,5573
+"Gambia, The",1961,5621
+"Gambia, The",1962,5672
+"Gambia, The",1963,5723
+"Gambia, The",1964,5776
+"Gambia, The",1965,5830
+"Gambia, The",1966,5884
+"Gambia, The",1967,5938
+"Gambia, The",1968,5991
+"Gambia, The",1969,6043
+"Gambia, The",1970,6093
+"Gambia, The",1971,6141
+"Gambia, The",1972,6185
+"Gambia, The",1973,6226
+"Gambia, The",1974,6262
+"Gambia, The",1975,6293
+"Gambia, The",1976,6316
+"Gambia, The",1977,6333
+"Gambia, The",1978,6342
+"Gambia, The",1979,6343
+"Gambia, The",1980,6337
+"Gambia, The",1981,6323
+"Gambia, The",1982,6303
+"Gambia, The",1983,6277
+"Gambia, The",1984,6248
+"Gambia, The",1985,6219
+"Gambia, The",1986,6190
+"Gambia, The",1987,6164
+"Gambia, The",1988,6141
+"Gambia, The",1989,6123
+"Gambia, The",1990,6107
+"Gambia, The",1991,6095
+"Gambia, The",1992,6083
+"Gambia, The",1993,6070
+"Gambia, The",1994,6056
+"Gambia, The",1995,6039
+"Gambia, The",1996,6018
+"Gambia, The",1997,5995
+"Gambia, The",1998,5970
+"Gambia, The",1999,5944
+"Gambia, The",2000,5917
+"Gambia, The",2001,5891
+"Gambia, The",2002,5867
+"Gambia, The",2003,5845
+"Gambia, The",2004,5827
+"Gambia, The",2005,5812
+"Gambia, The",2006,5803
+"Gambia, The",2007,5799
+"Gambia, The",2008,5798
+"Gambia, The",2009,5798
+"Gambia, The",2010,5796
+"Gambia, The",2011,5789
+"Gambia, The",2012,5775
+"Gambia, The",2013,5751
+Ghana,1960,6749
+Ghana,1961,6789
+Ghana,1962,6827
+Ghana,1963,6862
+Ghana,1964,6893
+Ghana,1965,6918
+Ghana,1966,6937
+Ghana,1967,6950
+Ghana,1968,6957
+Ghana,1969,6957
+Ghana,1970,6950
+Ghana,1971,6936
+Ghana,1972,6915
+Ghana,1973,6888
+Ghana,1974,6855
+Ghana,1975,6815
+Ghana,1976,6771
+Ghana,1977,6721
+Ghana,1978,6665
+Ghana,1979,6605
+Ghana,1980,6539
+Ghana,1981,6468
+Ghana,1982,6392
+Ghana,1983,6310
+Ghana,1984,6223
+Ghana,1985,6131
+Ghana,1986,6035
+Ghana,1987,5935
+Ghana,1988,5831
+Ghana,1989,5725
+Ghana,1990,5616
+Ghana,1991,5505
+Ghana,1992,5392
+Ghana,1993,5278
+Ghana,1994,5165
+Ghana,1995,5058
+Ghana,1996,4959
+Ghana,1997,4870
+Ghana,1998,4793
+Ghana,1999,4727
+Ghana,2000,4669
+Ghana,2001,4617
+Ghana,2002,4566
+Ghana,2003,4512
+Ghana,2004,4455
+Ghana,2005,4392
+Ghana,2006,4326
+Ghana,2007,4257
+Ghana,2008,4188
+Ghana,2009,4119
+Ghana,2010,4052
+Ghana,2011,3985
+Ghana,2012,3920
+Ghana,2013,3857
+Grenada,1960,6743
+Grenada,1961,6627
+Grenada,1962,6442
+Grenada,1963,6196
+Grenada,1964,5906
+Grenada,1965,5597
+Grenada,1966,5300
+Grenada,1967,5040
+Grenada,1968,4835
+Grenada,1969,4690
+Grenada,1970,4604
+Grenada,1971,4561
+Grenada,1972,4537
+Grenada,1973,4512
+Grenada,1974,4479
+Grenada,1975,4436
+Grenada,1976,4385
+Grenada,1977,4337
+Grenada,1978,4299
+Grenada,1979,4269
+Grenada,1980,4251
+Grenada,1981,4244
+Grenada,1982,4243
+Grenada,1983,4245
+Grenada,1984,4243
+Grenada,1985,4231
+Grenada,1986,4200
+Grenada,1987,4146
+Grenada,1988,4068
+Grenada,1989,3966
+Grenada,1990,3842
+Grenada,1991,3701
+Grenada,1992,3551
+Grenada,1993,3401
+Grenada,1994,3254
+Grenada,1995,3116
+Grenada,1996,2988
+Grenada,1997,2870
+Grenada,1998,2762
+Grenada,1999,2666
+Grenada,2000,2582
+Grenada,2001,2512
+Grenada,2002,2455
+Grenada,2003,2409
+Grenada,2004,2373
+Grenada,2005,2344
+Grenada,2006,2321
+Grenada,2007,2301
+Grenada,2008,2282
+Grenada,2009,2262
+Grenada,2010,2240
+Grenada,2011,2217
+Grenada,2012,2194
+Grenada,2013,2170
+Guinea,1960,6102
+Guinea,1961,6113
+Guinea,1962,6121
+Guinea,1963,6127
+Guinea,1964,6131
+Guinea,1965,6135
+Guinea,1966,6140
+Guinea,1967,6147
+Guinea,1968,6158
+Guinea,1969,6174
+Guinea,1970,6195
+Guinea,1971,6221
+Guinea,1972,6250
+Guinea,1973,6283
+Guinea,1974,6318
+Guinea,1975,6354
+Guinea,1976,6391
+Guinea,1977,6428
+Guinea,1978,6465
+Guinea,1979,6500
+Guinea,1980,6533
+Guinea,1981,6563
+Guinea,1982,6590
+Guinea,1983,6613
+Guinea,1984,6630
+Guinea,1985,6641
+Guinea,1986,6645
+Guinea,1987,6641
+Guinea,1988,6629
+Guinea,1989,6608
+Guinea,1990,6579
+Guinea,1991,6539
+Guinea,1992,6492
+Guinea,1993,6436
+Guinea,1994,6375
+Guinea,1995,6308
+Guinea,1996,6237
+Guinea,1997,6163
+Guinea,1998,6089
+Guinea,1999,6014
+Guinea,2000,5939
+Guinea,2001,5866
+Guinea,2002,5794
+Guinea,2003,5722
+Guinea,2004,5649
+Guinea,2005,5576
+Guinea,2006,5501
+Guinea,2007,5423
+Guinea,2008,5343
+Guinea,2009,5260
+Guinea,2010,5174
+Guinea,2011,5088
+Guinea,2012,5001
+Guinea,2013,4915
+Guinea-Bissau,1960,5828
+Guinea-Bissau,1961,5771
+Guinea-Bissau,1962,5670
+Guinea-Bissau,1963,5515
+Guinea-Bissau,1964,5320
+Guinea-Bissau,1965,5139
+Guinea-Bissau,1966,5045
+Guinea-Bissau,1967,5091
+Guinea-Bissau,1968,5296
+Guinea-Bissau,1969,5643
+Guinea-Bissau,1970,6071
+Guinea-Bissau,1971,6489
+Guinea-Bissau,1972,6812
+Guinea-Bissau,1973,6984
+Guinea-Bissau,1974,6993
+Guinea-Bissau,1975,6866
+Guinea-Bissau,1976,6662
+Guinea-Bissau,1977,6463
+Guinea-Bissau,1978,6330
+Guinea-Bissau,1979,6283
+Guinea-Bissau,1980,6322
+Guinea-Bissau,1981,6423
+Guinea-Bissau,1982,6542
+Guinea-Bissau,1983,6642
+Guinea-Bissau,1984,6710
+Guinea-Bissau,1985,6743
+Guinea-Bissau,1986,6743
+Guinea-Bissau,1987,6728
+Guinea-Bissau,1988,6706
+Guinea-Bissau,1989,6680
+Guinea-Bissau,1990,6649
+Guinea-Bissau,1991,6608
+Guinea-Bissau,1992,6554
+Guinea-Bissau,1993,6486
+Guinea-Bissau,1994,6404
+Guinea-Bissau,1995,6311
+Guinea-Bissau,1996,6214
+Guinea-Bissau,1997,6115
+Guinea-Bissau,1998,6019
+Guinea-Bissau,1999,5929
+Guinea-Bissau,2000,5845
+Guinea-Bissau,2001,5766
+Guinea-Bissau,2002,5690
+Guinea-Bissau,2003,5614
+Guinea-Bissau,2004,5539
+Guinea-Bissau,2005,5463
+Guinea-Bissau,2006,5389
+Guinea-Bissau,2007,5317
+Guinea-Bissau,2008,5247
+Guinea-Bissau,2009,5180
+Guinea-Bissau,2010,5115
+Guinea-Bissau,2011,5052
+Guinea-Bissau,2012,4989
+Guinea-Bissau,2013,4927
+Guyana,1960,5671
+Guyana,1961,5578
+Guyana,1962,5485
+Guyana,1963,5401
+Guyana,1964,5329
+Guyana,1965,5272
+Guyana,1966,5228
+Guyana,1967,5190
+Guyana,1968,5152
+Guyana,1969,5112
+Guyana,1970,5068
+Guyana,1971,5022
+Guyana,1972,4974
+Guyana,1973,4919
+Guyana,1974,4852
+Guyana,1975,4758
+Guyana,1976,4621
+Guyana,1977,4435
+Guyana,1978,4204
+Guyana,1979,3935
+Guyana,1980,3646
+Guyana,1981,3360
+Guyana,1982,3099
+Guyana,1983,2881
+Guyana,1984,2714
+Guyana,1985,2600
+Guyana,1986,2534
+Guyana,1987,2499
+Guyana,1988,2480
+Guyana,1989,2471
+Guyana,1990,2467
+Guyana,1991,2465
+Guyana,1992,2467
+Guyana,1993,2473
+Guyana,1994,2482
+Guyana,1995,2493
+Guyana,1996,2505
+Guyana,1997,2521
+Guyana,1998,2540
+Guyana,1999,2561
+Guyana,2000,2585
+Guyana,2001,2614
+Guyana,2002,2645
+Guyana,2003,2678
+Guyana,2004,2709
+Guyana,2005,2735
+Guyana,2006,2751
+Guyana,2007,2754
+Guyana,2008,2743
+Guyana,2009,2718
+Guyana,2010,2682
+Guyana,2011,2638
+Guyana,2012,2591
+Guyana,2013,2546
+Kenya,1960,7946
+Kenya,1961,7998
+Kenya,1962,8042
+Kenya,1963,8078
+Kenya,1964,8103
+Kenya,1965,8119
+Kenya,1966,8126
+Kenya,1967,8125
+Kenya,1968,8117
+Kenya,1969,8103
+Kenya,1970,8081
+Kenya,1971,8051
+Kenya,1972,8012
+Kenya,1973,7963
+Kenya,1974,7905
+Kenya,1975,7840
+Kenya,1976,7769
+Kenya,1977,7695
+Kenya,1978,7618
+Kenya,1979,7538
+Kenya,1980,7455
+Kenya,1981,7366
+Kenya,1982,7270
+Kenya,1983,7165
+Kenya,1984,7049
+Kenya,1985,6918
+Kenya,1986,6769
+Kenya,1987,6602
+Kenya,1988,6422
+Kenya,1989,6231
+Kenya,1990,6037
+Kenya,1991,5847
+Kenya,1992,5668
+Kenya,1993,5506
+Kenya,1994,5366
+Kenya,1995,5251
+Kenya,1996,5165
+Kenya,1997,5102
+Kenya,1998,5059
+Kenya,1999,5030
+Kenya,2000,5012
+Kenya,2001,5001
+Kenya,2002,4990
+Kenya,2003,4976
+Kenya,2004,4955
+Kenya,2005,4923
+Kenya,2006,4879
+Kenya,2007,4824
+Kenya,2008,4761
+Kenya,2009,4691
+Kenya,2010,4616
+Kenya,2011,4538
+Kenya,2012,4459
+Kenya,2013,4382
+Kiribati,1960,6953
+Kiribati,1961,7012
+Kiribati,1962,7077
+Kiribati,1963,7143
+Kiribati,1964,7201
+Kiribati,1965,7221
+Kiribati,1966,7165
+Kiribati,1967,7013
+Kiribati,1968,6763
+Kiribati,1969,6431
+Kiribati,1970,6051
+Kiribati,1971,5674
+Kiribati,1972,5346
+Kiribati,1973,5103
+Kiribati,1974,4957
+Kiribati,1975,4904
+Kiribati,1976,4925
+Kiribati,1977,4978
+Kiribati,1978,5029
+Kiribati,1979,5064
+Kiribati,1980,5073
+Kiribati,1981,5053
+Kiribati,1982,5015
+Kiribati,1983,4967
+Kiribati,1984,4912
+Kiribati,1985,4855
+Kiribati,1986,4799
+Kiribati,1987,4748
+Kiribati,1988,4704
+Kiribati,1989,4666
+Kiribati,1990,4632
+Kiribati,1991,4601
+Kiribati,1992,4568
+Kiribati,1993,4527
+Kiribati,1994,4476
+Kiribati,1995,4412
+Kiribati,1996,4331
+Kiribati,1997,4235
+Kiribati,1998,4126
+Kiribati,1999,4006
+Kiribati,2000,3881
+Kiribati,2001,3754
+Kiribati,2002,3631
+Kiribati,2003,3516
+Kiribati,2004,3413
+Kiribati,2005,3324
+Kiribati,2006,3249
+Kiribati,2007,3186
+Kiribati,2008,3133
+Kiribati,2009,3087
+Kiribati,2010,3048
+Kiribati,2011,3014
+Kiribati,2012,2982
+Kiribati,2013,2952
+Lesotho,1960,5839
+Lesotho,1961,5829
+Lesotho,1962,5820
+Lesotho,1963,5812
+Lesotho,1964,5806
+Lesotho,1965,5802
+Lesotho,1966,5801
+Lesotho,1967,5803
+Lesotho,1968,5805
+Lesotho,1969,5807
+Lesotho,1970,5808
+Lesotho,1971,5807
+Lesotho,1972,5802
+Lesotho,1973,5794
+Lesotho,1974,5780
+Lesotho,1975,5761
+Lesotho,1976,5736
+Lesotho,1977,5706
+Lesotho,1978,5672
+Lesotho,1979,5633
+Lesotho,1980,5589
+Lesotho,1981,5542
+Lesotho,1982,5491
+Lesotho,1983,5436
+Lesotho,1984,5377
+Lesotho,1985,5313
+Lesotho,1986,5244
+Lesotho,1987,5169
+Lesotho,1988,5088
+Lesotho,1989,5004
+Lesotho,1990,4919
+Lesotho,1991,4837
+Lesotho,1992,4759
+Lesotho,1993,4686
+Lesotho,1994,4617
+Lesotho,1995,4548
+Lesotho,1996,4475
+Lesotho,1997,4394
+Lesotho,1998,4302
+Lesotho,1999,4200
+Lesotho,2000,4089
+Lesotho,2001,3975
+Lesotho,2002,3862
+Lesotho,2003,3754
+Lesotho,2004,3654
+Lesotho,2005,3562
+Lesotho,2006,3480
+Lesotho,2007,3405
+Lesotho,2008,3335
+Lesotho,2009,3269
+Lesotho,2010,3207
+Lesotho,2011,3148
+Lesotho,2012,3092
+Lesotho,2013,3038
+Liberia,1960,6406
+Liberia,1961,6429
+Liberia,1962,6453
+Liberia,1963,6476
+Liberia,1964,6500
+Liberia,1965,6524
+Liberia,1966,6552
+Liberia,1967,6583
+Liberia,1968,6617
+Liberia,1969,6655
+Liberia,1970,6695
+Liberia,1971,6736
+Liberia,1972,6777
+Liberia,1973,6815
+Liberia,1974,6849
+Liberia,1975,6880
+Liberia,1976,6907
+Liberia,1977,6930
+Liberia,1978,6950
+Liberia,1979,6964
+Liberia,1980,6973
+Liberia,1981,6973
+Liberia,1982,6964
+Liberia,1983,6946
+Liberia,1984,6917
+Liberia,1985,6875
+Liberia,1986,6820
+Liberia,1987,6752
+Liberia,1988,6673
+Liberia,1989,6587
+Liberia,1990,6499
+Liberia,1991,6414
+Liberia,1992,6336
+Liberia,1993,6267
+Liberia,1994,6208
+Liberia,1995,6156
+Liberia,1996,6109
+Liberia,1997,6061
+Liberia,1998,6008
+Liberia,1999,5948
+Liberia,2000,5880
+Liberia,2001,5804
+Liberia,2002,5722
+Liberia,2003,5635
+Liberia,2004,5547
+Liberia,2005,5456
+Liberia,2006,5366
+Liberia,2007,5277
+Liberia,2008,5190
+Liberia,2009,5106
+Liberia,2010,5024
+Liberia,2011,4945
+Liberia,2012,4868
+Liberia,2013,4792
+Libya,1960,7536
+Libya,1961,7571
+Libya,1962,7607
+Libya,1963,7642
+Libya,1964,7676
+Libya,1965,7710
+Libya,1966,7743
+Libya,1967,7776
+Libya,1968,7808
+Libya,1969,7838
+Libya,1970,7867
+Libya,1971,7898
+Libya,1972,7929
+Libya,1973,7957
+Libya,1974,7979
+Libya,1975,7992
+Libya,1976,7992
+Libya,1977,7976
+Libya,1978,7939
+Libya,1979,7873
+Libya,1980,7769
+Libya,1981,7619
+Libya,1982,7422
+Libya,1983,7179
+Libya,1984,6897
+Libya,1985,6584
+Libya,1986,6252
+Libya,1987,5913
+Libya,1988,5581
+Libya,1989,5263
+Libya,1990,4966
+Libya,1991,4688
+Libya,1992,4426
+Libya,1993,4178
+Libya,1994,3945
+Libya,1995,3732
+Libya,1996,3544
+Libya,1997,3383
+Libya,1998,3248
+Libya,1999,3139
+Libya,2000,3052
+Libya,2001,2984
+Libya,2002,2929
+Libya,2003,2882
+Libya,2004,2836
+Libya,2005,2790
+Libya,2006,2741
+Libya,2007,2690
+Libya,2008,2637
+Libya,2009,2582
+Libya,2010,2525
+Libya,2011,2467
+Libya,2012,2410
+Libya,2013,2356
+Madagascar,1960,7300
+Madagascar,1961,7300
+Madagascar,1962,7300
+Madagascar,1963,7300
+Madagascar,1964,7300
+Madagascar,1965,7301
+Madagascar,1966,7304
+Madagascar,1967,7310
+Madagascar,1968,7316
+Madagascar,1969,7322
+Madagascar,1970,7325
+Madagascar,1971,7325
+Madagascar,1972,7318
+Madagascar,1973,7300
+Madagascar,1974,7269
+Madagascar,1975,7216
+Madagascar,1976,7129
+Madagascar,1977,7008
+Madagascar,1978,6857
+Madagascar,1979,6687
+Madagascar,1980,6514
+Madagascar,1981,6359
+Madagascar,1982,6240
+Madagascar,1983,6165
+Madagascar,1984,6135
+Madagascar,1985,6146
+Madagascar,1986,6182
+Madagascar,1987,6225
+Madagascar,1988,6256
+Madagascar,1989,6268
+Madagascar,1990,6258
+Madagascar,1991,6225
+Madagascar,1992,6179
+Madagascar,1993,6126
+Madagascar,1994,6066
+Madagascar,1995,5999
+Madagascar,1996,5924
+Madagascar,1997,5841
+Madagascar,1998,5749
+Madagascar,1999,5651
+Madagascar,2000,5548
+Madagascar,2001,5443
+Madagascar,2002,5337
+Madagascar,2003,5233
+Madagascar,2004,5133
+Madagascar,2005,5039
+Madagascar,2006,4952
+Madagascar,2007,4870
+Madagascar,2008,4794
+Madagascar,2009,4722
+Madagascar,2010,4654
+Madagascar,2011,4590
+Madagascar,2012,4528
+Madagascar,2013,4468
+Malawi,1960,6913
+Malawi,1961,6946
+Malawi,1962,6983
+Malawi,1963,7021
+Malawi,1964,7060
+Malawi,1965,7101
+Malawi,1966,7141
+Malawi,1967,7182
+Malawi,1968,7222
+Malawi,1969,7263
+Malawi,1970,7304
+Malawi,1971,7346
+Malawi,1972,7389
+Malawi,1973,7433
+Malawi,1974,7477
+Malawi,1975,7518
+Malawi,1976,7555
+Malawi,1977,7584
+Malawi,1978,7605
+Malawi,1979,7617
+Malawi,1980,7621
+Malawi,1981,7619
+Malawi,1982,7613
+Malawi,1983,7601
+Malawi,1984,7583
+Malawi,1985,7549
+Malawi,1986,7490
+Malawi,1987,7402
+Malawi,1988,7287
+Malawi,1989,7148
+Malawi,1990,6997
+Malawi,1991,6850
+Malawi,1992,6719
+Malawi,1993,6614
+Malawi,1994,6536
+Malawi,1995,6483
+Malawi,1996,6446
+Malawi,1997,6411
+Malawi,1998,6369
+Malawi,1999,6317
+Malawi,2000,6254
+Malawi,2001,6186
+Malawi,2002,6119
+Malawi,2003,6058
+Malawi,2004,6002
+Malawi,2005,5950
+Malawi,2006,5899
+Malawi,2007,5843
+Malawi,2008,5781
+Malawi,2009,5712
+Malawi,2010,5636
+Malawi,2011,5554
+Malawi,2012,5471
+Malawi,2013,5389
+Maldives,1960,7021
+Maldives,1961,7075
+Maldives,1962,7118
+Maldives,1963,7152
+Maldives,1964,7179
+Maldives,1965,7201
+Maldives,1966,7218
+Maldives,1967,7231
+Maldives,1968,7237
+Maldives,1969,7237
+Maldives,1970,7227
+Maldives,1971,7201
+Maldives,1972,7159
+Maldives,1973,7103
+Maldives,1974,7040
+Maldives,1975,6981
+Maldives,1976,6941
+Maldives,1977,6931
+Maldives,1978,6953
+Maldives,1979,7002
+Maldives,1980,7071
+Maldives,1981,7146
+Maldives,1982,7210
+Maldives,1983,7245
+Maldives,1984,7240
+Maldives,1985,7183
+Maldives,1986,7064
+Maldives,1987,6888
+Maldives,1988,6664
+Maldives,1989,6397
+Maldives,1990,6099
+Maldives,1991,5783
+Maldives,1992,5461
+Maldives,1993,5146
+Maldives,1994,4845
+Maldives,1995,4560
+Maldives,1996,4289
+Maldives,1997,4024
+Maldives,1998,3763
+Maldives,1999,3510
+Maldives,2000,3271
+Maldives,2001,3055
+Maldives,2002,2869
+Maldives,2003,2715
+Maldives,2004,2596
+Maldives,2005,2508
+Maldives,2006,2449
+Maldives,2007,2410
+Maldives,2008,2382
+Maldives,2009,2360
+Maldives,2010,2339
+Maldives,2011,2314
+Maldives,2012,2287
+Maldives,2013,2256
+Mali,1960,6703
+Mali,1961,6725
+Mali,1962,6747
+Mali,1963,6770
+Mali,1964,6793
+Mali,1965,6816
+Mali,1966,6838
+Mali,1967,6858
+Mali,1968,6875
+Mali,1969,6889
+Mali,1970,6901
+Mali,1971,6913
+Mali,1972,6924
+Mali,1973,6937
+Mali,1974,6951
+Mali,1975,6966
+Mali,1976,6982
+Mali,1977,6999
+Mali,1978,7016
+Mali,1979,7031
+Mali,1980,7046
+Mali,1981,7059
+Mali,1982,7070
+Mali,1983,7080
+Mali,1984,7088
+Mali,1985,7093
+Mali,1986,7095
+Mali,1987,7092
+Mali,1988,7086
+Mali,1989,7076
+Mali,1990,7062
+Mali,1991,7044
+Mali,1992,7023
+Mali,1993,6999
+Mali,1994,6973
+Mali,1995,6947
+Mali,1996,6921
+Mali,1997,6896
+Mali,1998,6873
+Mali,1999,6853
+Mali,2000,6836
+Mali,2001,6822
+Mali,2002,6811
+Mali,2003,6803
+Mali,2004,6797
+Mali,2005,6796
+Mali,2006,6799
+Mali,2007,6806
+Mali,2008,6817
+Mali,2009,6830
+Mali,2010,6841
+Mali,2011,6850
+Mali,2012,6852
+Mali,2013,6847
+Marshall Islands,1960,
+Marshall Islands,1961,
+Marshall Islands,1962,
+Marshall Islands,1963,
+Marshall Islands,1964,
+Marshall Islands,1965,
+Marshall Islands,1966,
+Marshall Islands,1967,
+Marshall Islands,1968,
+Marshall Islands,1969,
+Marshall Islands,1970,
+Marshall Islands,1971,
+Marshall Islands,1972,
+Marshall Islands,1973,
+Marshall Islands,1974,
+Marshall Islands,1975,
+Marshall Islands,1976,
+Marshall Islands,1977,
+Marshall Islands,1978,
+Marshall Islands,1979,
+Marshall Islands,1980,
+Marshall Islands,1981,
+Marshall Islands,1982,
+Marshall Islands,1983,
+Marshall Islands,1984,
+Marshall Islands,1985,
+Marshall Islands,1986,
+Marshall Islands,1987,5900
+Marshall Islands,1988,
+Marshall Islands,1989,
+Marshall Islands,1990,
+Marshall Islands,1991,
+Marshall Islands,1992,
+Marshall Islands,1993,
+Marshall Islands,1994,
+Marshall Islands,1995,
+Marshall Islands,1996,
+Marshall Islands,1997,
+Marshall Islands,1998,
+Marshall Islands,1999,5710
+Marshall Islands,2000,
+Marshall Islands,2001,
+Marshall Islands,2002,
+Marshall Islands,2003,
+Marshall Islands,2004,
+Marshall Islands,2005,4500
+Marshall Islands,2006,4500
+Marshall Islands,2007,4500
+Marshall Islands,2008,
+Marshall Islands,2009,
+Marshall Islands,2010,
+Marshall Islands,2011,4050
+Marshall Islands,2012,
+Marshall Islands,2013,
+Mauritania,1960,6775
+Mauritania,1961,6787
+Mauritania,1962,6794
+Mauritania,1963,6798
+Mauritania,1964,6799
+Mauritania,1965,6799
+Mauritania,1966,6798
+Mauritania,1967,6798
+Mauritania,1968,6795
+Mauritania,1969,6791
+Mauritania,1970,6784
+Mauritania,1971,6774
+Mauritania,1972,6759
+Mauritania,1973,6739
+Mauritania,1974,6713
+Mauritania,1975,6681
+Mauritania,1976,6641
+Mauritania,1977,6594
+Mauritania,1978,6541
+Mauritania,1979,6484
+Mauritania,1980,6426
+Mauritania,1981,6368
+Mauritania,1982,6314
+Mauritania,1983,6264
+Mauritania,1984,6219
+Mauritania,1985,6178
+Mauritania,1986,6141
+Mauritania,1987,6104
+Mauritania,1988,6065
+Mauritania,1989,6023
+Mauritania,1990,5978
+Mauritania,1991,5928
+Mauritania,1992,5875
+Mauritania,1993,5818
+Mauritania,1994,5758
+Mauritania,1995,5696
+Mauritania,1996,5633
+Mauritania,1997,5569
+Mauritania,1998,5505
+Mauritania,1999,5442
+Mauritania,2000,5381
+Mauritania,2001,5321
+Mauritania,2002,5263
+Mauritania,2003,5205
+Mauritania,2004,5150
+Mauritania,2005,5095
+Mauritania,2006,5042
+Mauritania,2007,4990
+Mauritania,2008,4939
+Mauritania,2009,4888
+Mauritania,2010,4837
+Mauritania,2011,4783
+Mauritania,2012,4728
+Mauritania,2013,4670
+Mauritius,1960,6167
+Mauritius,1961,6178
+Mauritius,1962,6124
+Mauritius,1963,5993
+Mauritius,1964,5785
+Mauritius,1965,5510
+Mauritius,1966,5187
+Mauritius,1967,4847
+Mauritius,1968,4516
+Mauritius,1969,4213
+Mauritius,1970,3952
+Mauritius,1971,3741
+Mauritius,1972,3575
+Mauritius,1973,3444
+Mauritius,1974,3341
+Mauritius,1975,3255
+Mauritius,1976,3169
+Mauritius,1977,3071
+Mauritius,1978,2954
+Mauritius,1979,2818
+Mauritius,1980,2672
+Mauritius,1981,2532
+Mauritius,1982,2412
+Mauritius,1983,2325
+Mauritius,1984,2160
+Mauritius,1985,2020
+Mauritius,1986,1990
+Mauritius,1987,2050
+Mauritius,1988,2140
+Mauritius,1989,2230
+Mauritius,1990,2320
+Mauritius,1991,2300
+Mauritius,1992,2370
+Mauritius,1993,2210
+Mauritius,1994,2250
+Mauritius,1995,2140
+Mauritius,1996,2120
+Mauritius,1997,2040
+Mauritius,1998,1970
+Mauritius,1999,2050
+Mauritius,2000,1990
+Mauritius,2001,1910
+Mauritius,2002,1940
+Mauritius,2003,1870
+Mauritius,2004,1920
+Mauritius,2005,1880
+Mauritius,2006,1770
+Mauritius,2007,1740
+Mauritius,2008,1670
+Mauritius,2009,1590
+Mauritius,2010,1570
+Mauritius,2011,1550
+Mauritius,2012,1540
+Mauritius,2013,1440
+Moldova,1960,3328
+Moldova,1961,3259
+Moldova,1962,3178
+Moldova,1963,3086
+Moldova,1964,2989
+Moldova,1965,2891
+Moldova,1966,2801
+Moldova,1967,2722
+Moldova,1968,2660
+Moldova,1969,2613
+Moldova,1970,2582
+Moldova,1971,2560
+Moldova,1972,2542
+Moldova,1973,2523
+Moldova,1974,2503
+Moldova,1975,2483
+Moldova,1976,2465
+Moldova,1977,2455
+Moldova,1978,2454
+Moldova,1979,2462
+Moldova,1980,2481
+Moldova,1981,2510
+Moldova,1982,2546
+Moldova,1983,2585
+Moldova,1984,2620
+Moldova,1985,2643
+Moldova,1986,2646
+Moldova,1987,2625
+Moldova,1988,2578
+Moldova,1989,2506
+Moldova,1990,2413
+Moldova,1991,2305
+Moldova,1992,2191
+Moldova,1993,2079
+Moldova,1994,1975
+Moldova,1995,1882
+Moldova,1996,1801
+Moldova,1997,1730
+Moldova,1998,1667
+Moldova,1999,1613
+Moldova,2000,1568
+Moldova,2001,1535
+Moldova,2002,1511
+Moldova,2003,1497
+Moldova,2004,1489
+Moldova,2005,1487
+Moldova,2006,1487
+Moldova,2007,1488
+Moldova,2008,1487
+Moldova,2009,1483
+Moldova,2010,1477
+Moldova,2011,1469
+Moldova,2012,1462
+Moldova,2013,1456
+Morocco,1960,7065
+Morocco,1961,7106
+Morocco,1962,7131
+Morocco,1963,7135
+Morocco,1964,7119
+Morocco,1965,7081
+Morocco,1966,7024
+Morocco,1967,6953
+Morocco,1968,6871
+Morocco,1969,6781
+Morocco,1970,6687
+Morocco,1971,6588
+Morocco,1972,6485
+Morocco,1973,6380
+Morocco,1974,6273
+Morocco,1975,6168
+Morocco,1976,6067
+Morocco,1977,5970
+Morocco,1978,5876
+Morocco,1979,5782
+Morocco,1980,5682
+Morocco,1981,5570
+Morocco,1982,5439
+Morocco,1983,5290
+Morocco,1984,5123
+Morocco,1985,4942
+Morocco,1986,4754
+Morocco,1987,4567
+Morocco,1988,4387
+Morocco,1989,4217
+Morocco,1990,4058
+Morocco,1991,3905
+Morocco,1992,3755
+Morocco,1993,3606
+Morocco,1994,3457
+Morocco,1995,3310
+Morocco,1996,3167
+Morocco,1997,3033
+Morocco,1998,2909
+Morocco,1999,2797
+Morocco,2000,2698
+Morocco,2001,2611
+Morocco,2002,2535
+Morocco,2003,2470
+Morocco,2004,2418
+Morocco,2005,2385
+Morocco,2006,2377
+Morocco,2007,2398
+Morocco,2008,2443
+Morocco,2009,2509
+Morocco,2010,2583
+Morocco,2011,2652
+Morocco,2012,2706
+Morocco,2013,2735
+Mozambique,1960,6600
+Mozambique,1961,6600
+Mozambique,1962,6601
+Mozambique,1963,6601
+Mozambique,1964,6602
+Mozambique,1965,6602
+Mozambique,1966,6602
+Mozambique,1967,6601
+Mozambique,1968,6599
+Mozambique,1969,6596
+Mozambique,1970,6591
+Mozambique,1971,6586
+Mozambique,1972,6580
+Mozambique,1973,6572
+Mozambique,1974,6564
+Mozambique,1975,6554
+Mozambique,1976,6544
+Mozambique,1977,6532
+Mozambique,1978,6519
+Mozambique,1979,6505
+Mozambique,1980,6490
+Mozambique,1981,6474
+Mozambique,1982,6457
+Mozambique,1983,6439
+Mozambique,1984,6420
+Mozambique,1985,6398
+Mozambique,1986,6373
+Mozambique,1987,6345
+Mozambique,1988,6313
+Mozambique,1989,6277
+Mozambique,1990,6237
+Mozambique,1991,6191
+Mozambique,1992,6140
+Mozambique,1993,6086
+Mozambique,1994,6031
+Mozambique,1995,5976
+Mozambique,1996,5925
+Mozambique,1997,5880
+Mozambique,1998,5840
+Mozambique,1999,5808
+Mozambique,2000,5782
+Mozambique,2001,5760
+Mozambique,2002,5741
+Mozambique,2003,5721
+Mozambique,2004,5697
+Mozambique,2005,5669
+Mozambique,2006,5632
+Mozambique,2007,5588
+Mozambique,2008,5536
+Mozambique,2009,5476
+Mozambique,2010,5409
+Mozambique,2011,5338
+Mozambique,2012,5263
+Mozambique,2013,5188
+Namibia,1960,6150
+Namibia,1961,6167
+Namibia,1962,6184
+Namibia,1963,6199
+Namibia,1964,6216
+Namibia,1965,6236
+Namibia,1966,6263
+Namibia,1967,6301
+Namibia,1968,6347
+Namibia,1969,6401
+Namibia,1970,6459
+Namibia,1971,6517
+Namibia,1972,6570
+Namibia,1973,6613
+Namibia,1974,6642
+Namibia,1975,6654
+Namibia,1976,6647
+Namibia,1977,6622
+Namibia,1978,6581
+Namibia,1979,6524
+Namibia,1980,6451
+Namibia,1981,6362
+Namibia,1982,6259
+Namibia,1983,6145
+Namibia,1984,6022
+Namibia,1985,5893
+Namibia,1986,5760
+Namibia,1987,5625
+Namibia,1988,5491
+Namibia,1989,5358
+Namibia,1990,5227
+Namibia,1991,5098
+Namibia,1992,4970
+Namibia,1993,4842
+Namibia,1994,4715
+Namibia,1995,4590
+Namibia,1996,4469
+Namibia,1997,4351
+Namibia,1998,4240
+Namibia,1999,4134
+Namibia,2000,4033
+Namibia,2001,3938
+Namibia,2002,3847
+Namibia,2003,3759
+Namibia,2004,3674
+Namibia,2005,3591
+Namibia,2006,3512
+Namibia,2007,3436
+Namibia,2008,3364
+Namibia,2009,3295
+Namibia,2010,3229
+Namibia,2011,3167
+Namibia,2012,3107
+Namibia,2013,3051
+New Caledonia,1960,6278
+New Caledonia,1961,6144
+New Caledonia,1962,6010
+New Caledonia,1963,5873.333333
+New Caledonia,1964,5736.666667
+New Caledonia,1965,5600
+New Caledonia,1966,5385
+New Caledonia,1967,5170
+New Caledonia,1968,4880
+New Caledonia,1969,4590
+New Caledonia,1970,4300
+New Caledonia,1971,4175.714286
+New Caledonia,1972,4051.428571
+New Caledonia,1973,3927.142857
+New Caledonia,1974,3802.857143
+New Caledonia,1975,3678.571429
+New Caledonia,1976,3554.285714
+New Caledonia,1977,3430
+New Caledonia,1978,3426
+New Caledonia,1979,3422
+New Caledonia,1980,3418
+New Caledonia,1981,3640
+New Caledonia,1982,3410
+New Caledonia,1983,3330
+New Caledonia,1984,3170
+New Caledonia,1985,3000
+New Caledonia,1986,3170
+New Caledonia,1987,3250
+New Caledonia,1988,3100
+New Caledonia,1989,2970
+New Caledonia,1990,3190
+New Caledonia,1991,3150
+New Caledonia,1992,2990
+New Caledonia,1993,2860
+New Caledonia,1994,2700
+New Caledonia,1995,2590
+New Caledonia,1996,2650
+New Caledonia,1997,2670
+New Caledonia,1998,2550
+New Caledonia,1999,2480
+New Caledonia,2000,2590
+New Caledonia,2001,2430
+New Caledonia,2002,2330
+New Caledonia,2003,2270
+New Caledonia,2004,2180
+New Caledonia,2005,2200
+New Caledonia,2006,2290
+New Caledonia,2007,2200
+New Caledonia,2008,2200
+New Caledonia,2009,2200
+New Caledonia,2010,2170
+New Caledonia,2011,2150
+New Caledonia,2012,2280
+New Caledonia,2013,2280
+Niger,1960,7052
+Niger,1961,7083
+Niger,1962,7116
+Niger,1963,7150
+Niger,1964,7185
+Niger,1965,7222
+Niger,1966,7260
+Niger,1967,7300
+Niger,1968,7341
+Niger,1969,7382
+Niger,1970,7422
+Niger,1971,7460
+Niger,1972,7495
+Niger,1973,7526
+Niger,1974,7553
+Niger,1975,7578
+Niger,1976,7603
+Niger,1977,7628
+Niger,1978,7654
+Niger,1979,7681
+Niger,1980,7707
+Niger,1981,7731
+Niger,1982,7751
+Niger,1983,7764
+Niger,1984,7773
+Niger,1985,7775
+Niger,1986,7774
+Niger,1987,7771
+Niger,1988,7767
+Niger,1989,7764
+Niger,1990,7763
+Niger,1991,7764
+Niger,1992,7766
+Niger,1993,7769
+Niger,1994,7771
+Niger,1995,7773
+Niger,1996,7772
+Niger,1997,7767
+Niger,1998,7757
+Niger,1999,7743
+Niger,2000,7725
+Niger,2001,7704
+Niger,2002,7681
+Niger,2003,7658
+Niger,2004,7636
+Niger,2005,7617
+Niger,2006,7602
+Niger,2007,7593
+Niger,2008,7588
+Niger,2009,7585
+Niger,2010,7584
+Niger,2011,7581
+Niger,2012,7574
+Niger,2013,7561
+Nigeria,1960,6354
+Nigeria,1961,6351
+Nigeria,1962,6346
+Nigeria,1963,6341
+Nigeria,1964,6336
+Nigeria,1965,6335
+Nigeria,1966,6342
+Nigeria,1967,6359
+Nigeria,1968,6387
+Nigeria,1969,6425
+Nigeria,1970,6471
+Nigeria,1971,6522
+Nigeria,1972,6575
+Nigeria,1973,6625
+Nigeria,1974,6669
+Nigeria,1975,6706
+Nigeria,1976,6735
+Nigeria,1977,6757
+Nigeria,1978,6772
+Nigeria,1979,6781
+Nigeria,1980,6783
+Nigeria,1981,6779
+Nigeria,1982,6767
+Nigeria,1983,6749
+Nigeria,1984,6726
+Nigeria,1985,6698
+Nigeria,1986,6664
+Nigeria,1987,6625
+Nigeria,1988,6582
+Nigeria,1989,6537
+Nigeria,1990,6490
+Nigeria,1991,6443
+Nigeria,1992,6395
+Nigeria,1993,6348
+Nigeria,1994,6303
+Nigeria,1995,6261
+Nigeria,1996,6222
+Nigeria,1997,6187
+Nigeria,1998,6154
+Nigeria,1999,6125
+Nigeria,2000,6099
+Nigeria,2001,6077
+Nigeria,2002,6058
+Nigeria,2003,6042
+Nigeria,2004,6029
+Nigeria,2005,6020
+Nigeria,2006,6015
+Nigeria,2007,6015
+Nigeria,2008,6017
+Nigeria,2009,6021
+Nigeria,2010,6022
+Nigeria,2011,6017
+Nigeria,2012,6002
+Nigeria,2013,5976
+Oman,1960,7247
+Oman,1961,7248
+Oman,1962,7251
+Oman,1963,7256
+Oman,1964,7263
+Oman,1965,7271
+Oman,1966,7277
+Oman,1967,7282
+Oman,1968,7286
+Oman,1969,7293
+Oman,1970,7311
+Oman,1971,7350
+Oman,1972,7414
+Oman,1973,7504
+Oman,1974,7617
+Oman,1975,7747
+Oman,1976,7885
+Oman,1977,8018
+Oman,1978,8137
+Oman,1979,8232
+Oman,1980,8299
+Oman,1981,8338
+Oman,1982,8352
+Oman,1983,8340
+Oman,1984,8299
+Oman,1985,8222
+Oman,1986,8101
+Oman,1987,7933
+Oman,1988,7719
+Oman,1989,7462
+Oman,1990,7164
+Oman,1991,6831
+Oman,1992,6472
+Oman,1993,6098
+Oman,1994,5720
+Oman,1995,5346
+Oman,1996,4982
+Oman,1997,4631
+Oman,1998,4298
+Oman,1999,3992
+Oman,2000,3720
+Oman,2001,3488
+Oman,2002,3297
+Oman,2003,3144
+Oman,2004,3029
+Oman,2005,2951
+Oman,2006,2906
+Oman,2007,2887
+Oman,2008,2886
+Oman,2009,2894
+Oman,2010,2901
+Oman,2011,2899
+Oman,2012,2884
+Oman,2013,2853
+Qatar,1960,6971
+Qatar,1961,6973
+Qatar,1962,6977
+Qatar,1963,6981
+Qatar,1964,6985
+Qatar,1965,6987
+Qatar,1966,6987
+Qatar,1967,6983
+Qatar,1968,6973
+Qatar,1969,6952
+Qatar,1970,6918
+Qatar,1971,6866
+Qatar,1972,6794
+Qatar,1973,6703
+Qatar,1974,6595
+Qatar,1975,6474
+Qatar,1976,6344
+Qatar,1977,6211
+Qatar,1978,6079
+Qatar,1979,5947
+Qatar,1980,5811
+Qatar,1981,5665
+Qatar,1982,5504
+Qatar,1983,5326
+Qatar,1984,5132
+Qatar,1985,4929
+Qatar,1986,4722
+Qatar,1987,4521
+Qatar,1988,4333
+Qatar,1989,4163
+Qatar,1990,4016
+Qatar,1991,3894
+Qatar,1992,3796
+Qatar,1993,3715
+Qatar,1994,3648
+Qatar,1995,3590
+Qatar,1996,3534
+Qatar,1997,3477
+Qatar,1998,3411
+Qatar,1999,3334
+Qatar,2000,3241
+Qatar,2001,3127
+Qatar,2002,2996
+Qatar,2003,2853
+Qatar,2004,2703
+Qatar,2005,2555
+Qatar,2006,2418
+Qatar,2007,2299
+Qatar,2008,2203
+Qatar,2009,2133
+Qatar,2010,2085
+Qatar,2011,2055
+Qatar,2012,2036
+Qatar,2013,2019
+Rwanda,1960,8187
+Rwanda,1961,8194
+Rwanda,1962,8197
+Rwanda,1963,8198
+Rwanda,1964,8198
+Rwanda,1965,8198
+Rwanda,1966,8198
+Rwanda,1967,8201
+Rwanda,1968,8207
+Rwanda,1969,8217
+Rwanda,1970,8231
+Rwanda,1971,8252
+Rwanda,1972,8278
+Rwanda,1973,8307
+Rwanda,1974,8339
+Rwanda,1975,8370
+Rwanda,1976,8399
+Rwanda,1977,8423
+Rwanda,1978,8441
+Rwanda,1979,8449
+Rwanda,1980,8448
+Rwanda,1981,8439
+Rwanda,1982,8423
+Rwanda,1983,8397
+Rwanda,1984,8355
+Rwanda,1985,8284
+Rwanda,1986,8169
+Rwanda,1987,8004
+Rwanda,1988,7792
+Rwanda,1989,7541
+Rwanda,1990,7271
+Rwanda,1991,7005
+Rwanda,1992,6766
+Rwanda,1993,6568
+Rwanda,1994,6416
+Rwanda,1995,6307
+Rwanda,1996,6229
+Rwanda,1997,6160
+Rwanda,1998,6085
+Rwanda,1999,5998
+Rwanda,2000,5897
+Rwanda,2001,5786
+Rwanda,2002,5674
+Rwanda,2003,5566
+Rwanda,2004,5463
+Rwanda,2005,5365
+Rwanda,2006,5267
+Rwanda,2007,5167
+Rwanda,2008,5062
+Rwanda,2009,4954
+Rwanda,2010,4841
+Rwanda,2011,4728
+Rwanda,2012,4616
+Rwanda,2013,4508
+Sao Tome and Principe,1960,6242
+Sao Tome and Principe,1961,6263
+Sao Tome and Principe,1962,6284
+Sao Tome and Principe,1963,6306
+Sao Tome and Principe,1964,6327
+Sao Tome and Principe,1965,6349
+Sao Tome and Principe,1966,6371
+Sao Tome and Principe,1967,6394
+Sao Tome and Principe,1968,6419
+Sao Tome and Principe,1969,6444
+Sao Tome and Principe,1970,6468
+Sao Tome and Principe,1971,6490
+Sao Tome and Principe,1972,6510
+Sao Tome and Principe,1973,6525
+Sao Tome and Principe,1974,6534
+Sao Tome and Principe,1975,6535
+Sao Tome and Principe,1976,6528
+Sao Tome and Principe,1977,6513
+Sao Tome and Principe,1978,6489
+Sao Tome and Principe,1979,6455
+Sao Tome and Principe,1980,6409
+Sao Tome and Principe,1981,6348
+Sao Tome and Principe,1982,6271
+Sao Tome and Principe,1983,6181
+Sao Tome and Principe,1984,6078
+Sao Tome and Principe,1985,5967
+Sao Tome and Principe,1986,5849
+Sao Tome and Principe,1987,5730
+Sao Tome and Principe,1988,5613
+Sao Tome and Principe,1989,5501
+Sao Tome and Principe,1990,5395
+Sao Tome and Principe,1991,5296
+Sao Tome and Principe,1992,5203
+Sao Tome and Principe,1993,5115
+Sao Tome and Principe,1994,5032
+Sao Tome and Principe,1995,4956
+Sao Tome and Principe,1996,4887
+Sao Tome and Principe,1997,4826
+Sao Tome and Principe,1998,4773
+Sao Tome and Principe,1999,4727
+Sao Tome and Principe,2000,4687
+Sao Tome and Principe,2001,4654
+Sao Tome and Principe,2002,4625
+Sao Tome and Principe,2003,4598
+Sao Tome and Principe,2004,4572
+Sao Tome and Principe,2005,4542
+Sao Tome and Principe,2006,4506
+Sao Tome and Principe,2007,4462
+Sao Tome and Principe,2008,4411
+Sao Tome and Principe,2009,4352
+Sao Tome and Principe,2010,4287
+Sao Tome and Principe,2011,4217
+Sao Tome and Principe,2012,4145
+Sao Tome and Principe,2013,4075
+Senegal,1960,6951
+Senegal,1961,6994
+Senegal,1962,7036
+Senegal,1963,7075
+Senegal,1964,7114
+Senegal,1965,7152
+Senegal,1966,7189
+Senegal,1967,7227
+Senegal,1968,7266
+Senegal,1969,7303
+Senegal,1970,7339
+Senegal,1971,7374
+Senegal,1972,7405
+Senegal,1973,7432
+Senegal,1974,7452
+Senegal,1975,7465
+Senegal,1976,7468
+Senegal,1977,7461
+Senegal,1978,7445
+Senegal,1979,7418
+Senegal,1980,7382
+Senegal,1981,7337
+Senegal,1982,7284
+Senegal,1983,7225
+Senegal,1984,7160
+Senegal,1985,7088
+Senegal,1986,7010
+Senegal,1987,6925
+Senegal,1988,6832
+Senegal,1989,6734
+Senegal,1990,6629
+Senegal,1991,6519
+Senegal,1992,6404
+Senegal,1993,6287
+Senegal,1994,6169
+Senegal,1995,6054
+Senegal,1996,5943
+Senegal,1997,5837
+Senegal,1998,5737
+Senegal,1999,5645
+Senegal,2000,5561
+Senegal,2001,5484
+Senegal,2002,5413
+Senegal,2003,5346
+Senegal,2004,5285
+Senegal,2005,5229
+Senegal,2006,5181
+Senegal,2007,5140
+Senegal,2008,5107
+Senegal,2009,5078
+Senegal,2010,5050
+Senegal,2011,5019
+Senegal,2012,4981
+Senegal,2013,4934
+Seychelles,1960,
+Seychelles,1961,
+Seychelles,1962,
+Seychelles,1963,
+Seychelles,1964,
+Seychelles,1965,
+Seychelles,1966,
+Seychelles,1967,
+Seychelles,1968,
+Seychelles,1969,
+Seychelles,1970,
+Seychelles,1971,
+Seychelles,1972,
+Seychelles,1973,
+Seychelles,1974,
+Seychelles,1975,
+Seychelles,1976,4500
+Seychelles,1977,
+Seychelles,1978,
+Seychelles,1979,
+Seychelles,1980,
+Seychelles,1981,
+Seychelles,1982,3500
+Seychelles,1983,
+Seychelles,1984,
+Seychelles,1985,
+Seychelles,1986,
+Seychelles,1987,3000
+Seychelles,1988,
+Seychelles,1989,
+Seychelles,1990,
+Seychelles,1991,
+Seychelles,1992,2696
+Seychelles,1993,
+Seychelles,1994,
+Seychelles,1995,
+Seychelles,1996,
+Seychelles,1997,2100
+Seychelles,1998,2040
+Seychelles,1999,2040
+Seychelles,2000,2080
+Seychelles,2001,1980
+Seychelles,2002,2040
+Seychelles,2003,2100
+Seychelles,2004,2000
+Seychelles,2005,2200
+Seychelles,2006,2100
+Seychelles,2007,2240
+Seychelles,2008,2300
+Seychelles,2009,2400
+Seychelles,2010,2100
+Seychelles,2011,2400
+Seychelles,2012,2400
+Seychelles,2013,2400
+Sierra Leone,1960,6033
+Sierra Leone,1961,6093
+Sierra Leone,1962,6158
+Sierra Leone,1963,6229
+Sierra Leone,1964,6302
+Sierra Leone,1965,6376
+Sierra Leone,1966,6449
+Sierra Leone,1967,6519
+Sierra Leone,1968,6583
+Sierra Leone,1969,6643
+Sierra Leone,1970,6697
+Sierra Leone,1971,6748
+Sierra Leone,1972,6798
+Sierra Leone,1973,6847
+Sierra Leone,1974,6894
+Sierra Leone,1975,6938
+Sierra Leone,1976,6979
+Sierra Leone,1977,7013
+Sierra Leone,1978,7038
+Sierra Leone,1979,7054
+Sierra Leone,1980,7058
+Sierra Leone,1981,7048
+Sierra Leone,1982,7025
+Sierra Leone,1983,6990
+Sierra Leone,1984,6945
+Sierra Leone,1985,6889
+Sierra Leone,1986,6824
+Sierra Leone,1987,6753
+Sierra Leone,1988,6678
+Sierra Leone,1989,6601
+Sierra Leone,1990,6525
+Sierra Leone,1991,6453
+Sierra Leone,1992,6385
+Sierra Leone,1993,6320
+Sierra Leone,1994,6260
+Sierra Leone,1995,6204
+Sierra Leone,1996,6150
+Sierra Leone,1997,6098
+Sierra Leone,1998,6043
+Sierra Leone,1999,5985
+Sierra Leone,2000,5920
+Sierra Leone,2001,5845
+Sierra Leone,2002,5759
+Sierra Leone,2003,5664
+Sierra Leone,2004,5560
+Sierra Leone,2005,5451
+Sierra Leone,2006,5340
+Sierra Leone,2007,5232
+Sierra Leone,2008,5128
+Sierra Leone,2009,5032
+Sierra Leone,2010,4943
+Sierra Leone,2011,4861
+Sierra Leone,2012,4782
+Sierra Leone,2013,4705
+Somalia,1960,7250
+Somalia,1961,7252
+Somalia,1962,7255
+Somalia,1963,7258
+Somalia,1964,7261
+Somalia,1965,7261
+Somalia,1966,7257
+Somalia,1967,7248
+Somalia,1968,7232
+Somalia,1969,7209
+Somalia,1970,7182
+Somalia,1971,7151
+Somalia,1972,7118
+Somalia,1973,7086
+Somalia,1974,7057
+Somalia,1975,7033
+Somalia,1976,7016
+Somalia,1977,7005
+Somalia,1978,7000
+Somalia,1979,7003
+Somalia,1980,7013
+Somalia,1981,7030
+Somalia,1982,7053
+Somalia,1983,7080
+Somalia,1984,7112
+Somalia,1985,7149
+Somalia,1986,7190
+Somalia,1987,7237
+Somalia,1988,7288
+Somalia,1989,7341
+Somalia,1990,7397
+Somalia,1991,7455
+Somalia,1992,7512
+Somalia,1993,7567
+Somalia,1994,7616
+Somalia,1995,7655
+Somalia,1996,7679
+Somalia,1997,7687
+Somalia,1998,7678
+Somalia,1999,7651
+Somalia,2000,7610
+Somalia,2001,7556
+Somalia,2002,7495
+Somalia,2003,7429
+Somalia,2004,7361
+Somalia,2005,7292
+Somalia,2006,7219
+Somalia,2007,7140
+Somalia,2008,7056
+Somalia,2009,6965
+Somalia,2010,6869
+Somalia,2011,6769
+Somalia,2012,6667
+Somalia,2013,6563
+South Africa,1960,6173
+South Africa,1961,6144
+South Africa,1962,6103
+South Africa,1963,6049
+South Africa,1964,5984
+South Africa,1965,5911
+South Africa,1966,5836
+South Africa,1967,5765
+South Africa,1968,5700
+South Africa,1969,5643
+South Africa,1970,5591
+South Africa,1971,5539
+South Africa,1972,5482
+South Africa,1973,5415
+South Africa,1974,5338
+South Africa,1975,5251
+South Africa,1976,5159
+South Africa,1977,5064
+South Africa,1978,4969
+South Africa,1979,4877
+South Africa,1980,4786
+South Africa,1981,4695
+South Africa,1982,4602
+South Africa,1983,4504
+South Africa,1984,4402
+South Africa,1985,4293
+South Africa,1986,4177
+South Africa,1987,4052
+South Africa,1988,3923
+South Africa,1989,3791
+South Africa,1990,3658
+South Africa,1991,3530
+South Africa,1992,3408
+South Africa,1993,3296
+South Africa,1994,3196
+South Africa,1995,3110
+South Africa,1996,3040
+South Africa,1997,2983
+South Africa,1998,2937
+South Africa,1999,2899
+South Africa,2000,2866
+South Africa,2001,2834
+South Africa,2002,2801
+South Africa,2003,2763
+South Africa,2004,2721
+South Africa,2005,2675
+South Africa,2006,2627
+South Africa,2007,2580
+South Africa,2008,2538
+South Africa,2009,2500
+South Africa,2010,2467
+South Africa,2011,2438
+South Africa,2012,2412
+South Africa,2013,2387
+South Asia,1960,6021.217071
+South Asia,1961,6012.190107
+South Asia,1962,6003.169916
+South Asia,1963,5992.694909
+South Asia,1964,5979.225536
+South Asia,1965,5959.754311
+South Asia,1966,5933.640179
+South Asia,1967,5897.309676
+South Asia,1968,5849.79662
+South Asia,1969,5793.731605
+South Asia,1970,5729.033494
+South Asia,1971,5659.28852
+South Asia,1972,5586.426775
+South Asia,1973,5514.206608
+South Asia,1974,5443.766531
+South Asia,1975,5374.840803
+South Asia,1976,5307.22705
+South Asia,1977,5237.694686
+South Asia,1978,5165.751976
+South Asia,1979,5090.525002
+South Asia,1980,5011.80842
+South Asia,1981,4931.861638
+South Asia,1982,4850.175471
+South Asia,1983,4769.90518
+South Asia,1984,4689.330583
+South Asia,1985,4608.177967
+South Asia,1986,4524.546699
+South Asia,1987,4439.242623
+South Asia,1988,4350.032937
+South Asia,1989,4258.273096
+South Asia,1990,4166.028775
+South Asia,1991,4072.121695
+South Asia,1992,3979.953696
+South Asia,1993,3891.133249
+South Asia,1994,3804.305639
+South Asia,1995,3719.671159
+South Asia,1996,3638.276859
+South Asia,1997,3557.676095
+South Asia,1998,3477.986706
+South Asia,1999,3400.018016
+South Asia,2000,3322.314572
+South Asia,2001,3246.043699
+South Asia,2002,3169.074555
+South Asia,2003,3093.744631
+South Asia,2004,3019.128874
+South Asia,2005,2947.576713
+South Asia,2006,2879.709844
+South Asia,2007,2816.673607
+South Asia,2008,2760.179156
+South Asia,2009,2710.266124
+South Asia,2010,2665.298856
+South Asia,2011,2625.425553
+South Asia,2012,2589.562495
+South Asia,2013,2555.139669
+South Sudan,1960,6721
+South Sudan,1961,6733
+South Sudan,1962,6747
+South Sudan,1963,6763
+South Sudan,1964,6781
+South Sudan,1965,6800
+South Sudan,1966,6819
+South Sudan,1967,6838
+South Sudan,1968,6855
+South Sudan,1969,6869
+South Sudan,1970,6881
+South Sudan,1971,6892
+South Sudan,1972,6903
+South Sudan,1973,6912
+South Sudan,1974,6920
+South Sudan,1975,6924
+South Sudan,1976,6922
+South Sudan,1977,6913
+South Sudan,1978,6897
+South Sudan,1979,6874
+South Sudan,1980,6850
+South Sudan,1981,6829
+South Sudan,1982,6813
+South Sudan,1983,6806
+South Sudan,1984,6806
+South Sudan,1985,6811
+South Sudan,1986,6817
+South Sudan,1987,6819
+South Sudan,1988,6813
+South Sudan,1989,6796
+South Sudan,1990,6769
+South Sudan,1991,6729
+South Sudan,1992,6682
+South Sudan,1993,6627
+South Sudan,1994,6567
+South Sudan,1995,6503
+South Sudan,1996,6435
+South Sudan,1997,6364
+South Sudan,1998,6289
+South Sudan,1999,6212
+South Sudan,2000,6133
+South Sudan,2001,6050
+South Sudan,2002,5962
+South Sudan,2003,5871
+South Sudan,2004,5777
+South Sudan,2005,5680
+South Sudan,2006,5582
+South Sudan,2007,5483
+South Sudan,2008,5385
+South Sudan,2009,5288
+South Sudan,2010,5194
+South Sudan,2011,5101
+South Sudan,2012,5010
+South Sudan,2013,4920
+Sudan,1960,6691
+Sudan,1961,6713
+Sudan,1962,6737
+Sudan,1963,6762
+Sudan,1964,6787
+Sudan,1965,6810
+Sudan,1966,6831
+Sudan,1967,6850
+Sudan,1968,6865
+Sudan,1969,6878
+Sudan,1970,6888
+Sudan,1971,6899
+Sudan,1972,6910
+Sudan,1973,6921
+Sudan,1974,6930
+Sudan,1975,6936
+Sudan,1976,6933
+Sudan,1977,6919
+Sudan,1978,6892
+Sudan,1979,6853
+Sudan,1980,6802
+Sudan,1981,6741
+Sudan,1982,6674
+Sudan,1983,6605
+Sudan,1984,6535
+Sudan,1985,6467
+Sudan,1986,6401
+Sudan,1987,6338
+Sudan,1988,6275
+Sudan,1989,6214
+Sudan,1990,6153
+Sudan,1991,6092
+Sudan,1992,6028
+Sudan,1993,5962
+Sudan,1994,5893
+Sudan,1995,5821
+Sudan,1996,5747
+Sudan,1997,5672
+Sudan,1998,5596
+Sudan,1999,5520
+Sudan,2000,5444
+Sudan,2001,5366
+Sudan,2002,5287
+Sudan,2003,5206
+Sudan,2004,5123
+Sudan,2005,5039
+Sudan,2006,4956
+Sudan,2007,4873
+Sudan,2008,4792
+Sudan,2009,4713
+Sudan,2010,4637
+Sudan,2011,4563
+Sudan,2012,4491
+Sudan,2013,4420
+Suriname,1960,6608
+Suriname,1961,6594
+Suriname,1962,6558
+Suriname,1963,6497
+Suriname,1964,6412
+Suriname,1965,6304
+Suriname,1966,6182
+Suriname,1967,6053
+Suriname,1968,5922
+Suriname,1969,5790
+Suriname,1970,5653
+Suriname,1971,5504
+Suriname,1972,5336
+Suriname,1973,5148
+Suriname,1974,4945
+Suriname,1975,4735
+Suriname,1976,4531
+Suriname,1977,4344
+Suriname,1978,4180
+Suriname,1979,4041
+Suriname,1980,3922
+Suriname,1981,3815
+Suriname,1982,3708
+Suriname,1983,3594
+Suriname,1984,3471
+Suriname,1985,3338
+Suriname,1986,3200
+Suriname,1987,3063
+Suriname,1988,2936
+Suriname,1989,2823
+Suriname,1990,2733
+Suriname,1991,2671
+Suriname,1992,2639
+Suriname,1993,2634
+Suriname,1994,2651
+Suriname,1995,2682
+Suriname,1996,2717
+Suriname,1997,2746
+Suriname,1998,2762
+Suriname,1999,2759
+Suriname,2000,2739
+Suriname,2001,2702
+Suriname,2002,2656
+Suriname,2003,2609
+Suriname,2004,2562
+Suriname,2005,2518
+Suriname,2006,2478
+Suriname,2007,2441
+Suriname,2008,2406
+Suriname,2009,2374
+Suriname,2010,2345
+Suriname,2011,2318
+Suriname,2012,2292
+Suriname,2013,2268
+Swaziland,1960,6717
+Swaziland,1961,6730
+Swaziland,1962,6745
+Swaziland,1963,6763
+Swaziland,1964,6782
+Swaziland,1965,6802
+Swaziland,1966,6822
+Swaziland,1967,6841
+Swaziland,1968,6857
+Swaziland,1969,6869
+Swaziland,1970,6875
+Swaziland,1971,6876
+Swaziland,1972,6870
+Swaziland,1973,6858
+Swaziland,1974,6840
+Swaziland,1975,6817
+Swaziland,1976,6790
+Swaziland,1977,6761
+Swaziland,1978,6729
+Swaziland,1979,6695
+Swaziland,1980,6658
+Swaziland,1981,6618
+Swaziland,1982,6573
+Swaziland,1983,6520
+Swaziland,1984,6459
+Swaziland,1985,6384
+Swaziland,1986,6291
+Swaziland,1987,6180
+Swaziland,1988,6051
+Swaziland,1989,5905
+Swaziland,1990,5744
+Swaziland,1991,5571
+Swaziland,1992,5392
+Swaziland,1993,5211
+Swaziland,1994,5035
+Swaziland,1995,4866
+Swaziland,1996,4709
+Swaziland,1997,4564
+Swaziland,1998,4432
+Swaziland,1999,4313
+Swaziland,2000,4209
+Swaziland,2001,4121
+Swaziland,2002,4046
+Swaziland,2003,3982
+Swaziland,2004,3925
+Swaziland,2005,3871
+Swaziland,2006,3818
+Swaziland,2007,3761
+Swaziland,2008,3699
+Swaziland,2009,3632
+Swaziland,2010,3559
+Swaziland,2011,3483
+Swaziland,2012,3407
+Swaziland,2013,3334
+Syrian Arab Republic,1960,7467
+Syrian Arab Republic,1961,7497
+Syrian Arab Republic,1962,7522
+Syrian Arab Republic,1963,7541
+Syrian Arab Republic,1964,7555
+Syrian Arab Republic,1965,7564
+Syrian Arab Republic,1966,7569
+Syrian Arab Republic,1967,7572
+Syrian Arab Republic,1968,7574
+Syrian Arab Republic,1969,7574
+Syrian Arab Republic,1970,7572
+Syrian Arab Republic,1971,7566
+Syrian Arab Republic,1972,7556
+Syrian Arab Republic,1973,7537
+Syrian Arab Republic,1974,7510
+Syrian Arab Republic,1975,7472
+Syrian Arab Republic,1976,7422
+Syrian Arab Republic,1977,7359
+Syrian Arab Republic,1978,7285
+Syrian Arab Republic,1979,7197
+Syrian Arab Republic,1980,7094
+Syrian Arab Republic,1981,6976
+Syrian Arab Republic,1982,6843
+Syrian Arab Republic,1983,6695
+Syrian Arab Republic,1984,6534
+Syrian Arab Republic,1985,6359
+Syrian Arab Republic,1986,6168
+Syrian Arab Republic,1987,5963
+Syrian Arab Republic,1988,5748
+Syrian Arab Republic,1989,5529
+Syrian Arab Republic,1990,5313
+Syrian Arab Republic,1991,5110
+Syrian Arab Republic,1992,4925
+Syrian Arab Republic,1993,4760
+Syrian Arab Republic,1994,4618
+Syrian Arab Republic,1995,4495
+Syrian Arab Republic,1996,4386
+Syrian Arab Republic,1997,4282
+Syrian Arab Republic,1998,4178
+Syrian Arab Republic,1999,4070
+Syrian Arab Republic,2000,3958
+Syrian Arab Republic,2001,3841
+Syrian Arab Republic,2002,3724
+Syrian Arab Republic,2003,3610
+Syrian Arab Republic,2004,3501
+Syrian Arab Republic,2005,3401
+Syrian Arab Republic,2006,3313
+Syrian Arab Republic,2007,3237
+Syrian Arab Republic,2008,3173
+Syrian Arab Republic,2009,3121
+Syrian Arab Republic,2010,3078
+Syrian Arab Republic,2011,3040
+Syrian Arab Republic,2012,3003
+Syrian Arab Republic,2013,2964
+Tanzania,1960,6806
+Tanzania,1961,6806
+Tanzania,1962,6804
+Tanzania,1963,6803
+Tanzania,1964,6801
+Tanzania,1965,6798
+Tanzania,1966,6795
+Tanzania,1967,6791
+Tanzania,1968,6785
+Tanzania,1969,6778
+Tanzania,1970,6771
+Tanzania,1971,6765
+Tanzania,1972,6761
+Tanzania,1973,6758
+Tanzania,1974,6755
+Tanzania,1975,6751
+Tanzania,1976,6743
+Tanzania,1977,6730
+Tanzania,1978,6711
+Tanzania,1979,6685
+Tanzania,1980,6653
+Tanzania,1981,6618
+Tanzania,1982,6580
+Tanzania,1983,6542
+Tanzania,1984,6504
+Tanzania,1985,6465
+Tanzania,1986,6424
+Tanzania,1987,6379
+Tanzania,1988,6328
+Tanzania,1989,6273
+Tanzania,1990,6213
+Tanzania,1991,6148
+Tanzania,1992,6081
+Tanzania,1993,6013
+Tanzania,1994,5946
+Tanzania,1995,5883
+Tanzania,1996,5828
+Tanzania,1997,5780
+Tanzania,1998,5741
+Tanzania,1999,5711
+Tanzania,2000,5689
+Tanzania,2001,5675
+Tanzania,2002,5666
+Tanzania,2003,5659
+Tanzania,2004,5651
+Tanzania,2005,5638
+Tanzania,2006,5616
+Tanzania,2007,5585
+Tanzania,2008,5543
+Tanzania,2009,5490
+Tanzania,2010,5428
+Tanzania,2011,5359
+Tanzania,2012,5287
+Tanzania,2013,5214
+Timor-Leste,1960,6373
+Timor-Leste,1961,6376
+Timor-Leste,1962,6375
+Timor-Leste,1963,6367
+Timor-Leste,1964,6347
+Timor-Leste,1965,6314
+Timor-Leste,1966,6268
+Timor-Leste,1967,6207
+Timor-Leste,1968,6132
+Timor-Leste,1969,6039
+Timor-Leste,1970,5917
+Timor-Leste,1971,5751
+Timor-Leste,1972,5541
+Timor-Leste,1973,5298
+Timor-Leste,1974,5037
+Timor-Leste,1975,4794
+Timor-Leste,1976,4611
+Timor-Leste,1977,4514
+Timor-Leste,1978,4513
+Timor-Leste,1979,4606
+Timor-Leste,1980,4767
+Timor-Leste,1981,4956
+Timor-Leste,1982,5130
+Timor-Leste,1983,5256
+Timor-Leste,1984,5324
+Timor-Leste,1985,5336
+Timor-Leste,1986,5308
+Timor-Leste,1987,5271
+Timor-Leste,1988,5256
+Timor-Leste,1989,5273
+Timor-Leste,1990,5340
+Timor-Leste,1991,5469
+Timor-Leste,1992,5651
+Timor-Leste,1993,5874
+Timor-Leste,1994,6125
+Timor-Leste,1995,6384
+Timor-Leste,1996,6627
+Timor-Leste,1997,6832
+Timor-Leste,1998,6986
+Timor-Leste,1999,7079
+Timor-Leste,2000,7112
+Timor-Leste,2001,7092
+Timor-Leste,2002,7037
+Timor-Leste,2003,6965
+Timor-Leste,2004,6648.75
+Timor-Leste,2005,6332.5
+Timor-Leste,2006,6016.25
+Timor-Leste,2007,5700
+Timor-Leste,2008,5700
+Timor-Leste,2009,5700
+Timor-Leste,2010,5600
+Timor-Leste,2011,5500
+Timor-Leste,2012,5300
+Timor-Leste,2013,5200
+Togo,1960,6521
+Togo,1961,6570
+Togo,1962,6622
+Togo,1963,6677
+Togo,1964,6734
+Togo,1965,6792
+Togo,1966,6851
+Togo,1967,6911
+Togo,1968,6971
+Togo,1969,7029
+Togo,1970,7084
+Togo,1971,7136
+Togo,1972,7182
+Togo,1973,7222
+Togo,1974,7254
+Togo,1975,7275
+Togo,1976,7286
+Togo,1977,7284
+Togo,1978,7270
+Togo,1979,7244
+Togo,1980,7207
+Togo,1981,7158
+Togo,1982,7099
+Togo,1983,7032
+Togo,1984,6957
+Togo,1985,6874
+Togo,1986,6781
+Togo,1987,6679
+Togo,1988,6569
+Togo,1989,6452
+Togo,1990,6331
+Togo,1991,6206
+Togo,1992,6081
+Togo,1993,5957
+Togo,1994,5837
+Togo,1995,5725
+Togo,1996,5620
+Togo,1997,5524
+Togo,1998,5437
+Togo,1999,5359
+Togo,2000,5288
+Togo,2001,5224
+Togo,2002,5166
+Togo,2003,5111
+Togo,2004,5059
+Togo,2005,5009
+Togo,2006,4962
+Togo,2007,4918
+Togo,2008,4876
+Togo,2009,4835
+Togo,2010,4792
+Togo,2011,4746
+Togo,2012,4695
+Togo,2013,4639
+Tonga,1960,7363
+Tonga,1961,7346
+Tonga,1962,7302
+Tonga,1963,7226
+Tonga,1964,7117
+Tonga,1965,6974
+Tonga,1966,6795
+Tonga,1967,6590
+Tonga,1968,6371
+Tonga,1969,6150
+Tonga,1970,5941
+Tonga,1971,5761
+Tonga,1972,5616
+Tonga,1973,5512
+Tonga,1974,5449
+Tonga,1975,5426
+Tonga,1976,5438
+Tonga,1977,5471
+Tonga,1978,5509
+Tonga,1979,5541
+Tonga,1980,5553
+Tonga,1981,5532
+Tonga,1982,5475
+Tonga,1983,5385
+Tonga,1984,5266
+Tonga,1985,5128
+Tonga,1986,4989
+Tonga,1987,4864
+Tonga,1988,4763
+Tonga,1989,4691
+Tonga,1990,4644
+Tonga,1991,4612
+Tonga,1992,4583
+Tonga,1993,4547
+Tonga,1994,4501
+Tonga,1995,4447
+Tonga,1996,4391
+Tonga,1997,4340
+Tonga,1998,4300
+Tonga,1999,4270
+Tonga,2000,4250
+Tonga,2001,4236
+Tonga,2002,4221
+Tonga,2003,4202
+Tonga,2004,4177
+Tonga,2005,4144
+Tonga,2006,4104
+Tonga,2007,4059
+Tonga,2008,4012
+Tonga,2009,3963
+Tonga,2010,3914
+Tonga,2011,3864
+Tonga,2012,3815
+Tonga,2013,3767
+Tunisia,1960,7043
+Tunisia,1961,7088
+Tunisia,1962,7118
+Tunisia,1963,7125
+Tunisia,1964,7107
+Tunisia,1965,7059
+Tunisia,1966,6978
+Tunisia,1967,6869
+Tunisia,1968,6737
+Tunisia,1969,6590
+Tunisia,1970,6438
+Tunisia,1971,6292
+Tunisia,1972,6160
+Tunisia,1973,6046
+Tunisia,1974,5950
+Tunisia,1975,5867
+Tunisia,1976,5790
+Tunisia,1977,5706
+Tunisia,1978,5606
+Tunisia,1979,5488
+Tunisia,1980,5349
+Tunisia,1981,5189
+Tunisia,1982,5015
+Tunisia,1983,4833
+Tunisia,1984,4645
+Tunisia,1985,4454
+Tunisia,1986,4265
+Tunisia,1987,4077
+Tunisia,1988,3893
+Tunisia,1989,3714
+Tunisia,1990,3380
+Tunisia,1991,3310
+Tunisia,1992,3270
+Tunisia,1993,3120
+Tunisia,1994,2900
+Tunisia,1995,2670
+Tunisia,1996,2510
+Tunisia,1997,2380
+Tunisia,1998,2230
+Tunisia,1999,2090
+Tunisia,2000,2080
+Tunisia,2001,2050
+Tunisia,2002,2000
+Tunisia,2003,2060
+Tunisia,2004,2020
+Tunisia,2005,2040
+Tunisia,2006,2030
+Tunisia,2007,2040
+Tunisia,2008,2060
+Tunisia,2009,2050
+Tunisia,2010,2130
+Tunisia,2011,2150
+Tunisia,2012,2200
+Tunisia,2013,2250
+Uganda,1960,6999
+Uganda,1961,7019
+Uganda,1962,7040
+Uganda,1963,7060
+Uganda,1964,7078
+Uganda,1965,7094
+Uganda,1966,7106
+Uganda,1967,7113
+Uganda,1968,7117
+Uganda,1969,7118
+Uganda,1970,7115
+Uganda,1971,7111
+Uganda,1972,7107
+Uganda,1973,7103
+Uganda,1974,7100
+Uganda,1975,7099
+Uganda,1976,7099
+Uganda,1977,7099
+Uganda,1978,7099
+Uganda,1979,7100
+Uganda,1980,7100
+Uganda,1981,7101
+Uganda,1982,7101
+Uganda,1983,7102
+Uganda,1984,7103
+Uganda,1985,7103
+Uganda,1986,7103
+Uganda,1987,7102
+Uganda,1988,7100
+Uganda,1989,7097
+Uganda,1990,7091
+Uganda,1991,7082
+Uganda,1992,7071
+Uganda,1993,7057
+Uganda,1994,7039
+Uganda,1995,7018
+Uganda,1996,6994
+Uganda,1997,6967
+Uganda,1998,6937
+Uganda,1999,6903
+Uganda,2000,6865
+Uganda,2001,6822
+Uganda,2002,6772
+Uganda,2003,6716
+Uganda,2004,6653
+Uganda,2005,6583
+Uganda,2006,6507
+Uganda,2007,6425
+Uganda,2008,6338
+Uganda,2009,6248
+Uganda,2010,6155
+Uganda,2011,6060
+Uganda,2012,5964
+Uganda,2013,5867
+Vanuatu,1960,7197
+Vanuatu,1961,7120
+Vanuatu,1962,7033
+Vanuatu,1963,6938
+Vanuatu,1964,6836
+Vanuatu,1965,6730
+Vanuatu,1966,6626
+Vanuatu,1967,6526
+Vanuatu,1968,6433
+Vanuatu,1969,6348
+Vanuatu,1970,6272
+Vanuatu,1971,6202
+Vanuatu,1972,6134
+Vanuatu,1973,6067
+Vanuatu,1974,5999
+Vanuatu,1975,5929
+Vanuatu,1976,5858
+Vanuatu,1977,5787
+Vanuatu,1978,5716
+Vanuatu,1979,5645
+Vanuatu,1980,5575
+Vanuatu,1981,5503
+Vanuatu,1982,5430
+Vanuatu,1983,5356
+Vanuatu,1984,5282
+Vanuatu,1985,5209
+Vanuatu,1986,5141
+Vanuatu,1987,5078
+Vanuatu,1988,5022
+Vanuatu,1989,4971
+Vanuatu,1990,4927
+Vanuatu,1991,4887
+Vanuatu,1992,4850
+Vanuatu,1993,4814
+Vanuatu,1994,4775
+Vanuatu,1995,4730
+Vanuatu,1996,4677
+Vanuatu,1997,4614
+Vanuatu,1998,4542
+Vanuatu,1999,4459
+Vanuatu,2000,4368
+Vanuatu,2001,4268
+Vanuatu,2002,4162
+Vanuatu,2003,4056
+Vanuatu,2004,3950
+Vanuatu,2005,3851
+Vanuatu,2006,3760
+Vanuatu,2007,3679
+Vanuatu,2008,3608
+Vanuatu,2009,3549
+Vanuatu,2010,3499
+Vanuatu,2011,3456
+Vanuatu,2012,3419
+Vanuatu,2013,3382
+Zambia,1960,7018
+Zambia,1961,7071
+Zambia,1962,7127
+Zambia,1963,7184
+Zambia,1964,7240
+Zambia,1965,7292
+Zambia,1966,7338
+Zambia,1967,7376
+Zambia,1968,7405
+Zambia,1969,7425
+Zambia,1970,7437
+Zambia,1971,7443
+Zambia,1972,7446
+Zambia,1973,7447
+Zambia,1974,7444
+Zambia,1975,7435
+Zambia,1976,7414
+Zambia,1977,7378
+Zambia,1978,7326
+Zambia,1979,7259
+Zambia,1980,7182
+Zambia,1981,7098
+Zambia,1982,7015
+Zambia,1983,6937
+Zambia,1984,6865
+Zambia,1985,6799
+Zambia,1986,6737
+Zambia,1987,6673
+Zambia,1988,6606
+Zambia,1989,6537
+Zambia,1990,6468
+Zambia,1991,6401
+Zambia,1992,6340
+Zambia,1993,6288
+Zambia,1994,6245
+Zambia,1995,6209
+Zambia,1996,6179
+Zambia,1997,6152
+Zambia,1998,6126
+Zambia,1999,6098
+Zambia,2000,6071
+Zambia,2001,6044
+Zambia,2002,6018
+Zambia,2003,5995
+Zambia,2004,5974
+Zambia,2005,5954
+Zambia,2006,5932
+Zambia,2007,5908
+Zambia,2008,5881
+Zambia,2009,5849
+Zambia,2010,5813
+Zambia,2011,5773
+Zambia,2012,5731
+Zambia,2013,5687
+Zimbabwe,1960,7158
+Zimbabwe,1961,7215
+Zimbabwe,1962,7267
+Zimbabwe,1963,7311
+Zimbabwe,1964,7347
+Zimbabwe,1965,7373
+Zimbabwe,1966,7391
+Zimbabwe,1967,7403
+Zimbabwe,1968,7411
+Zimbabwe,1969,7415
+Zimbabwe,1970,7417
+Zimbabwe,1971,7419
+Zimbabwe,1972,7420
+Zimbabwe,1973,7417
+Zimbabwe,1974,7410
+Zimbabwe,1975,7395
+Zimbabwe,1976,7369
+Zimbabwe,1977,7330
+Zimbabwe,1978,7273
+Zimbabwe,1979,7196
+Zimbabwe,1980,7095
+Zimbabwe,1981,6967
+Zimbabwe,1982,6811
+Zimbabwe,1983,6633
+Zimbabwe,1984,6435
+Zimbabwe,1985,6223
+Zimbabwe,1986,6004
+Zimbabwe,1987,5784
+Zimbabwe,1988,5569
+Zimbabwe,1989,5365
+Zimbabwe,1990,5176
+Zimbabwe,1991,5001
+Zimbabwe,1992,4840
+Zimbabwe,1993,4690
+Zimbabwe,1994,4554
+Zimbabwe,1995,4432
+Zimbabwe,1996,4328
+Zimbabwe,1997,4240
+Zimbabwe,1998,4169
+Zimbabwe,1999,4112
+Zimbabwe,2000,4069
+Zimbabwe,2001,4039
+Zimbabwe,2002,4018
+Zimbabwe,2003,4002
+Zimbabwe,2004,3987
+Zimbabwe,2005,3969
+Zimbabwe,2006,3941
+Zimbabwe,2007,3903
+Zimbabwe,2008,3853
+Zimbabwe,2009,3792
+Zimbabwe,2010,3721
+Zimbabwe,2011,3643
+Zimbabwe,2012,3564
+Zimbabwe,2013,3486
+Algeria,2014,7648
+Algeria,2015,7649
+Algeria,2016,7650
+Algeria,2017,7652
+Algeria,2018,7653
+Algeria,2019,7655
+Algeria,2020,7657
+Algeria,2021,7658
+Algeria,2022,7657
+Algeria,2023,7652
+Algeria,2024,7641
+Algeria,2025,7622
+Algeria,2026,7591
+Algeria,2027,7548
+Algeria,2028,7492
+Algeria,2029,7422
+Algeria,2030,7339
+Algeria,2031,7244
+Algeria,2032,7138
+Algeria,2033,7021
+Algeria,2034,6889
+Algeria,2035,6741
+Algeria,2036,6576
+Algeria,2037,6392
+Algeria,2038,6192
+Algeria,2039,5976
+Algeria,2040,5747
+Algeria,2041,5508
+Algeria,2042,5263
+Algeria,2043,5014
+Algeria,2044,4761
+Algeria,2045,4503
+Algeria,2046,4238
+Algeria,2047,3971
+Algeria,2048,3705
+Algeria,2049,3449
+Algeria,2050,3207
+Algeria,2051,2987
+Algeria,2052,2794
+Algeria,2053,2634
+Algeria,2054,2514
+Algeria,2055,2439
+Algeria,2056,2407
+Algeria,2057,2412
+Algeria,2058,2448
+Algeria,2059,2507
+Algeria,2060,2580
+Algeria,2061,2656
+Algeria,2062,2725
+Algeria,2063,2781
+Algeria,2064,2817
+Algeria,2065,2829
+Algeria,2066,2820
+Algeria,2067,2795
+Angola,2014,7316
+Angola,2015,7354
+Angola,2016,7385
+Angola,2017,7410
+Angola,2018,7425
+Angola,2019,7430
+Angola,2020,7422
+Angola,2021,7403
+Angola,2022,7375
+Angola,2023,7339
+Angola,2024,7301
+Angola,2025,7264
+Angola,2026,7232
+Angola,2027,7208
+Angola,2028,7192
+Angola,2029,7185
+Angola,2030,7186
+Angola,2031,7189
+Angola,2032,7194
+Angola,2033,7197
+Angola,2034,7200
+Angola,2035,7201
+Angola,2036,7203
+Angola,2037,7205
+Angola,2038,7207
+Angola,2039,7208
+Angola,2040,7206
+Angola,2041,7202
+Angola,2042,7194
+Angola,2043,7182
+Angola,2044,7165
+Angola,2045,7143
+Angola,2046,7116
+Angola,2047,7087
+Angola,2048,7054
+Angola,2049,7019
+Angola,2050,6984
+Angola,2051,6949
+Angola,2052,6913
+Angola,2053,6878
+Angola,2054,6844
+Angola,2055,6811
+Angola,2056,6778
+Angola,2057,6743
+Angola,2058,6704
+Angola,2059,6657
+Angola,2060,6598
+Angola,2061,6523
+Angola,2062,6434
+Angola,2063,6331
+Angola,2064,6218
+Angola,2065,6099
+Angola,2066,5979
+Angola,2067,5863
+Benin,2014,6282
+Benin,2015,6339
+Benin,2016,6394
+Benin,2017,6447
+Benin,2018,6497
+Benin,2019,6544
+Benin,2020,6588
+Benin,2021,6630
+Benin,2022,6671
+Benin,2023,6710
+Benin,2024,6748
+Benin,2025,6786
+Benin,2026,6823
+Benin,2027,6860
+Benin,2028,6896
+Benin,2029,6929
+Benin,2030,6959
+Benin,2031,6984
+Benin,2032,7004
+Benin,2033,7018
+Benin,2034,7025
+Benin,2035,7025
+Benin,2036,7021
+Benin,2037,7010
+Benin,2038,6994
+Benin,2039,6972
+Benin,2040,6942
+Benin,2041,6904
+Benin,2042,6858
+Benin,2043,6805
+Benin,2044,6744
+Benin,2045,6677
+Benin,2046,6603
+Benin,2047,6526
+Benin,2048,6446
+Benin,2049,6365
+Benin,2050,6284
+Benin,2051,6205
+Benin,2052,6128
+Benin,2053,6051
+Benin,2054,5975
+Benin,2055,5898
+Benin,2056,5818
+Benin,2057,5733
+Benin,2058,5645
+Benin,2059,5553
+Benin,2060,5459
+Benin,2061,5365
+Benin,2062,5273
+Benin,2063,5182
+Benin,2064,5095
+Benin,2065,5010
+Benin,2066,4927
+Benin,2067,4845
+Bhutan,2014,6670
+Bhutan,2015,6670
+Bhutan,2016,6670
+Bhutan,2017,6670
+Bhutan,2018,6670
+Bhutan,2019,6670
+Bhutan,2020,6670
+Bhutan,2021,6670
+Bhutan,2022,6670
+Bhutan,2023,6670
+Bhutan,2024,6671
+Bhutan,2025,6674
+Bhutan,2026,6679
+Bhutan,2027,6685
+Bhutan,2028,6690
+Bhutan,2029,6692
+Bhutan,2030,6685
+Bhutan,2031,6668
+Bhutan,2032,6640
+Bhutan,2033,6601
+Bhutan,2034,6553
+Bhutan,2035,6504
+Bhutan,2036,6456
+Bhutan,2037,6410
+Bhutan,2038,6362
+Bhutan,2039,6306
+Bhutan,2040,6230
+Bhutan,2041,6127
+Bhutan,2042,5994
+Bhutan,2043,5829
+Bhutan,2044,5639
+Bhutan,2045,5431
+Bhutan,2046,5216
+Bhutan,2047,5003
+Bhutan,2048,4796
+Bhutan,2049,4597
+Bhutan,2050,4401
+Bhutan,2051,4205
+Bhutan,2052,4006
+Bhutan,2053,3806
+Bhutan,2054,3608
+Bhutan,2055,3417
+Bhutan,2056,3237
+Bhutan,2057,3071
+Bhutan,2058,2923
+Bhutan,2059,2793
+Bhutan,2060,2682
+Bhutan,2061,2587
+Bhutan,2062,2506
+Bhutan,2063,2436
+Bhutan,2064,2375
+Bhutan,2065,2322
+Bhutan,2066,2275
+Bhutan,2067,2232
+Botswana,2014,6615
+Botswana,2015,6632
+Botswana,2016,6649
+Botswana,2017,6666
+Botswana,2018,6681
+Botswana,2019,6693
+Botswana,2020,6698
+Botswana,2021,6696
+Botswana,2022,6686
+Botswana,2023,6667
+Botswana,2024,6641
+Botswana,2025,6611
+Botswana,2026,6579
+Botswana,2027,6546
+Botswana,2028,6512
+Botswana,2029,6477
+Botswana,2030,6440
+Botswana,2031,6399
+Botswana,2032,6350
+Botswana,2033,6291
+Botswana,2034,6217
+Botswana,2035,6125
+Botswana,2036,6012
+Botswana,2037,5880
+Botswana,2038,5731
+Botswana,2039,5567
+Botswana,2040,5393
+Botswana,2041,5214
+Botswana,2042,5036
+Botswana,2043,4863
+Botswana,2044,4698
+Botswana,2045,4542
+Botswana,2046,4394
+Botswana,2047,4252
+Botswana,2048,4117
+Botswana,2049,3989
+Botswana,2050,3866
+Botswana,2051,3746
+Botswana,2052,3631
+Botswana,2053,3519
+Botswana,2054,3413
+Botswana,2055,3316
+Botswana,2056,3227
+Botswana,2057,3148
+Botswana,2058,3079
+Botswana,2059,3017
+Botswana,2060,2962
+Botswana,2061,2910
+Botswana,2062,2860
+Botswana,2063,2811
+Botswana,2064,2761
+Botswana,2065,2712
+Botswana,2066,2665
+Botswana,2067,2619
+Brunei Darussalam,2014,6487
+Brunei Darussalam,2015,6487
+Brunei Darussalam,2016,6448
+Brunei Darussalam,2017,6360
+Brunei Darussalam,2018,6227
+Brunei Darussalam,2019,6068
+Brunei Darussalam,2020,5918
+Brunei Darussalam,2021,5804
+Brunei Darussalam,2022,5742
+Brunei Darussalam,2023,5731
+Brunei Darussalam,2024,5751
+Brunei Darussalam,2025,5771
+Brunei Darussalam,2026,5758
+Brunei Darussalam,2027,5687
+Brunei Darussalam,2028,5555
+Brunei Darussalam,2029,5365
+Brunei Darussalam,2030,5132
+Brunei Darussalam,2031,4884
+Brunei Darussalam,2032,4645
+Brunei Darussalam,2033,4429
+Brunei Darussalam,2034,4246
+Brunei Darussalam,2035,4103
+Brunei Darussalam,2036,3992
+Brunei Darussalam,2037,3906
+Brunei Darussalam,2038,3843
+Brunei Darussalam,2039,3794
+Brunei Darussalam,2040,3755
+Brunei Darussalam,2041,3715
+Brunei Darussalam,2042,3668
+Brunei Darussalam,2043,3608
+Brunei Darussalam,2044,3532
+Brunei Darussalam,2045,3435
+Brunei Darussalam,2046,3321
+Brunei Darussalam,2047,3197
+Brunei Darussalam,2048,3064
+Brunei Darussalam,2049,2929
+Brunei Darussalam,2050,2798
+Brunei Darussalam,2051,2677
+Brunei Darussalam,2052,2569
+Brunei Darussalam,2053,2477
+Brunei Darussalam,2054,2401
+Brunei Darussalam,2055,2341
+Brunei Darussalam,2056,2292
+Brunei Darussalam,2057,2249
+Brunei Darussalam,2058,2211
+Brunei Darussalam,2059,2177
+Brunei Darussalam,2060,2147
+Brunei Darussalam,2061,2119
+Brunei Darussalam,2062,2095
+Brunei Darussalam,2063,2072
+Brunei Darussalam,2064,2051
+Brunei Darussalam,2065,2031
+Brunei Darussalam,2066,2012
+Brunei Darussalam,2067,1994
+Burkina Faso,2014,6291
+Burkina Faso,2015,6316
+Burkina Faso,2016,6344
+Burkina Faso,2017,6377
+Burkina Faso,2018,6414
+Burkina Faso,2019,6454
+Burkina Faso,2020,6493
+Burkina Faso,2021,6530
+Burkina Faso,2022,6563
+Burkina Faso,2023,6593
+Burkina Faso,2024,6623
+Burkina Faso,2025,6657
+Burkina Faso,2026,6697
+Burkina Faso,2027,6744
+Burkina Faso,2028,6799
+Burkina Faso,2029,6859
+Burkina Faso,2030,6922
+Burkina Faso,2031,6984
+Burkina Faso,2032,7041
+Burkina Faso,2033,7090
+Burkina Faso,2034,7127
+Burkina Faso,2035,7152
+Burkina Faso,2036,7165
+Burkina Faso,2037,7167
+Burkina Faso,2038,7159
+Burkina Faso,2039,7142
+Burkina Faso,2040,7119
+Burkina Faso,2041,7092
+Burkina Faso,2042,7064
+Burkina Faso,2043,7036
+Burkina Faso,2044,7007
+Burkina Faso,2045,6979
+Burkina Faso,2046,6950
+Burkina Faso,2047,6917
+Burkina Faso,2048,6882
+Burkina Faso,2049,6844
+Burkina Faso,2050,6801
+Burkina Faso,2051,6754
+Burkina Faso,2052,6704
+Burkina Faso,2053,6650
+Burkina Faso,2054,6592
+Burkina Faso,2055,6531
+Burkina Faso,2056,6468
+Burkina Faso,2057,6403
+Burkina Faso,2058,6335
+Burkina Faso,2059,6265
+Burkina Faso,2060,6193
+Burkina Faso,2061,6116
+Burkina Faso,2062,6037
+Burkina Faso,2063,5954
+Burkina Faso,2064,5869
+Burkina Faso,2065,5781
+Burkina Faso,2066,5693
+Burkina Faso,2067,5605
+Burundi,2014,6953
+Burundi,2015,6998
+Burundi,2016,7045
+Burundi,2017,7092
+Burundi,2018,7138
+Burundi,2019,7179
+Burundi,2020,7216
+Burundi,2021,7247
+Burundi,2022,7272
+Burundi,2023,7293
+Burundi,2024,7311
+Burundi,2025,7329
+Burundi,2026,7348
+Burundi,2027,7370
+Burundi,2028,7395
+Burundi,2029,7419
+Burundi,2030,7439
+Burundi,2031,7452
+Burundi,2032,7457
+Burundi,2033,7455
+Burundi,2034,7450
+Burundi,2035,7449
+Burundi,2036,7454
+Burundi,2037,7469
+Burundi,2038,7492
+Burundi,2039,7520
+Burundi,2040,7546
+Burundi,2041,7565
+Burundi,2042,7572
+Burundi,2043,7564
+Burundi,2044,7542
+Burundi,2045,7508
+Burundi,2046,7465
+Burundi,2047,7418
+Burundi,2048,7368
+Burundi,2049,7318
+Burundi,2050,7267
+Burundi,2051,7217
+Burundi,2052,7165
+Burundi,2053,7112
+Burundi,2054,7057
+Burundi,2055,7000
+Burundi,2056,6939
+Burundi,2057,6873
+Burundi,2058,6803
+Burundi,2059,6729
+Burundi,2060,6650
+Burundi,2061,6567
+Burundi,2062,6481
+Burundi,2063,6393
+Burundi,2064,6304
+Burundi,2065,6214
+Burundi,2066,6123
+Burundi,2067,6033
+Cabo Verde,2014,6885
+Cabo Verde,2015,6922
+Cabo Verde,2016,6953
+Cabo Verde,2017,6976
+Cabo Verde,2018,6989
+Cabo Verde,2019,6993
+Cabo Verde,2020,6990
+Cabo Verde,2021,6982
+Cabo Verde,2022,6970
+Cabo Verde,2023,6954
+Cabo Verde,2024,6935
+Cabo Verde,2025,6913
+Cabo Verde,2026,6887
+Cabo Verde,2027,6855
+Cabo Verde,2028,6818
+Cabo Verde,2029,6771
+Cabo Verde,2030,6714
+Cabo Verde,2031,6645
+Cabo Verde,2032,6564
+Cabo Verde,2033,6473
+Cabo Verde,2034,6375
+Cabo Verde,2035,6274
+Cabo Verde,2036,6174
+Cabo Verde,2037,6075
+Cabo Verde,2038,5979
+Cabo Verde,2039,5883
+Cabo Verde,2040,5784
+Cabo Verde,2041,5680
+Cabo Verde,2042,5565
+Cabo Verde,2043,5441
+Cabo Verde,2044,5307
+Cabo Verde,2045,5164
+Cabo Verde,2046,5016
+Cabo Verde,2047,4863
+Cabo Verde,2048,4708
+Cabo Verde,2049,4550
+Cabo Verde,2050,4388
+Cabo Verde,2051,4221
+Cabo Verde,2052,4050
+Cabo Verde,2053,3876
+Cabo Verde,2054,3701
+Cabo Verde,2055,3527
+Cabo Verde,2056,3357
+Cabo Verde,2057,3192
+Cabo Verde,2058,3037
+Cabo Verde,2059,2895
+Cabo Verde,2060,2770
+Cabo Verde,2061,2660
+Cabo Verde,2062,2567
+Cabo Verde,2063,2490
+Cabo Verde,2064,2427
+Cabo Verde,2065,2375
+Cabo Verde,2066,2331
+Cabo Verde,2067,2292
+Cambodia,2014,6967
+Cambodia,2015,6964
+Cambodia,2016,6955
+Cambodia,2017,6937
+Cambodia,2018,6909
+Cambodia,2019,6868
+Cambodia,2020,6815
+Cambodia,2021,6749
+Cambodia,2022,6672
+Cambodia,2023,6583
+Cambodia,2024,6475
+Cambodia,2025,6338
+Cambodia,2026,6173
+Cambodia,2027,5988
+Cambodia,2028,5795
+Cambodia,2029,5622
+Cambodia,2030,5498
+Cambodia,2031,5441
+Cambodia,2032,5459
+Cambodia,2033,5545
+Cambodia,2034,5685
+Cambodia,2035,5850
+Cambodia,2036,6008
+Cambodia,2037,6130
+Cambodia,2038,6200
+Cambodia,2039,6210
+Cambodia,2040,6160
+Cambodia,2041,6065
+Cambodia,2042,5941
+Cambodia,2043,5792
+Cambodia,2044,5623
+Cambodia,2045,5438
+Cambodia,2046,5240
+Cambodia,2047,5033
+Cambodia,2048,4825
+Cambodia,2049,4620
+Cambodia,2050,4423
+Cambodia,2051,4236
+Cambodia,2052,4059
+Cambodia,2053,3896
+Cambodia,2054,3750
+Cambodia,2055,3619
+Cambodia,2056,3504
+Cambodia,2057,3401
+Cambodia,2058,3310
+Cambodia,2059,3230
+Cambodia,2060,3162
+Cambodia,2061,3102
+Cambodia,2062,3051
+Cambodia,2063,3007
+Cambodia,2064,2966
+Cambodia,2065,2929
+Cambodia,2066,2894
+Cambodia,2067,2861
+Cameroon,2014,5647
+Cameroon,2015,5705
+Cameroon,2016,5766
+Cameroon,2017,5828
+Cameroon,2018,5890
+Cameroon,2019,5949
+Cameroon,2020,6005
+Cameroon,2021,6058
+Cameroon,2022,6110
+Cameroon,2023,6159
+Cameroon,2024,6205
+Cameroon,2025,6247
+Cameroon,2026,6286
+Cameroon,2027,6322
+Cameroon,2028,6356
+Cameroon,2029,6391
+Cameroon,2030,6429
+Cameroon,2031,6470
+Cameroon,2032,6516
+Cameroon,2033,6563
+Cameroon,2034,6609
+Cameroon,2035,6651
+Cameroon,2036,6683
+Cameroon,2037,6703
+Cameroon,2038,6708
+Cameroon,2039,6697
+Cameroon,2040,6669
+Cameroon,2041,6627
+Cameroon,2042,6572
+Cameroon,2043,6508
+Cameroon,2044,6434
+Cameroon,2045,6352
+Cameroon,2046,6264
+Cameroon,2047,6173
+Cameroon,2048,6080
+Cameroon,2049,5989
+Cameroon,2050,5903
+Cameroon,2051,5823
+Cameroon,2052,5749
+Cameroon,2053,5682
+Cameroon,2054,5621
+Cameroon,2055,5567
+Cameroon,2056,5515
+Cameroon,2057,5464
+Cameroon,2058,5413
+Cameroon,2059,5358
+Cameroon,2060,5299
+Cameroon,2061,5235
+Cameroon,2062,5167
+Cameroon,2063,5094
+Cameroon,2064,5017
+Cameroon,2065,4939
+Cameroon,2066,4859
+Cameroon,2067,4780
+Central African Republic,2014,5840
+Central African Republic,2015,5867
+Central African Republic,2016,5891
+Central African Republic,2017,5910
+Central African Republic,2018,5925
+Central African Republic,2019,5937
+Central African Republic,2020,5945
+Central African Republic,2021,5950
+Central African Republic,2022,5953
+Central African Republic,2023,5954
+Central African Republic,2024,5954
+Central African Republic,2025,5954
+Central African Republic,2026,5953
+Central African Republic,2027,5952
+Central African Republic,2028,5951
+Central African Republic,2029,5950
+Central African Republic,2030,5951
+Central African Republic,2031,5952
+Central African Republic,2032,5953
+Central African Republic,2033,5954
+Central African Republic,2034,5954
+Central African Republic,2035,5955
+Central African Republic,2036,5956
+Central African Republic,2037,5955
+Central African Republic,2038,5952
+Central African Republic,2039,5944
+Central African Republic,2040,5927
+Central African Republic,2041,5902
+Central African Republic,2042,5868
+Central African Republic,2043,5826
+Central African Republic,2044,5780
+Central African Republic,2045,5734
+Central African Republic,2046,5691
+Central African Republic,2047,5653
+Central African Republic,2048,5622
+Central African Republic,2049,5596
+Central African Republic,2050,5573
+Central African Republic,2051,5550
+Central African Republic,2052,5522
+Central African Republic,2053,5488
+Central African Republic,2054,5446
+Central African Republic,2055,5393
+Central African Republic,2056,5329
+Central African Republic,2057,5257
+Central African Republic,2058,5176
+Central African Republic,2059,5089
+Central African Republic,2060,4997
+Central African Republic,2061,4903
+Central African Republic,2062,4809
+Central African Republic,2063,4716
+Central African Republic,2064,4626
+Central African Republic,2065,4538
+Central African Republic,2066,4451
+Central African Republic,2067,4365
+Chad,2014,6250
+Chad,2015,6268
+Chad,2016,6285
+Chad,2017,6301
+Chad,2018,6318
+Chad,2019,6337
+Chad,2020,6362
+Chad,2021,6393
+Chad,2022,6432
+Chad,2023,6477
+Chad,2024,6528
+Chad,2025,6582
+Chad,2026,6636
+Chad,2027,6688
+Chad,2028,6736
+Chad,2029,6780
+Chad,2030,6820
+Chad,2031,6857
+Chad,2032,6892
+Chad,2033,6925
+Chad,2034,6958
+Chad,2035,6990
+Chad,2036,7023
+Chad,2037,7056
+Chad,2038,7089
+Chad,2039,7124
+Chad,2040,7161
+Chad,2041,7199
+Chad,2042,7238
+Chad,2043,7276
+Chad,2044,7313
+Chad,2045,7346
+Chad,2046,7376
+Chad,2047,7399
+Chad,2048,7416
+Chad,2049,7425
+Chad,2050,7426
+Chad,2051,7419
+Chad,2052,7405
+Chad,2053,7384
+Chad,2054,7354
+Chad,2055,7315
+Chad,2056,7268
+Chad,2057,7212
+Chad,2058,7147
+Chad,2059,7074
+Chad,2060,6992
+Chad,2061,6902
+Chad,2062,6805
+Chad,2063,6702
+Chad,2064,6596
+Chad,2065,6486
+Chad,2066,6375
+Chad,2067,6263
+Comoros,2014,6792
+Comoros,2015,6849
+Comoros,2016,6897
+Comoros,2017,6939
+Comoros,2018,6975
+Comoros,2019,7004
+Comoros,2020,7027
+Comoros,2021,7044
+Comoros,2022,7055
+Comoros,2023,7060
+Comoros,2024,7061
+Comoros,2025,7060
+Comoros,2026,7058
+Comoros,2027,7055
+Comoros,2028,7052
+Comoros,2029,7054
+Comoros,2030,7065
+Comoros,2031,7084
+Comoros,2032,7106
+Comoros,2033,7126
+Comoros,2034,7129
+Comoros,2035,7102
+Comoros,2036,7033
+Comoros,2037,6921
+Comoros,2038,6766
+Comoros,2039,6576
+Comoros,2040,6362
+Comoros,2041,6141
+Comoros,2042,5928
+Comoros,2043,5735
+Comoros,2044,5573
+Comoros,2045,5447
+Comoros,2046,5355
+Comoros,2047,5293
+Comoros,2048,5257
+Comoros,2049,5246
+Comoros,2050,5253
+Comoros,2051,5270
+Comoros,2052,5289
+Comoros,2053,5306
+Comoros,2054,5315
+Comoros,2055,5313
+Comoros,2056,5303
+Comoros,2057,5283
+Comoros,2058,5254
+Comoros,2059,5216
+Comoros,2060,5168
+Comoros,2061,5112
+Comoros,2062,5051
+Comoros,2063,4986
+Comoros,2064,4919
+Comoros,2065,4850
+Comoros,2066,4782
+Comoros,2067,4714
+Dem. Rep. Congo,2014,6001
+Dem. Rep. Congo,2015,6015
+Dem. Rep. Congo,2016,6030
+Dem. Rep. Congo,2017,6048
+Dem. Rep. Congo,2018,6067
+Dem. Rep. Congo,2019,6089
+Dem. Rep. Congo,2020,6111
+Dem. Rep. Congo,2021,6135
+Dem. Rep. Congo,2022,6161
+Dem. Rep. Congo,2023,6187
+Dem. Rep. Congo,2024,6214
+Dem. Rep. Congo,2025,6242
+Dem. Rep. Congo,2026,6271
+Dem. Rep. Congo,2027,6301
+Dem. Rep. Congo,2028,6333
+Dem. Rep. Congo,2029,6366
+Dem. Rep. Congo,2030,6403
+Dem. Rep. Congo,2031,6443
+Dem. Rep. Congo,2032,6487
+Dem. Rep. Congo,2033,6535
+Dem. Rep. Congo,2034,6585
+Dem. Rep. Congo,2035,6636
+Dem. Rep. Congo,2036,6689
+Dem. Rep. Congo,2037,6742
+Dem. Rep. Congo,2038,6794
+Dem. Rep. Congo,2039,6847
+Dem. Rep. Congo,2040,6902
+Dem. Rep. Congo,2041,6960
+Dem. Rep. Congo,2042,7019
+Dem. Rep. Congo,2043,7077
+Dem. Rep. Congo,2044,7133
+Dem. Rep. Congo,2045,7183
+Dem. Rep. Congo,2046,7223
+Dem. Rep. Congo,2047,7251
+Dem. Rep. Congo,2048,7267
+Dem. Rep. Congo,2049,7267
+Dem. Rep. Congo,2050,7253
+Dem. Rep. Congo,2051,7227
+Dem. Rep. Congo,2052,7190
+Dem. Rep. Congo,2053,7143
+Dem. Rep. Congo,2054,7089
+Dem. Rep. Congo,2055,7027
+Dem. Rep. Congo,2056,6960
+Dem. Rep. Congo,2057,6887
+Dem. Rep. Congo,2058,6809
+Dem. Rep. Congo,2059,6728
+Dem. Rep. Congo,2060,6642
+Dem. Rep. Congo,2061,6550
+Dem. Rep. Congo,2062,6454
+Dem. Rep. Congo,2063,6354
+Dem. Rep. Congo,2064,6251
+Dem. Rep. Congo,2065,6146
+Dem. Rep. Congo,2066,6039
+Dem. Rep. Congo,2067,5933
+Congo,2014,5880
+Congo,2015,5922
+Congo,2016,5967
+Congo,2017,6012
+Congo,2018,6056
+Congo,2019,6098
+Congo,2020,6138
+Congo,2021,6174
+Congo,2022,6207
+Congo,2023,6235
+Congo,2024,6259
+Congo,2025,6280
+Congo,2026,6297
+Congo,2027,6312
+Congo,2028,6321
+Congo,2029,6325
+Congo,2030,6318
+Congo,2031,6301
+Congo,2032,6273
+Congo,2033,6231
+Congo,2034,6178
+Congo,2035,6112
+Congo,2036,6036
+Congo,2037,5952
+Congo,2038,5864
+Congo,2039,5774
+Congo,2040,5682
+Congo,2041,5591
+Congo,2042,5503
+Congo,2043,5421
+Congo,2044,5347
+Congo,2045,5286
+Congo,2046,5236
+Congo,2047,5198
+Congo,2048,5171
+Congo,2049,5154
+Congo,2050,5145
+Congo,2051,5141
+Congo,2052,5139
+Congo,2053,5137
+Congo,2054,5134
+Congo,2055,5131
+Congo,2056,5128
+Congo,2057,5125
+Congo,2058,5122
+Congo,2059,5119
+Congo,2060,5114
+Congo,2061,5109
+Congo,2062,5101
+Congo,2063,5089
+Congo,2064,5072
+Congo,2065,5046
+Congo,2066,5012
+Congo,2067,4969
+C�te d'Ivoire,2014,7351
+C�te d'Ivoire,2015,7427
+C�te d'Ivoire,2016,7501
+C�te d'Ivoire,2017,7572
+C�te d'Ivoire,2018,7639
+C�te d'Ivoire,2019,7701
+C�te d'Ivoire,2020,7757
+C�te d'Ivoire,2021,7806
+C�te d'Ivoire,2022,7849
+C�te d'Ivoire,2023,7883
+C�te d'Ivoire,2024,7908
+C�te d'Ivoire,2025,7927
+C�te d'Ivoire,2026,7937
+C�te d'Ivoire,2027,7940
+C�te d'Ivoire,2028,7934
+C�te d'Ivoire,2029,7916
+C�te d'Ivoire,2030,7884
+C�te d'Ivoire,2031,7837
+C�te d'Ivoire,2032,7774
+C�te d'Ivoire,2033,7695
+C�te d'Ivoire,2034,7602
+C�te d'Ivoire,2035,7497
+C�te d'Ivoire,2036,7383
+C�te d'Ivoire,2037,7263
+C�te d'Ivoire,2038,7139
+C�te d'Ivoire,2039,7013
+C�te d'Ivoire,2040,6884
+C�te d'Ivoire,2041,6752
+C�te d'Ivoire,2042,6619
+C�te d'Ivoire,2043,6486
+C�te d'Ivoire,2044,6356
+C�te d'Ivoire,2045,6232
+C�te d'Ivoire,2046,6114
+C�te d'Ivoire,2047,6005
+C�te d'Ivoire,2048,5904
+C�te d'Ivoire,2049,5810
+C�te d'Ivoire,2050,5720
+C�te d'Ivoire,2051,5633
+C�te d'Ivoire,2052,5547
+C�te d'Ivoire,2053,5460
+C�te d'Ivoire,2054,5375
+C�te d'Ivoire,2055,5289
+C�te d'Ivoire,2056,5207
+C�te d'Ivoire,2057,5130
+C�te d'Ivoire,2058,5060
+C�te d'Ivoire,2059,5000
+C�te d'Ivoire,2060,4956
+C�te d'Ivoire,2061,4928
+C�te d'Ivoire,2062,4913
+C�te d'Ivoire,2063,4909
+C�te d'Ivoire,2064,4910
+C�te d'Ivoire,2065,4907
+C�te d'Ivoire,2066,4894
+C�te d'Ivoire,2067,4866
+Cyprus,2014,3500
+Cyprus,2015,3471
+Cyprus,2016,3421
+Cyprus,2017,3346
+Cyprus,2018,3249
+Cyprus,2019,3133
+Cyprus,2020,3010
+Cyprus,2021,2889
+Cyprus,2022,2779
+Cyprus,2023,2686
+Cyprus,2024,2610
+Cyprus,2025,2547
+Cyprus,2026,2491
+Cyprus,2027,2440
+Cyprus,2028,2393
+Cyprus,2029,2352
+Cyprus,2030,2323
+Cyprus,2031,2310
+Cyprus,2032,2312
+Cyprus,2033,2328
+Cyprus,2034,2354
+Cyprus,2035,2385
+Cyprus,2036,2415
+Cyprus,2037,2438
+Cyprus,2038,2453
+Cyprus,2039,2458
+Cyprus,2040,2456
+Cyprus,2041,2450
+Cyprus,2042,2442
+Cyprus,2043,2430
+Cyprus,2044,2411
+Cyprus,2045,2381
+Cyprus,2046,2337
+Cyprus,2047,2278
+Cyprus,2048,2206
+Cyprus,2049,2124
+Cyprus,2050,2035
+Cyprus,2051,1945
+Cyprus,2052,1860
+Cyprus,2053,1781
+Cyprus,2054,1714
+Cyprus,2055,1658
+Cyprus,2056,1613
+Cyprus,2057,1577
+Cyprus,2058,1549
+Cyprus,2059,1529
+Cyprus,2060,1514
+Cyprus,2061,1503
+Cyprus,2062,1493
+Cyprus,2063,1485
+Cyprus,2064,1478
+Cyprus,2065,1470
+Cyprus,2066,1465
+Cyprus,2067,1461
+Djibouti,2014,6461
+Djibouti,2015,6493
+Djibouti,2016,6527
+Djibouti,2017,6561
+Djibouti,2018,6595
+Djibouti,2019,6629
+Djibouti,2020,6665
+Djibouti,2021,6702
+Djibouti,2022,6739
+Djibouti,2023,6774
+Djibouti,2024,6804
+Djibouti,2025,6826
+Djibouti,2026,6836
+Djibouti,2027,6834
+Djibouti,2028,6817
+Djibouti,2029,6784
+Djibouti,2030,6734
+Djibouti,2031,6671
+Djibouti,2032,6598
+Djibouti,2033,6520
+Djibouti,2034,6443
+Djibouti,2035,6373
+Djibouti,2036,6316
+Djibouti,2037,6271
+Djibouti,2038,6239
+Djibouti,2039,6218
+Djibouti,2040,6205
+Djibouti,2041,6193
+Djibouti,2042,6174
+Djibouti,2043,6142
+Djibouti,2044,6087
+Djibouti,2045,6000
+Djibouti,2046,5879
+Djibouti,2047,5727
+Djibouti,2048,5548
+Djibouti,2049,5352
+Djibouti,2050,5148
+Djibouti,2051,4950
+Djibouti,2052,4768
+Djibouti,2053,4607
+Djibouti,2054,4469
+Djibouti,2055,4353
+Djibouti,2056,4253
+Djibouti,2057,4160
+Djibouti,2058,4074
+Djibouti,2059,3991
+Djibouti,2060,3911
+Djibouti,2061,3832
+Djibouti,2062,3755
+Djibouti,2063,3679
+Djibouti,2064,3604
+Djibouti,2065,3530
+Djibouti,2066,3457
+Djibouti,2067,3387
+Egypt,2014,6630
+Egypt,2015,6605
+Egypt,2016,6570
+Egypt,2017,6526
+Egypt,2018,6471
+Egypt,2019,6405
+Egypt,2020,6327
+Egypt,2021,6238
+Egypt,2022,6141
+Egypt,2023,6040
+Egypt,2024,5940
+Egypt,2025,5846
+Egypt,2026,5763
+Egypt,2027,5692
+Egypt,2028,5633
+Egypt,2029,5585
+Egypt,2030,5545
+Egypt,2031,5507
+Egypt,2032,5465
+Egypt,2033,5418
+Egypt,2034,5366
+Egypt,2035,5310
+Egypt,2036,5251
+Egypt,2037,5189
+Egypt,2038,5123
+Egypt,2039,5045
+Egypt,2040,4947
+Egypt,2041,4827
+Egypt,2042,4684
+Egypt,2043,4522
+Egypt,2044,4350
+Egypt,2045,4179
+Egypt,2046,4018
+Egypt,2047,3876
+Egypt,2048,3757
+Egypt,2049,3659
+Egypt,2050,3579
+Egypt,2051,3508
+Egypt,2052,3440
+Egypt,2053,3372
+Egypt,2054,3306
+Egypt,2055,3242
+Egypt,2056,3184
+Egypt,2057,3134
+Egypt,2058,3091
+Egypt,2059,3053
+Egypt,2060,3020
+Egypt,2061,2987
+Egypt,2062,2954
+Egypt,2063,2919
+Egypt,2064,2883
+Egypt,2065,2845
+Egypt,2066,2807
+Egypt,2067,2770
+Equatorial Guinea,2014,5505
+Equatorial Guinea,2015,5515
+Equatorial Guinea,2016,5529
+Equatorial Guinea,2017,5548
+Equatorial Guinea,2018,5570
+Equatorial Guinea,2019,5595
+Equatorial Guinea,2020,5619
+Equatorial Guinea,2021,5640
+Equatorial Guinea,2022,5658
+Equatorial Guinea,2023,5671
+Equatorial Guinea,2024,5678
+Equatorial Guinea,2025,5681
+Equatorial Guinea,2026,5680
+Equatorial Guinea,2027,5677
+Equatorial Guinea,2028,5675
+Equatorial Guinea,2029,5674
+Equatorial Guinea,2030,5676
+Equatorial Guinea,2031,5682
+Equatorial Guinea,2032,5693
+Equatorial Guinea,2033,5708
+Equatorial Guinea,2034,5728
+Equatorial Guinea,2035,5751
+Equatorial Guinea,2036,5776
+Equatorial Guinea,2037,5802
+Equatorial Guinea,2038,5826
+Equatorial Guinea,2039,5848
+Equatorial Guinea,2040,5866
+Equatorial Guinea,2041,5881
+Equatorial Guinea,2042,5891
+Equatorial Guinea,2043,5897
+Equatorial Guinea,2044,5900
+Equatorial Guinea,2045,5901
+Equatorial Guinea,2046,5902
+Equatorial Guinea,2047,5902
+Equatorial Guinea,2048,5901
+Equatorial Guinea,2049,5897
+Equatorial Guinea,2050,5888
+Equatorial Guinea,2051,5872
+Equatorial Guinea,2052,5847
+Equatorial Guinea,2053,5814
+Equatorial Guinea,2054,5773
+Equatorial Guinea,2055,5727
+Equatorial Guinea,2056,5678
+Equatorial Guinea,2057,5627
+Equatorial Guinea,2058,5574
+Equatorial Guinea,2059,5518
+Equatorial Guinea,2060,5457
+Equatorial Guinea,2061,5390
+Equatorial Guinea,2062,5314
+Equatorial Guinea,2063,5231
+Equatorial Guinea,2064,5140
+Equatorial Guinea,2065,5044
+Equatorial Guinea,2066,4945
+Equatorial Guinea,2067,4845
+Eritrea,2014,6899
+Eritrea,2015,6868
+Eritrea,2016,6837
+Eritrea,2017,6806
+Eritrea,2018,6778
+Eritrea,2019,6752
+Eritrea,2020,6728
+Eritrea,2021,6706
+Eritrea,2022,6686
+Eritrea,2023,6667
+Eritrea,2024,6650
+Eritrea,2025,6637
+Eritrea,2026,6626
+Eritrea,2027,6619
+Eritrea,2028,6615
+Eritrea,2029,6614
+Eritrea,2030,6616
+Eritrea,2031,6619
+Eritrea,2032,6623
+Eritrea,2033,6627
+Eritrea,2034,6628
+Eritrea,2035,6625
+Eritrea,2036,6618
+Eritrea,2037,6607
+Eritrea,2038,6591
+Eritrea,2039,6572
+Eritrea,2040,6553
+Eritrea,2041,6535
+Eritrea,2042,6519
+Eritrea,2043,6504
+Eritrea,2044,6488
+Eritrea,2045,6467
+Eritrea,2046,6438
+Eritrea,2047,6400
+Eritrea,2048,6351
+Eritrea,2049,6293
+Eritrea,2050,6228
+Eritrea,2051,6159
+Eritrea,2052,6088
+Eritrea,2053,6015
+Eritrea,2054,5940
+Eritrea,2055,5860
+Eritrea,2056,5774
+Eritrea,2057,5681
+Eritrea,2058,5582
+Eritrea,2059,5478
+Eritrea,2060,5372
+Eritrea,2061,5266
+Eritrea,2062,5163
+Eritrea,2063,5063
+Eritrea,2064,4968
+Eritrea,2065,4875
+Eritrea,2066,4785
+Eritrea,2067,4696
+Estonia,2014,1980
+Estonia,2015,1980
+Estonia,2016,1950
+Estonia,2017,1890
+Estonia,2018,1940
+Estonia,2019,1880
+Estonia,2020,1870
+Estonia,2021,1900
+Estonia,2022,2030
+Estonia,2023,2130
+Estonia,2024,2170
+Estonia,2025,2190
+Estonia,2026,2130
+Estonia,2027,2060
+Estonia,2028,2070
+Estonia,2029,2040
+Estonia,2030,2070
+Estonia,2031,2060
+Estonia,2032,2020
+Estonia,2033,2000
+Estonia,2034,2020
+Estonia,2035,2070
+Estonia,2036,2070
+Estonia,2037,2160
+Estonia,2038,2170
+Estonia,2039,2130
+Estonia,2040,2180
+Estonia,2041,2270
+Estonia,2042,2270
+Estonia,2043,2220
+Estonia,2044,2050
+Estonia,2045,1800
+Estonia,2046,1710
+Estonia,2047,1490
+Estonia,2048,1420
+Estonia,2049,1380
+Estonia,2050,1370
+Estonia,2051,1320
+Estonia,2052,1280
+Estonia,2053,1300
+Estonia,2054,1360
+Estonia,2055,1320
+Estonia,2056,1360
+Estonia,2057,1370
+Estonia,2058,1470
+Estonia,2059,1520
+Estonia,2060,1580
+Estonia,2061,1690
+Estonia,2062,1720
+Estonia,2063,1700
+Estonia,2064,1720
+Estonia,2065,1610
+Estonia,2066,1560
+Estonia,2067,1560
+Ethiopia,2014,6880
+Ethiopia,2015,6877
+Ethiopia,2016,6875
+Ethiopia,2017,6872
+Ethiopia,2018,6867
+Ethiopia,2019,6864
+Ethiopia,2020,6867
+Ethiopia,2021,6880
+Ethiopia,2022,6903
+Ethiopia,2023,6937
+Ethiopia,2024,6978
+Ethiopia,2025,7020
+Ethiopia,2026,7060
+Ethiopia,2027,7094
+Ethiopia,2028,7121
+Ethiopia,2029,7143
+Ethiopia,2030,7167
+Ethiopia,2031,7195
+Ethiopia,2032,7230
+Ethiopia,2033,7271
+Ethiopia,2034,7316
+Ethiopia,2035,7360
+Ethiopia,2036,7397
+Ethiopia,2037,7424
+Ethiopia,2038,7437
+Ethiopia,2039,7435
+Ethiopia,2040,7418
+Ethiopia,2041,7387
+Ethiopia,2042,7347
+Ethiopia,2043,7298
+Ethiopia,2044,7246
+Ethiopia,2045,7193
+Ethiopia,2046,7143
+Ethiopia,2047,7094
+Ethiopia,2048,7046
+Ethiopia,2049,6995
+Ethiopia,2050,6935
+Ethiopia,2051,6861
+Ethiopia,2052,6769
+Ethiopia,2053,6659
+Ethiopia,2054,6529
+Ethiopia,2055,6380
+Ethiopia,2056,6218
+Ethiopia,2057,6046
+Ethiopia,2058,5870
+Ethiopia,2059,5693
+Ethiopia,2060,5520
+Ethiopia,2061,5353
+Ethiopia,2062,5193
+Ethiopia,2063,5043
+Ethiopia,2064,4902
+Ethiopia,2065,4769
+Ethiopia,2066,4642
+Ethiopia,2067,4519
+Gabon,2014,4384
+Gabon,2015,4462
+Gabon,2016,4541
+Gabon,2017,4619
+Gabon,2018,4694
+Gabon,2019,4766
+Gabon,2020,4834
+Gabon,2021,4899
+Gabon,2022,4961
+Gabon,2023,5021
+Gabon,2024,5081
+Gabon,2025,5143
+Gabon,2026,5208
+Gabon,2027,5275
+Gabon,2028,5343
+Gabon,2029,5412
+Gabon,2030,5480
+Gabon,2031,5543
+Gabon,2032,5600
+Gabon,2033,5648
+Gabon,2034,5684
+Gabon,2035,5709
+Gabon,2036,5722
+Gabon,2037,5723
+Gabon,2038,5712
+Gabon,2039,5689
+Gabon,2040,5654
+Gabon,2041,5609
+Gabon,2042,5554
+Gabon,2043,5491
+Gabon,2044,5421
+Gabon,2045,5343
+Gabon,2046,5259
+Gabon,2047,5170
+Gabon,2048,5078
+Gabon,2049,4987
+Gabon,2050,4898
+Gabon,2051,4814
+Gabon,2052,4735
+Gabon,2053,4664
+Gabon,2054,4600
+Gabon,2055,4544
+Gabon,2056,4494
+Gabon,2057,4449
+Gabon,2058,4408
+Gabon,2059,4370
+Gabon,2060,4335
+Gabon,2061,4304
+Gabon,2062,4275
+Gabon,2063,4246
+Gabon,2064,4214
+Gabon,2065,4178
+Gabon,2066,4136
+Gabon,2067,4087
+"Gambia, The",2014,5573
+"Gambia, The",2015,5621
+"Gambia, The",2016,5672
+"Gambia, The",2017,5723
+"Gambia, The",2018,5776
+"Gambia, The",2019,5830
+"Gambia, The",2020,5884
+"Gambia, The",2021,5938
+"Gambia, The",2022,5991
+"Gambia, The",2023,6043
+"Gambia, The",2024,6093
+"Gambia, The",2025,6141
+"Gambia, The",2026,6185
+"Gambia, The",2027,6226
+"Gambia, The",2028,6262
+"Gambia, The",2029,6293
+"Gambia, The",2030,6316
+"Gambia, The",2031,6333
+"Gambia, The",2032,6342
+"Gambia, The",2033,6343
+"Gambia, The",2034,6337
+"Gambia, The",2035,6323
+"Gambia, The",2036,6303
+"Gambia, The",2037,6277
+"Gambia, The",2038,6248
+"Gambia, The",2039,6219
+"Gambia, The",2040,6190
+"Gambia, The",2041,6164
+"Gambia, The",2042,6141
+"Gambia, The",2043,6123
+"Gambia, The",2044,6107
+"Gambia, The",2045,6095
+"Gambia, The",2046,6083
+"Gambia, The",2047,6070
+"Gambia, The",2048,6056
+"Gambia, The",2049,6039
+"Gambia, The",2050,6018
+"Gambia, The",2051,5995
+"Gambia, The",2052,5970
+"Gambia, The",2053,5944
+"Gambia, The",2054,5917
+"Gambia, The",2055,5891
+"Gambia, The",2056,5867
+"Gambia, The",2057,5845
+"Gambia, The",2058,5827
+"Gambia, The",2059,5812
+"Gambia, The",2060,5803
+"Gambia, The",2061,5799
+"Gambia, The",2062,5798
+"Gambia, The",2063,5798
+"Gambia, The",2064,5796
+"Gambia, The",2065,5789
+"Gambia, The",2066,5775
+"Gambia, The",2067,5751
+Ghana,2014,6749
+Ghana,2015,6789
+Ghana,2016,6827
+Ghana,2017,6862
+Ghana,2018,6893
+Ghana,2019,6918
+Ghana,2020,6937
+Ghana,2021,6950
+Ghana,2022,6957
+Ghana,2023,6957
+Ghana,2024,6950
+Ghana,2025,6936
+Ghana,2026,6915
+Ghana,2027,6888
+Ghana,2028,6855
+Ghana,2029,6815
+Ghana,2030,6771
+Ghana,2031,6721
+Ghana,2032,6665
+Ghana,2033,6605
+Ghana,2034,6539
+Ghana,2035,6468
+Ghana,2036,6392
+Ghana,2037,6310
+Ghana,2038,6223
+Ghana,2039,6131
+Ghana,2040,6035
+Ghana,2041,5935
+Ghana,2042,5831
+Ghana,2043,5725
+Ghana,2044,5616
+Ghana,2045,5505
+Ghana,2046,5392
+Ghana,2047,5278
+Ghana,2048,5165
+Ghana,2049,5058
+Ghana,2050,4959
+Ghana,2051,4870
+Ghana,2052,4793
+Ghana,2053,4727
+Ghana,2054,4669
+Ghana,2055,4617
+Ghana,2056,4566
+Ghana,2057,4512
+Ghana,2058,4455
+Ghana,2059,4392
+Ghana,2060,4326
+Ghana,2061,4257
+Ghana,2062,4188
+Ghana,2063,4119
+Ghana,2064,4052
+Ghana,2065,3985
+Ghana,2066,3920
+Ghana,2067,3857
+Grenada,2014,6743
+Grenada,2015,6627
+Grenada,2016,6442
+Grenada,2017,6196
+Grenada,2018,5906
+Grenada,2019,5597
+Grenada,2020,5300
+Grenada,2021,5040
+Grenada,2022,4835
+Grenada,2023,4690
+Grenada,2024,4604
+Grenada,2025,4561
+Grenada,2026,4537
+Grenada,2027,4512
+Grenada,2028,4479
+Grenada,2029,4436
+Grenada,2030,4385
+Grenada,2031,4337
+Grenada,2032,4299
+Grenada,2033,4269
+Grenada,2034,4251
+Grenada,2035,4244
+Grenada,2036,4243
+Grenada,2037,4245
+Grenada,2038,4243
+Grenada,2039,4231
+Grenada,2040,4200
+Grenada,2041,4146
+Grenada,2042,4068
+Grenada,2043,3966
+Grenada,2044,3842
+Grenada,2045,3701
+Grenada,2046,3551
+Grenada,2047,3401
+Grenada,2048,3254
+Grenada,2049,3116
+Grenada,2050,2988
+Grenada,2051,2870
+Grenada,2052,2762
+Grenada,2053,2666
+Grenada,2054,2582
+Grenada,2055,2512
+Grenada,2056,2455
+Grenada,2057,2409
+Grenada,2058,2373
+Grenada,2059,2344
+Grenada,2060,2321
+Grenada,2061,2301
+Grenada,2062,2282
+Grenada,2063,2262
+Grenada,2064,2240
+Grenada,2065,2217
+Grenada,2066,2194
+Grenada,2067,2170
+Guinea,2014,6102
+Guinea,2015,6113
+Guinea,2016,6121
+Guinea,2017,6127
+Guinea,2018,6131
+Guinea,2019,6135
+Guinea,2020,6140
+Guinea,2021,6147
+Guinea,2022,6158
+Guinea,2023,6174
+Guinea,2024,6195
+Guinea,2025,6221
+Guinea,2026,6250
+Guinea,2027,6283
+Guinea,2028,6318
+Guinea,2029,6354
+Guinea,2030,6391
+Guinea,2031,6428
+Guinea,2032,6465
+Guinea,2033,6500
+Guinea,2034,6533
+Guinea,2035,6563
+Guinea,2036,6590
+Guinea,2037,6613
+Guinea,2038,6630
+Guinea,2039,6641
+Guinea,2040,6645
+Guinea,2041,6641
+Guinea,2042,6629
+Guinea,2043,6608
+Guinea,2044,6579
+Guinea,2045,6539
+Guinea,2046,6492
+Guinea,2047,6436
+Guinea,2048,6375
+Guinea,2049,6308
+Guinea,2050,6237
+Guinea,2051,6163
+Guinea,2052,6089
+Guinea,2053,6014
+Guinea,2054,5939
+Guinea,2055,5866
+Guinea,2056,5794
+Guinea,2057,5722
+Guinea,2058,5649
+Guinea,2059,5576
+Guinea,2060,5501
+Guinea,2061,5423
+Guinea,2062,5343
+Guinea,2063,5260
+Guinea,2064,5174
+Guinea,2065,5088
+Guinea,2066,5001
+Guinea,2067,4915
+Guinea-Bissau,2014,5828
+Guinea-Bissau,2015,5771
+Guinea-Bissau,2016,5670
+Guinea-Bissau,2017,5515
+Guinea-Bissau,2018,5320
+Guinea-Bissau,2019,5139
+Guinea-Bissau,2020,5045
+Guinea-Bissau,2021,5091
+Guinea-Bissau,2022,5296
+Guinea-Bissau,2023,5643
+Guinea-Bissau,2024,6071
+Guinea-Bissau,2025,6489
+Guinea-Bissau,2026,6812
+Guinea-Bissau,2027,6984
+Guinea-Bissau,2028,6993
+Guinea-Bissau,2029,6866
+Guinea-Bissau,2030,6662
+Guinea-Bissau,2031,6463
+Guinea-Bissau,2032,6330
+Guinea-Bissau,2033,6283
+Guinea-Bissau,2034,6322
+Guinea-Bissau,2035,6423
+Guinea-Bissau,2036,6542
+Guinea-Bissau,2037,6642
+Guinea-Bissau,2038,6710
+Guinea-Bissau,2039,6743
+Guinea-Bissau,2040,6743
+Guinea-Bissau,2041,6728
+Guinea-Bissau,2042,6706
+Guinea-Bissau,2043,6680
+Guinea-Bissau,2044,6649
+Guinea-Bissau,2045,6608
+Guinea-Bissau,2046,6554
+Guinea-Bissau,2047,6486
+Guinea-Bissau,2048,6404
+Guinea-Bissau,2049,6311
+Guinea-Bissau,2050,6214
+Guinea-Bissau,2051,6115
+Guinea-Bissau,2052,6019
+Guinea-Bissau,2053,5929
+Guinea-Bissau,2054,5845
+Guinea-Bissau,2055,5766
+Guinea-Bissau,2056,5690
+Guinea-Bissau,2057,5614
+Guinea-Bissau,2058,5539
+Guinea-Bissau,2059,5463
+Guinea-Bissau,2060,5389
+Guinea-Bissau,2061,5317
+Guinea-Bissau,2062,5247
+Guinea-Bissau,2063,5180
+Guinea-Bissau,2064,5115
+Guinea-Bissau,2065,5052
+Guinea-Bissau,2066,4989
+Guinea-Bissau,2067,4927
+Guyana,2014,5671
+Guyana,2015,5578
+Guyana,2016,5485
+Guyana,2017,5401
+Guyana,2018,5329
+Guyana,2019,5272
+Guyana,2020,5228
+Guyana,2021,5190
+Guyana,2022,5152
+Guyana,2023,5112
+Guyana,2024,5068
+Guyana,2025,5022
+Guyana,2026,4974
+Guyana,2027,4919
+Guyana,2028,4852
+Guyana,2029,4758
+Guyana,2030,4621
+Guyana,2031,4435
+Guyana,2032,4204
+Guyana,2033,3935
+Guyana,2034,3646
+Guyana,2035,3360
+Guyana,2036,3099
+Guyana,2037,2881
+Guyana,2038,2714
+Guyana,2039,2600
+Guyana,2040,2534
+Guyana,2041,2499
+Guyana,2042,2480
+Guyana,2043,2471
+Guyana,2044,2467
+Guyana,2045,2465
+Guyana,2046,2467
+Guyana,2047,2473
+Guyana,2048,2482
+Guyana,2049,2493
+Guyana,2050,2505
+Guyana,2051,2521
+Guyana,2052,2540
+Guyana,2053,2561
+Guyana,2054,2585
+Guyana,2055,2614
+Guyana,2056,2645
+Guyana,2057,2678
+Guyana,2058,2709
+Guyana,2059,2735
+Guyana,2060,2751
+Guyana,2061,2754
+Guyana,2062,2743
+Guyana,2063,2718
+Guyana,2064,2682
+Guyana,2065,2638
+Guyana,2066,2591
+Guyana,2067,2546
+Kenya,2014,7946
+Kenya,2015,7998
+Kenya,2016,8042
+Kenya,2017,8078
+Kenya,2018,8103
+Kenya,2019,8119
+Kenya,2020,8126
+Kenya,2021,8125
+Kenya,2022,8117
+Kenya,2023,8103
+Kenya,2024,8081
+Kenya,2025,8051
+Kenya,2026,8012
+Kenya,2027,7963
+Kenya,2028,7905
+Kenya,2029,7840
+Kenya,2030,7769
+Kenya,2031,7695
+Kenya,2032,7618
+Kenya,2033,7538
+Kenya,2034,7455
+Kenya,2035,7366
+Kenya,2036,7270
+Kenya,2037,7165
+Kenya,2038,7049
+Kenya,2039,6918
+Kenya,2040,6769
+Kenya,2041,6602
+Kenya,2042,6422
+Kenya,2043,6231
+Kenya,2044,6037
+Kenya,2045,5847
+Kenya,2046,5668
+Kenya,2047,5506
+Kenya,2048,5366
+Kenya,2049,5251
+Kenya,2050,5165
+Kenya,2051,5102
+Kenya,2052,5059
+Kenya,2053,5030
+Kenya,2054,5012
+Kenya,2055,5001
+Kenya,2056,4990
+Kenya,2057,4976
+Kenya,2058,4955
+Kenya,2059,4923
+Kenya,2060,4879
+Kenya,2061,4824
+Kenya,2062,4761
+Kenya,2063,4691
+Kenya,2064,4616
+Kenya,2065,4538
+Kenya,2066,4459
+Kenya,2067,4382
+Kiribati,2014,6953
+Kiribati,2015,7012
+Kiribati,2016,7077
+Kiribati,2017,7143
+Kiribati,2018,7201
+Kiribati,2019,7221
+Kiribati,2020,7165
+Kiribati,2021,7013
+Kiribati,2022,6763
+Kiribati,2023,6431
+Kiribati,2024,6051
+Kiribati,2025,5674
+Kiribati,2026,5346
+Kiribati,2027,5103
+Kiribati,2028,4957
+Kiribati,2029,4904
+Kiribati,2030,4925
+Kiribati,2031,4978
+Kiribati,2032,5029
+Kiribati,2033,5064
+Kiribati,2034,5073
+Kiribati,2035,5053
+Kiribati,2036,5015
+Kiribati,2037,4967
+Kiribati,2038,4912
+Kiribati,2039,4855
+Kiribati,2040,4799
+Kiribati,2041,4748
+Kiribati,2042,4704
+Kiribati,2043,4666
+Kiribati,2044,4632
+Kiribati,2045,4601
+Kiribati,2046,4568
+Kiribati,2047,4527
+Kiribati,2048,4476
+Kiribati,2049,4412
+Kiribati,2050,4331
+Kiribati,2051,4235
+Kiribati,2052,4126
+Kiribati,2053,4006
+Kiribati,2054,3881
+Kiribati,2055,3754
+Kiribati,2056,3631
+Kiribati,2057,3516
+Kiribati,2058,3413
+Kiribati,2059,3324
+Kiribati,2060,3249
+Kiribati,2061,3186
+Kiribati,2062,3133
+Kiribati,2063,3087
+Kiribati,2064,3048
+Kiribati,2065,3014
+Kiribati,2066,2982
+Kiribati,2067,2952
+Lesotho,2014,5839
+Lesotho,2015,5829
+Lesotho,2016,5820
+Lesotho,2017,5812
+Lesotho,2018,5806
+Lesotho,2019,5802
+Lesotho,2020,5801
+Lesotho,2021,5803
+Lesotho,2022,5805
+Lesotho,2023,5807
+Lesotho,2024,5808
+Lesotho,2025,5807
+Lesotho,2026,5802
+Lesotho,2027,5794
+Lesotho,2028,5780
+Lesotho,2029,5761
+Lesotho,2030,5736
+Lesotho,2031,5706
+Lesotho,2032,5672
+Lesotho,2033,5633
+Lesotho,2034,5589
+Lesotho,2035,5542
+Lesotho,2036,5491
+Lesotho,2037,5436
+Lesotho,2038,5377
+Lesotho,2039,5313
+Lesotho,2040,5244
+Lesotho,2041,5169
+Lesotho,2042,5088
+Lesotho,2043,5004
+Lesotho,2044,4919
+Lesotho,2045,4837
+Lesotho,2046,4759
+Lesotho,2047,4686
+Lesotho,2048,4617
+Lesotho,2049,4548
+Lesotho,2050,4475
+Lesotho,2051,4394
+Lesotho,2052,4302
+Lesotho,2053,4200
+Lesotho,2054,4089
+Lesotho,2055,3975
+Lesotho,2056,3862
+Lesotho,2057,3754
+Lesotho,2058,3654
+Lesotho,2059,3562
+Lesotho,2060,3480
+Lesotho,2061,3405
+Lesotho,2062,3335
+Lesotho,2063,3269
+Lesotho,2064,3207
+Lesotho,2065,3148
+Lesotho,2066,3092
+Lesotho,2067,3038
+Liberia,2014,6406
+Liberia,2015,6429
+Liberia,2016,6453
+Liberia,2017,6476
+Liberia,2018,6500
+Liberia,2019,6524
+Liberia,2020,6552
+Liberia,2021,6583
+Liberia,2022,6617
+Liberia,2023,6655
+Liberia,2024,6695
+Liberia,2025,6736
+Liberia,2026,6777
+Liberia,2027,6815
+Liberia,2028,6849
+Liberia,2029,6880
+Liberia,2030,6907
+Liberia,2031,6930
+Liberia,2032,6950
+Liberia,2033,6964
+Liberia,2034,6973
+Liberia,2035,6973
+Liberia,2036,6964
+Liberia,2037,6946
+Liberia,2038,6917
+Liberia,2039,6875
+Liberia,2040,6820
+Liberia,2041,6752
+Liberia,2042,6673
+Liberia,2043,6587
+Liberia,2044,6499
+Liberia,2045,6414
+Liberia,2046,6336
+Liberia,2047,6267
+Liberia,2048,6208
+Liberia,2049,6156
+Liberia,2050,6109
+Liberia,2051,6061
+Liberia,2052,6008
+Liberia,2053,5948
+Liberia,2054,5880
+Liberia,2055,5804
+Liberia,2056,5722
+Liberia,2057,5635
+Liberia,2058,5547
+Liberia,2059,5456
+Liberia,2060,5366
+Liberia,2061,5277
+Liberia,2062,5190
+Liberia,2063,5106
+Liberia,2064,5024
+Liberia,2065,4945
+Liberia,2066,4868
+Liberia,2067,4792
+Libya,2014,7536
+Libya,2015,7571
+Libya,2016,7607
+Libya,2017,7642
+Libya,2018,7676
+Libya,2019,7710
+Libya,2020,7743
+Libya,2021,7776
+Libya,2022,7808
+Libya,2023,7838
+Libya,2024,7867
+Libya,2025,7898
+Libya,2026,7929
+Libya,2027,7957
+Libya,2028,7979
+Libya,2029,7992
+Libya,2030,7992
+Libya,2031,7976
+Libya,2032,7939
+Libya,2033,7873
+Libya,2034,7769
+Libya,2035,7619
+Libya,2036,7422
+Libya,2037,7179
+Libya,2038,6897
+Libya,2039,6584
+Libya,2040,6252
+Libya,2041,5913
+Libya,2042,5581
+Libya,2043,5263
+Libya,2044,4966
+Libya,2045,4688
+Libya,2046,4426
+Libya,2047,4178
+Libya,2048,3945
+Libya,2049,3732
+Libya,2050,3544
+Libya,2051,3383
+Libya,2052,3248
+Libya,2053,3139
+Libya,2054,3052
+Libya,2055,2984
+Libya,2056,2929
+Libya,2057,2882
+Libya,2058,2836
+Libya,2059,2790
+Libya,2060,2741
+Libya,2061,2690
+Libya,2062,2637
+Libya,2063,2582
+Libya,2064,2525
+Libya,2065,2467
+Libya,2066,2410
+Libya,2067,2356
+Madagascar,2014,7300
+Madagascar,2015,7300
+Madagascar,2016,7300
+Madagascar,2017,7300
+Madagascar,2018,7300
+Madagascar,2019,7301
+Madagascar,2020,7304
+Madagascar,2021,7310
+Madagascar,2022,7316
+Madagascar,2023,7322
+Madagascar,2024,7325
+Madagascar,2025,7325
+Madagascar,2026,7318
+Madagascar,2027,7300
+Madagascar,2028,7269
+Madagascar,2029,7216
+Madagascar,2030,7129
+Madagascar,2031,7008
+Madagascar,2032,6857
+Madagascar,2033,6687
+Madagascar,2034,6514
+Madagascar,2035,6359
+Madagascar,2036,6240
+Madagascar,2037,6165
+Madagascar,2038,6135
+Madagascar,2039,6146
+Madagascar,2040,6182
+Madagascar,2041,6225
+Madagascar,2042,6256
+Madagascar,2043,6268
+Madagascar,2044,6258
+Madagascar,2045,6225
+Madagascar,2046,6179
+Madagascar,2047,6126
+Madagascar,2048,6066
+Madagascar,2049,5999
+Madagascar,2050,5924
+Madagascar,2051,5841
+Madagascar,2052,5749
+Madagascar,2053,5651
+Madagascar,2054,5548
+Madagascar,2055,5443
+Madagascar,2056,5337
+Madagascar,2057,5233
+Madagascar,2058,5133
+Madagascar,2059,5039
+Madagascar,2060,4952
+Madagascar,2061,4870
+Madagascar,2062,4794
+Madagascar,2063,4722
+Madagascar,2064,4654
+Madagascar,2065,4590
+Madagascar,2066,4528
+Madagascar,2067,4468
+Malawi,2014,6913
+Malawi,2015,6946
+Malawi,2016,6983
+Malawi,2017,7021
+Malawi,2018,7060
+Malawi,2019,7101
+Malawi,2020,7141
+Malawi,2021,7182
+Malawi,2022,7222
+Malawi,2023,7263
+Malawi,2024,7304
+Malawi,2025,7346
+Malawi,2026,7389
+Malawi,2027,7433
+Malawi,2028,7477
+Malawi,2029,7518
+Malawi,2030,7555
+Malawi,2031,7584
+Malawi,2032,7605
+Malawi,2033,7617
+Malawi,2034,7621
+Malawi,2035,7619
+Malawi,2036,7613
+Malawi,2037,7601
+Malawi,2038,7583
+Malawi,2039,7549
+Malawi,2040,7490
+Malawi,2041,7402
+Malawi,2042,7287
+Malawi,2043,7148
+Malawi,2044,6997
+Malawi,2045,6850
+Malawi,2046,6719
+Malawi,2047,6614
+Malawi,2048,6536
+Malawi,2049,6483
+Malawi,2050,6446
+Malawi,2051,6411
+Malawi,2052,6369
+Malawi,2053,6317
+Malawi,2054,6254
+Malawi,2055,6186
+Malawi,2056,6119
+Malawi,2057,6058
+Malawi,2058,6002
+Malawi,2059,5950
+Malawi,2060,5899
+Malawi,2061,5843
+Malawi,2062,5781
+Malawi,2063,5712
+Malawi,2064,5636
+Malawi,2065,5554
+Malawi,2066,5471
+Malawi,2067,5389
+Maldives,2014,7021
+Maldives,2015,7075
+Maldives,2016,7118
+Maldives,2017,7152
+Maldives,2018,7179
+Maldives,2019,7201
+Maldives,2020,7218
+Maldives,2021,7231
+Maldives,2022,7237
+Maldives,2023,7237
+Maldives,2024,7227
+Maldives,2025,7201
+Maldives,2026,7159
+Maldives,2027,7103
+Maldives,2028,7040
+Maldives,2029,6981
+Maldives,2030,6941
+Maldives,2031,6931
+Maldives,2032,6953
+Maldives,2033,7002
+Maldives,2034,7071
+Maldives,2035,7146
+Maldives,2036,7210
+Maldives,2037,7245
+Maldives,2038,7240
+Maldives,2039,7183
+Maldives,2040,7064
+Maldives,2041,6888
+Maldives,2042,6664
+Maldives,2043,6397
+Maldives,2044,6099
+Maldives,2045,5783
+Maldives,2046,5461
+Maldives,2047,5146
+Maldives,2048,4845
+Maldives,2049,4560
+Maldives,2050,4289
+Maldives,2051,4024
+Maldives,2052,3763
+Maldives,2053,3510
+Maldives,2054,3271
+Maldives,2055,3055
+Maldives,2056,2869
+Maldives,2057,2715
+Maldives,2058,2596
+Maldives,2059,2508
+Maldives,2060,2449
+Maldives,2061,2410
+Maldives,2062,2382
+Maldives,2063,2360
+Maldives,2064,2339
+Maldives,2065,2314
+Maldives,2066,2287
+Maldives,2067,2256
+Mali,2014,6703
+Mali,2015,6725
+Mali,2016,6747
+Mali,2017,6770
+Mali,2018,6793
+Mali,2019,6816
+Mali,2020,6838
+Mali,2021,6858
+Mali,2022,6875
+Mali,2023,6889
+Mali,2024,6901
+Mali,2025,6913
+Mali,2026,6924
+Mali,2027,6937
+Mali,2028,6951
+Mali,2029,6966
+Mali,2030,6982
+Mali,2031,6999
+Mali,2032,7016
+Mali,2033,7031
+Mali,2034,7046
+Mali,2035,7059
+Mali,2036,7070
+Mali,2037,7080
+Mali,2038,7088
+Mali,2039,7093
+Mali,2040,7095
+Mali,2041,7092
+Mali,2042,7086
+Mali,2043,7076
+Mali,2044,7062
+Mali,2045,7044
+Mali,2046,7023
+Mali,2047,6999
+Mali,2048,6973
+Mali,2049,6947
+Mali,2050,6921
+Mali,2051,6896
+Mali,2052,6873
+Mali,2053,6853
+Mali,2054,6836
+Mali,2055,6822
+Mali,2056,6811
+Mali,2057,6803
+Mali,2058,6797
+Mali,2059,6796
+Mali,2060,6799
+Mali,2061,6806
+Mali,2062,6817
+Mali,2063,6830
+Mali,2064,6841
+Mali,2065,6850
+Mali,2066,6852
+Mali,2067,6847
+Marshall Islands,2014,
+Marshall Islands,2015,
+Marshall Islands,2016,
+Marshall Islands,2017,
+Marshall Islands,2018,
+Marshall Islands,2019,
+Marshall Islands,2020,
+Marshall Islands,2021,
+Marshall Islands,2022,
+Marshall Islands,2023,
+Marshall Islands,2024,
+Marshall Islands,2025,
+Marshall Islands,2026,
+Marshall Islands,2027,
+Marshall Islands,2028,
+Marshall Islands,2029,
+Marshall Islands,2030,
+Marshall Islands,2031,
+Marshall Islands,2032,
+Marshall Islands,2033,
+Marshall Islands,2034,
+Marshall Islands,2035,
+Marshall Islands,2036,
+Marshall Islands,2037,
+Marshall Islands,2038,
+Marshall Islands,2039,
+Marshall Islands,2040,
+Marshall Islands,2041,5900
+Marshall Islands,2042,
+Marshall Islands,2043,
+Marshall Islands,2044,
+Marshall Islands,2045,
+Marshall Islands,2046,
+Marshall Islands,2047,
+Marshall Islands,2048,
+Marshall Islands,2049,
+Marshall Islands,2050,
+Marshall Islands,2051,
+Marshall Islands,2052,
+Marshall Islands,2053,5710
+Marshall Islands,2054,
+Marshall Islands,2055,
+Marshall Islands,2056,
+Marshall Islands,2057,
+Marshall Islands,2058,
+Marshall Islands,2059,4500
+Marshall Islands,2060,4500
+Marshall Islands,2061,4500
+Marshall Islands,2062,
+Marshall Islands,2063,
+Marshall Islands,2064,
+Marshall Islands,2065,4050
+Marshall Islands,2066,
+Marshall Islands,2067,
+Mauritania,2014,6775
+Mauritania,2015,6787
+Mauritania,2016,6794
+Mauritania,2017,6798
+Mauritania,2018,6799
+Mauritania,2019,6799
+Mauritania,2020,6798
+Mauritania,2021,6798
+Mauritania,2022,6795
+Mauritania,2023,6791
+Mauritania,2024,6784
+Mauritania,2025,6774
+Mauritania,2026,6759
+Mauritania,2027,6739
+Mauritania,2028,6713
+Mauritania,2029,6681
+Mauritania,2030,6641
+Mauritania,2031,6594
+Mauritania,2032,6541
+Mauritania,2033,6484
+Mauritania,2034,6426
+Mauritania,2035,6368
+Mauritania,2036,6314
+Mauritania,2037,6264
+Mauritania,2038,6219
+Mauritania,2039,6178
+Mauritania,2040,6141
+Mauritania,2041,6104
+Mauritania,2042,6065
+Mauritania,2043,6023
+Mauritania,2044,5978
+Mauritania,2045,5928
+Mauritania,2046,5875
+Mauritania,2047,5818
+Mauritania,2048,5758
+Mauritania,2049,5696
+Mauritania,2050,5633
+Mauritania,2051,5569
+Mauritania,2052,5505
+Mauritania,2053,5442
+Mauritania,2054,5381
+Mauritania,2055,5321
+Mauritania,2056,5263
+Mauritania,2057,5205
+Mauritania,2058,5150
+Mauritania,2059,5095
+Mauritania,2060,5042
+Mauritania,2061,4990
+Mauritania,2062,4939
+Mauritania,2063,4888
+Mauritania,2064,4837
+Mauritania,2065,4783
+Mauritania,2066,4728
+Mauritania,2067,4670
+Mauritius,2014,6167
+Mauritius,2015,6178
+Mauritius,2016,6124
+Mauritius,2017,5993
+Mauritius,2018,5785
+Mauritius,2019,5510
+Mauritius,2020,5187
+Mauritius,2021,4847
+Mauritius,2022,4516
+Mauritius,2023,4213
+Mauritius,2024,3952
+Mauritius,2025,3741
+Mauritius,2026,3575
+Mauritius,2027,3444
+Mauritius,2028,3341
+Mauritius,2029,3255
+Mauritius,2030,3169
+Mauritius,2031,3071
+Mauritius,2032,2954
+Mauritius,2033,2818
+Mauritius,2034,2672
+Mauritius,2035,2532
+Mauritius,2036,2412
+Mauritius,2037,2325
+Mauritius,2038,2160
+Mauritius,2039,2020
+Mauritius,2040,1990
+Mauritius,2041,2050
+Mauritius,2042,2140
+Mauritius,2043,2230
+Mauritius,2044,2320
+Mauritius,2045,2300
+Mauritius,2046,2370
+Mauritius,2047,2210
+Mauritius,2048,2250
+Mauritius,2049,2140
+Mauritius,2050,2120
+Mauritius,2051,2040
+Mauritius,2052,1970
+Mauritius,2053,2050
+Mauritius,2054,1990
+Mauritius,2055,1910
+Mauritius,2056,1940
+Mauritius,2057,1870
+Mauritius,2058,1920
+Mauritius,2059,1880
+Mauritius,2060,1770
+Mauritius,2061,1740
+Mauritius,2062,1670
+Mauritius,2063,1590
+Mauritius,2064,1570
+Mauritius,2065,1550
+Mauritius,2066,1540
+Mauritius,2067,1440
+Moldova,2014,3328
+Moldova,2015,3259
+Moldova,2016,3178
+Moldova,2017,3086
+Moldova,2018,2989
+Moldova,2019,2891
+Moldova,2020,2801
+Moldova,2021,2722
+Moldova,2022,2660
+Moldova,2023,2613
+Moldova,2024,2582
+Moldova,2025,2560
+Moldova,2026,2542
+Moldova,2027,2523
+Moldova,2028,2503
+Moldova,2029,2483
+Moldova,2030,2465
+Moldova,2031,2455
+Moldova,2032,2454
+Moldova,2033,2462
+Moldova,2034,2481
+Moldova,2035,2510
+Moldova,2036,2546
+Moldova,2037,2585
+Moldova,2038,2620
+Moldova,2039,2643
+Moldova,2040,2646
+Moldova,2041,2625
+Moldova,2042,2578
+Moldova,2043,2506
+Moldova,2044,2413
+Moldova,2045,2305
+Moldova,2046,2191
+Moldova,2047,2079
+Moldova,2048,1975
+Moldova,2049,1882
+Moldova,2050,1801
+Moldova,2051,1730
+Moldova,2052,1667
+Moldova,2053,1613
+Moldova,2054,1568
+Moldova,2055,1535
+Moldova,2056,1511
+Moldova,2057,1497
+Moldova,2058,1489
+Moldova,2059,1487
+Moldova,2060,1487
+Moldova,2061,1488
+Moldova,2062,1487
+Moldova,2063,1483
+Moldova,2064,1477
+Moldova,2065,1469
+Moldova,2066,1462
+Moldova,2067,1456
+Morocco,2014,7065
+Morocco,2015,7106
+Morocco,2016,7131
+Morocco,2017,7135
+Morocco,2018,7119
+Morocco,2019,7081
+Morocco,2020,7024
+Morocco,2021,6953
+Morocco,2022,6871
+Morocco,2023,6781
+Morocco,2024,6687
+Morocco,2025,6588
+Morocco,2026,6485
+Morocco,2027,6380
+Morocco,2028,6273
+Morocco,2029,6168
+Morocco,2030,6067
+Morocco,2031,5970
+Morocco,2032,5876
+Morocco,2033,5782
+Morocco,2034,5682
+Morocco,2035,5570
+Morocco,2036,5439
+Morocco,2037,5290
+Morocco,2038,5123
+Morocco,2039,4942
+Morocco,2040,4754
+Morocco,2041,4567
+Morocco,2042,4387
+Morocco,2043,4217
+Morocco,2044,4058
+Morocco,2045,3905
+Morocco,2046,3755
+Morocco,2047,3606
+Morocco,2048,3457
+Morocco,2049,3310
+Morocco,2050,3167
+Morocco,2051,3033
+Morocco,2052,2909
+Morocco,2053,2797
+Morocco,2054,2698
+Morocco,2055,2611
+Morocco,2056,2535
+Morocco,2057,2470
+Morocco,2058,2418
+Morocco,2059,2385
+Morocco,2060,2377
+Morocco,2061,2398
+Morocco,2062,2443
+Morocco,2063,2509
+Morocco,2064,2583
+Morocco,2065,2652
+Morocco,2066,2706
+Morocco,2067,2735
+Mozambique,2014,6600
+Mozambique,2015,6600
+Mozambique,2016,6601
+Mozambique,2017,6601
+Mozambique,2018,6602
+Mozambique,2019,6602
+Mozambique,2020,6602
+Mozambique,2021,6601
+Mozambique,2022,6599
+Mozambique,2023,6596
+Mozambique,2024,6591
+Mozambique,2025,6586
+Mozambique,2026,6580
+Mozambique,2027,6572
+Mozambique,2028,6564
+Mozambique,2029,6554
+Mozambique,2030,6544
+Mozambique,2031,6532
+Mozambique,2032,6519
+Mozambique,2033,6505
+Mozambique,2034,6490
+Mozambique,2035,6474
+Mozambique,2036,6457
+Mozambique,2037,6439
+Mozambique,2038,6420
+Mozambique,2039,6398
+Mozambique,2040,6373
+Mozambique,2041,6345
+Mozambique,2042,6313
+Mozambique,2043,6277
+Mozambique,2044,6237
+Mozambique,2045,6191
+Mozambique,2046,6140
+Mozambique,2047,6086
+Mozambique,2048,6031
+Mozambique,2049,5976
+Mozambique,2050,5925
+Mozambique,2051,5880
+Mozambique,2052,5840
+Mozambique,2053,5808
+Mozambique,2054,5782
+Mozambique,2055,5760
+Mozambique,2056,5741
+Mozambique,2057,5721
+Mozambique,2058,5697
+Mozambique,2059,5669
+Mozambique,2060,5632
+Mozambique,2061,5588
+Mozambique,2062,5536
+Mozambique,2063,5476
+Mozambique,2064,5409
+Mozambique,2065,5338
+Mozambique,2066,5263
+Mozambique,2067,5188
+Namibia,2014,6150
+Namibia,2015,6167
+Namibia,2016,6184
+Namibia,2017,6199
+Namibia,2018,6216
+Namibia,2019,6236
+Namibia,2020,6263
+Namibia,2021,6301
+Namibia,2022,6347
+Namibia,2023,6401
+Namibia,2024,6459
+Namibia,2025,6517
+Namibia,2026,6570
+Namibia,2027,6613
+Namibia,2028,6642
+Namibia,2029,6654
+Namibia,2030,6647
+Namibia,2031,6622
+Namibia,2032,6581
+Namibia,2033,6524
+Namibia,2034,6451
+Namibia,2035,6362
+Namibia,2036,6259
+Namibia,2037,6145
+Namibia,2038,6022
+Namibia,2039,5893
+Namibia,2040,5760
+Namibia,2041,5625
+Namibia,2042,5491
+Namibia,2043,5358
+Namibia,2044,5227
+Namibia,2045,5098
+Namibia,2046,4970
+Namibia,2047,4842
+Namibia,2048,4715
+Namibia,2049,4590
+Namibia,2050,4469
+Namibia,2051,4351
+Namibia,2052,4240
+Namibia,2053,4134
+Namibia,2054,4033
+Namibia,2055,3938
+Namibia,2056,3847
+Namibia,2057,3759
+Namibia,2058,3674
+Namibia,2059,3591
+Namibia,2060,3512
+Namibia,2061,3436
+Namibia,2062,3364
+Namibia,2063,3295
+Namibia,2064,3229
+Namibia,2065,3167
+Namibia,2066,3107
+Namibia,2067,3051
+New Caledonia,2014,6278
+New Caledonia,2015,6144
+New Caledonia,2016,6010
+New Caledonia,2017,5873.333333
+New Caledonia,2018,5736.666667
+New Caledonia,2019,5600
+New Caledonia,2020,5385
+New Caledonia,2021,5170
+New Caledonia,2022,4880
+New Caledonia,2023,4590
+New Caledonia,2024,4300
+New Caledonia,2025,4175.714286
+New Caledonia,2026,4051.428571
+New Caledonia,2027,3927.142857
+New Caledonia,2028,3802.857143
+New Caledonia,2029,3678.571429
+New Caledonia,2030,3554.285714
+New Caledonia,2031,3430
+New Caledonia,2032,3426
+New Caledonia,2033,3422
+New Caledonia,2034,3418
+New Caledonia,2035,3640
+New Caledonia,2036,3410
+New Caledonia,2037,3330
+New Caledonia,2038,3170
+New Caledonia,2039,3000
+New Caledonia,2040,3170
+New Caledonia,2041,3250
+New Caledonia,2042,3100
+New Caledonia,2043,2970
+New Caledonia,2044,3190
+New Caledonia,2045,3150
+New Caledonia,2046,2990
+New Caledonia,2047,2860
+New Caledonia,2048,2700
+New Caledonia,2049,2590
+New Caledonia,2050,2650
+New Caledonia,2051,2670
+New Caledonia,2052,2550
+New Caledonia,2053,2480
+New Caledonia,2054,2590
+New Caledonia,2055,2430
+New Caledonia,2056,2330
+New Caledonia,2057,2270
+New Caledonia,2058,2180
+New Caledonia,2059,2200
+New Caledonia,2060,2290
+New Caledonia,2061,2200
+New Caledonia,2062,2200
+New Caledonia,2063,2200
+New Caledonia,2064,2170
+New Caledonia,2065,2150
+New Caledonia,2066,2280
+New Caledonia,2067,2280
+Niger,2014,7052
+Niger,2015,7083
+Niger,2016,7116
+Niger,2017,7150
+Niger,2018,7185
+Niger,2019,7222
+Niger,2020,7260
+Niger,2021,7300
+Niger,2022,7341
+Niger,2023,7382
+Niger,2024,7422
+Niger,2025,7460
+Niger,2026,7495
+Niger,2027,7526
+Niger,2028,7553
+Niger,2029,7578
+Niger,2030,7603
+Niger,2031,7628
+Niger,2032,7654
+Niger,2033,7681
+Niger,2034,7707
+Niger,2035,7731
+Niger,2036,7751
+Niger,2037,7764
+Niger,2038,7773
+Niger,2039,7775
+Niger,2040,7774
+Niger,2041,7771
+Niger,2042,7767
+Niger,2043,7764
+Niger,2044,7763
+Niger,2045,7764
+Niger,2046,7766
+Niger,2047,7769
+Niger,2048,7771
+Niger,2049,7773
+Niger,2050,7772
+Niger,2051,7767
+Niger,2052,7757
+Niger,2053,7743
+Niger,2054,7725
+Niger,2055,7704
+Niger,2056,7681
+Niger,2057,7658
+Niger,2058,7636
+Niger,2059,7617
+Niger,2060,7602
+Niger,2061,7593
+Niger,2062,7588
+Niger,2063,7585
+Niger,2064,7584
+Niger,2065,7581
+Niger,2066,7574
+Niger,2067,7561
+Nigeria,2014,6354
+Nigeria,2015,6351
+Nigeria,2016,6346
+Nigeria,2017,6341
+Nigeria,2018,6336
+Nigeria,2019,6335
+Nigeria,2020,6342
+Nigeria,2021,6359
+Nigeria,2022,6387
+Nigeria,2023,6425
+Nigeria,2024,6471
+Nigeria,2025,6522
+Nigeria,2026,6575
+Nigeria,2027,6625
+Nigeria,2028,6669
+Nigeria,2029,6706
+Nigeria,2030,6735
+Nigeria,2031,6757
+Nigeria,2032,6772
+Nigeria,2033,6781
+Nigeria,2034,6783
+Nigeria,2035,6779
+Nigeria,2036,6767
+Nigeria,2037,6749
+Nigeria,2038,6726
+Nigeria,2039,6698
+Nigeria,2040,6664
+Nigeria,2041,6625
+Nigeria,2042,6582
+Nigeria,2043,6537
+Nigeria,2044,6490
+Nigeria,2045,6443
+Nigeria,2046,6395
+Nigeria,2047,6348
+Nigeria,2048,6303
+Nigeria,2049,6261
+Nigeria,2050,6222
+Nigeria,2051,6187
+Nigeria,2052,6154
+Nigeria,2053,6125
+Nigeria,2054,6099
+Nigeria,2055,6077
+Nigeria,2056,6058
+Nigeria,2057,6042
+Nigeria,2058,6029
+Nigeria,2059,6020
+Nigeria,2060,6015
+Nigeria,2061,6015
+Nigeria,2062,6017
+Nigeria,2063,6021
+Nigeria,2064,6022
+Nigeria,2065,6017
+Nigeria,2066,6002
+Nigeria,2067,5976
+Oman,2014,7247
+Oman,2015,7248
+Oman,2016,7251
+Oman,2017,7256
+Oman,2018,7263
+Oman,2019,7271
+Oman,2020,7277
+Oman,2021,7282
+Oman,2022,7286
+Oman,2023,7293
+Oman,2024,7311
+Oman,2025,7350
+Oman,2026,7414
+Oman,2027,7504
+Oman,2028,7617
+Oman,2029,7747
+Oman,2030,7885
+Oman,2031,8018
+Oman,2032,8137
+Oman,2033,8232
+Oman,2034,8299
+Oman,2035,8338
+Oman,2036,8352
+Oman,2037,8340
+Oman,2038,8299
+Oman,2039,8222
+Oman,2040,8101
+Oman,2041,7933
+Oman,2042,7719
+Oman,2043,7462
+Oman,2044,7164
+Oman,2045,6831
+Oman,2046,6472
+Oman,2047,6098
+Oman,2048,5720
+Oman,2049,5346
+Oman,2050,4982
+Oman,2051,4631
+Oman,2052,4298
+Oman,2053,3992
+Oman,2054,3720
+Oman,2055,3488
+Oman,2056,3297
+Oman,2057,3144
+Oman,2058,3029
+Oman,2059,2951
+Oman,2060,2906
+Oman,2061,2887
+Oman,2062,2886
+Oman,2063,2894
+Oman,2064,2901
+Oman,2065,2899
+Oman,2066,2884
+Oman,2067,2853
+Qatar,2014,6971
+Qatar,2015,6973
+Qatar,2016,6977
+Qatar,2017,6981
+Qatar,2018,6985
+Qatar,2019,6987
+Qatar,2020,6987
+Qatar,2021,6983
+Qatar,2022,6973
+Qatar,2023,6952
+Qatar,2024,6918
+Qatar,2025,6866
+Qatar,2026,6794
+Qatar,2027,6703
+Qatar,2028,6595
+Qatar,2029,6474
+Qatar,2030,6344
+Qatar,2031,6211
+Qatar,2032,6079
+Qatar,2033,5947
+Qatar,2034,5811
+Qatar,2035,5665
+Qatar,2036,5504
+Qatar,2037,5326
+Qatar,2038,5132
+Qatar,2039,4929
+Qatar,2040,4722
+Qatar,2041,4521
+Qatar,2042,4333
+Qatar,2043,4163
+Qatar,2044,4016
+Qatar,2045,3894
+Qatar,2046,3796
+Qatar,2047,3715
+Qatar,2048,3648
+Qatar,2049,3590
+Qatar,2050,3534
+Qatar,2051,3477
+Qatar,2052,3411
+Qatar,2053,3334
+Qatar,2054,3241
+Qatar,2055,3127
+Qatar,2056,2996
+Qatar,2057,2853
+Qatar,2058,2703
+Qatar,2059,2555
+Qatar,2060,2418
+Qatar,2061,2299
+Qatar,2062,2203
+Qatar,2063,2133
+Qatar,2064,2085
+Qatar,2065,2055
+Qatar,2066,2036
+Qatar,2067,2019
+Rwanda,2014,8187
+Rwanda,2015,8194
+Rwanda,2016,8197
+Rwanda,2017,8198
+Rwanda,2018,8198
+Rwanda,2019,8198
+Rwanda,2020,8198
+Rwanda,2021,8201
+Rwanda,2022,8207
+Rwanda,2023,8217
+Rwanda,2024,8231
+Rwanda,2025,8252
+Rwanda,2026,8278
+Rwanda,2027,8307
+Rwanda,2028,8339
+Rwanda,2029,8370
+Rwanda,2030,8399
+Rwanda,2031,8423
+Rwanda,2032,8441
+Rwanda,2033,8449
+Rwanda,2034,8448
+Rwanda,2035,8439
+Rwanda,2036,8423
+Rwanda,2037,8397
+Rwanda,2038,8355
+Rwanda,2039,8284
+Rwanda,2040,8169
+Rwanda,2041,8004
+Rwanda,2042,7792
+Rwanda,2043,7541
+Rwanda,2044,7271
+Rwanda,2045,7005
+Rwanda,2046,6766
+Rwanda,2047,6568
+Rwanda,2048,6416
+Rwanda,2049,6307
+Rwanda,2050,6229
+Rwanda,2051,6160
+Rwanda,2052,6085
+Rwanda,2053,5998
+Rwanda,2054,5897
+Rwanda,2055,5786
+Rwanda,2056,5674
+Rwanda,2057,5566
+Rwanda,2058,5463
+Rwanda,2059,5365
+Rwanda,2060,5267
+Rwanda,2061,5167
+Rwanda,2062,5062
+Rwanda,2063,4954
+Rwanda,2064,4841
+Rwanda,2065,4728
+Rwanda,2066,4616
+Rwanda,2067,4508
+Sao Tome and Principe,2014,6242
+Sao Tome and Principe,2015,6263
+Sao Tome and Principe,2016,6284
+Sao Tome and Principe,2017,6306
+Sao Tome and Principe,2018,6327
+Sao Tome and Principe,2019,6349
+Sao Tome and Principe,2020,6371
+Sao Tome and Principe,2021,6394
+Sao Tome and Principe,2022,6419
+Sao Tome and Principe,2023,6444
+Sao Tome and Principe,2024,6468
+Sao Tome and Principe,2025,6490
+Sao Tome and Principe,2026,6510
+Sao Tome and Principe,2027,6525
+Sao Tome and Principe,2028,6534
+Sao Tome and Principe,2029,6535
+Sao Tome and Principe,2030,6528
+Sao Tome and Principe,2031,6513
+Sao Tome and Principe,2032,6489
+Sao Tome and Principe,2033,6455
+Sao Tome and Principe,2034,6409
+Sao Tome and Principe,2035,6348
+Sao Tome and Principe,2036,6271
+Sao Tome and Principe,2037,6181
+Sao Tome and Principe,2038,6078
+Sao Tome and Principe,2039,5967
+Sao Tome and Principe,2040,5849
+Sao Tome and Principe,2041,5730
+Sao Tome and Principe,2042,5613
+Sao Tome and Principe,2043,5501
+Sao Tome and Principe,2044,5395
+Sao Tome and Principe,2045,5296
+Sao Tome and Principe,2046,5203
+Sao Tome and Principe,2047,5115
+Sao Tome and Principe,2048,5032
+Sao Tome and Principe,2049,4956
+Sao Tome and Principe,2050,4887
+Sao Tome and Principe,2051,4826
+Sao Tome and Principe,2052,4773
+Sao Tome and Principe,2053,4727
+Sao Tome and Principe,2054,4687
+Sao Tome and Principe,2055,4654
+Sao Tome and Principe,2056,4625
+Sao Tome and Principe,2057,4598
+Sao Tome and Principe,2058,4572
+Sao Tome and Principe,2059,4542
+Sao Tome and Principe,2060,4506
+Sao Tome and Principe,2061,4462
+Sao Tome and Principe,2062,4411
+Sao Tome and Principe,2063,4352
+Sao Tome and Principe,2064,4287
+Sao Tome and Principe,2065,4217
+Sao Tome and Principe,2066,4145
+Sao Tome and Principe,2067,4075
+Senegal,2014,6951
+Senegal,2015,6994
+Senegal,2016,7036
+Senegal,2017,7075
+Senegal,2018,7114
+Senegal,2019,7152
+Senegal,2020,7189
+Senegal,2021,7227
+Senegal,2022,7266
+Senegal,2023,7303
+Senegal,2024,7339
+Senegal,2025,7374
+Senegal,2026,7405
+Senegal,2027,7432
+Senegal,2028,7452
+Senegal,2029,7465
+Senegal,2030,7468
+Senegal,2031,7461
+Senegal,2032,7445
+Senegal,2033,7418
+Senegal,2034,7382
+Senegal,2035,7337
+Senegal,2036,7284
+Senegal,2037,7225
+Senegal,2038,7160
+Senegal,2039,7088
+Senegal,2040,7010
+Senegal,2041,6925
+Senegal,2042,6832
+Senegal,2043,6734
+Senegal,2044,6629
+Senegal,2045,6519
+Senegal,2046,6404
+Senegal,2047,6287
+Senegal,2048,6169
+Senegal,2049,6054
+Senegal,2050,5943
+Senegal,2051,5837
+Senegal,2052,5737
+Senegal,2053,5645
+Senegal,2054,5561
+Senegal,2055,5484
+Senegal,2056,5413
+Senegal,2057,5346
+Senegal,2058,5285
+Senegal,2059,5229
+Senegal,2060,5181
+Senegal,2061,5140
+Senegal,2062,5107
+Senegal,2063,5078
+Senegal,2064,5050
+Senegal,2065,5019
+Senegal,2066,4981
+Senegal,2067,4934
+Seychelles,2014,
+Seychelles,2015,
+Seychelles,2016,
+Seychelles,2017,
+Seychelles,2018,
+Seychelles,2019,
+Seychelles,2020,
+Seychelles,2021,
+Seychelles,2022,
+Seychelles,2023,
+Seychelles,2024,
+Seychelles,2025,
+Seychelles,2026,
+Seychelles,2027,
+Seychelles,2028,
+Seychelles,2029,
+Seychelles,2030,4500
+Seychelles,2031,
+Seychelles,2032,
+Seychelles,2033,
+Seychelles,2034,
+Seychelles,2035,
+Seychelles,2036,3500
+Seychelles,2037,
+Seychelles,2038,
+Seychelles,2039,
+Seychelles,2040,
+Seychelles,2041,3000
+Seychelles,2042,
+Seychelles,2043,
+Seychelles,2044,
+Seychelles,2045,
+Seychelles,2046,2696
+Seychelles,2047,
+Seychelles,2048,
+Seychelles,2049,
+Seychelles,2050,
+Seychelles,2051,2100
+Seychelles,2052,2040
+Seychelles,2053,2040
+Seychelles,2054,2080
+Seychelles,2055,1980
+Seychelles,2056,2040
+Seychelles,2057,2100
+Seychelles,2058,2000
+Seychelles,2059,2200
+Seychelles,2060,2100
+Seychelles,2061,2240
+Seychelles,2062,2300
+Seychelles,2063,2400
+Seychelles,2064,2100
+Seychelles,2065,2400
+Seychelles,2066,2400
+Seychelles,2067,2400
+Sierra Leone,2014,6033
+Sierra Leone,2015,6093
+Sierra Leone,2016,6158
+Sierra Leone,2017,6229
+Sierra Leone,2018,6302
+Sierra Leone,2019,6376
+Sierra Leone,2020,6449
+Sierra Leone,2021,6519
+Sierra Leone,2022,6583
+Sierra Leone,2023,6643
+Sierra Leone,2024,6697
+Sierra Leone,2025,6748
+Sierra Leone,2026,6798
+Sierra Leone,2027,6847
+Sierra Leone,2028,6894
+Sierra Leone,2029,6938
+Sierra Leone,2030,6979
+Sierra Leone,2031,7013
+Sierra Leone,2032,7038
+Sierra Leone,2033,7054
+Sierra Leone,2034,7058
+Sierra Leone,2035,7048
+Sierra Leone,2036,7025
+Sierra Leone,2037,6990
+Sierra Leone,2038,6945
+Sierra Leone,2039,6889
+Sierra Leone,2040,6824
+Sierra Leone,2041,6753
+Sierra Leone,2042,6678
+Sierra Leone,2043,6601
+Sierra Leone,2044,6525
+Sierra Leone,2045,6453
+Sierra Leone,2046,6385
+Sierra Leone,2047,6320
+Sierra Leone,2048,6260
+Sierra Leone,2049,6204
+Sierra Leone,2050,6150
+Sierra Leone,2051,6098
+Sierra Leone,2052,6043
+Sierra Leone,2053,5985
+Sierra Leone,2054,5920
+Sierra Leone,2055,5845
+Sierra Leone,2056,5759
+Sierra Leone,2057,5664
+Sierra Leone,2058,5560
+Sierra Leone,2059,5451
+Sierra Leone,2060,5340
+Sierra Leone,2061,5232
+Sierra Leone,2062,5128
+Sierra Leone,2063,5032
+Sierra Leone,2064,4943
+Sierra Leone,2065,4861
+Sierra Leone,2066,4782
+Sierra Leone,2067,4705
+Somalia,2014,7250
+Somalia,2015,7252
+Somalia,2016,7255
+Somalia,2017,7258
+Somalia,2018,7261
+Somalia,2019,7261
+Somalia,2020,7257
+Somalia,2021,7248
+Somalia,2022,7232
+Somalia,2023,7209
+Somalia,2024,7182
+Somalia,2025,7151
+Somalia,2026,7118
+Somalia,2027,7086
+Somalia,2028,7057
+Somalia,2029,7033
+Somalia,2030,7016
+Somalia,2031,7005
+Somalia,2032,7000
+Somalia,2033,7003
+Somalia,2034,7013
+Somalia,2035,7030
+Somalia,2036,7053
+Somalia,2037,7080
+Somalia,2038,7112
+Somalia,2039,7149
+Somalia,2040,7190
+Somalia,2041,7237
+Somalia,2042,7288
+Somalia,2043,7341
+Somalia,2044,7397
+Somalia,2045,7455
+Somalia,2046,7512
+Somalia,2047,7567
+Somalia,2048,7616
+Somalia,2049,7655
+Somalia,2050,7679
+Somalia,2051,7687
+Somalia,2052,7678
+Somalia,2053,7651
+Somalia,2054,7610
+Somalia,2055,7556
+Somalia,2056,7495
+Somalia,2057,7429
+Somalia,2058,7361
+Somalia,2059,7292
+Somalia,2060,7219
+Somalia,2061,7140
+Somalia,2062,7056
+Somalia,2063,6965
+Somalia,2064,6869
+Somalia,2065,6769
+Somalia,2066,6667
+Somalia,2067,6563
+South Africa,2014,6173
+South Africa,2015,6144
+South Africa,2016,6103
+South Africa,2017,6049
+South Africa,2018,5984
+South Africa,2019,5911
+South Africa,2020,5836
+South Africa,2021,5765
+South Africa,2022,5700
+South Africa,2023,5643
+South Africa,2024,5591
+South Africa,2025,5539
+South Africa,2026,5482
+South Africa,2027,5415
+South Africa,2028,5338
+South Africa,2029,5251
+South Africa,2030,5159
+South Africa,2031,5064
+South Africa,2032,4969
+South Africa,2033,4877
+South Africa,2034,4786
+South Africa,2035,4695
+South Africa,2036,4602
+South Africa,2037,4504
+South Africa,2038,4402
+South Africa,2039,4293
+South Africa,2040,4177
+South Africa,2041,4052
+South Africa,2042,3923
+South Africa,2043,3791
+South Africa,2044,3658
+South Africa,2045,3530
+South Africa,2046,3408
+South Africa,2047,3296
+South Africa,2048,3196
+South Africa,2049,3110
+South Africa,2050,3040
+South Africa,2051,2983
+South Africa,2052,2937
+South Africa,2053,2899
+South Africa,2054,2866
+South Africa,2055,2834
+South Africa,2056,2801
+South Africa,2057,2763
+South Africa,2058,2721
+South Africa,2059,2675
+South Africa,2060,2627
+South Africa,2061,2580
+South Africa,2062,2538
+South Africa,2063,2500
+South Africa,2064,2467
+South Africa,2065,2438
+South Africa,2066,2412
+South Africa,2067,2387
+South Asia,2014,6021.217071
+South Asia,2015,6012.190107
+South Asia,2016,6003.169916
+South Asia,2017,5992.694909
+South Asia,2018,5979.225536
+South Asia,2019,5959.754311
+South Asia,2020,5933.640179
+South Asia,2021,5897.309676
+South Asia,2022,5849.79662
+South Asia,2023,5793.731605
+South Asia,2024,5729.033494
+South Asia,2025,5659.28852
+South Asia,2026,5586.426775
+South Asia,2027,5514.206608
+South Asia,2028,5443.766531
+South Asia,2029,5374.840803
+South Asia,2030,5307.22705
+South Asia,2031,5237.694686
+South Asia,2032,5165.751976
+South Asia,2033,5090.525002
+South Asia,2034,5011.80842
+South Asia,2035,4931.861638
+South Asia,2036,4850.175471
+South Asia,2037,4769.90518
+South Asia,2038,4689.330583
+South Asia,2039,4608.177967
+South Asia,2040,4524.546699
+South Asia,2041,4439.242623
+South Asia,2042,4350.032937
+South Asia,2043,4258.273096
+South Asia,2044,4166.028775
+South Asia,2045,4072.121695
+South Asia,2046,3979.953696
+South Asia,2047,3891.133249
+South Asia,2048,3804.305639
+South Asia,2049,3719.671159
+South Asia,2050,3638.276859
+South Asia,2051,3557.676095
+South Asia,2052,3477.986706
+South Asia,2053,3400.018016
+South Asia,2054,3322.314572
+South Asia,2055,3246.043699
+South Asia,2056,3169.074555
+South Asia,2057,3093.744631
+South Asia,2058,3019.128874
+South Asia,2059,2947.576713
+South Asia,2060,2879.709844
+South Asia,2061,2816.673607
+South Asia,2062,2760.179156
+South Asia,2063,2710.266124
+South Asia,2064,2665.298856
+South Asia,2065,2625.425553
+South Asia,2066,2589.562495
+South Asia,2067,2555.139669
+South Sudan,2014,6721
+South Sudan,2015,6733
+South Sudan,2016,6747
+South Sudan,2017,6763
+South Sudan,2018,6781
+South Sudan,2019,6800
+South Sudan,2020,6819
+South Sudan,2021,6838
+South Sudan,2022,6855
+South Sudan,2023,6869
+South Sudan,2024,6881
+South Sudan,2025,6892
+South Sudan,2026,6903
+South Sudan,2027,6912
+South Sudan,2028,6920
+South Sudan,2029,6924
+South Sudan,2030,6922
+South Sudan,2031,6913
+South Sudan,2032,6897
+South Sudan,2033,6874
+South Sudan,2034,6850
+South Sudan,2035,6829
+South Sudan,2036,6813
+South Sudan,2037,6806
+South Sudan,2038,6806
+South Sudan,2039,6811
+South Sudan,2040,6817
+South Sudan,2041,6819
+South Sudan,2042,6813
+South Sudan,2043,6796
+South Sudan,2044,6769
+South Sudan,2045,6729
+South Sudan,2046,6682
+South Sudan,2047,6627
+South Sudan,2048,6567
+South Sudan,2049,6503
+South Sudan,2050,6435
+South Sudan,2051,6364
+South Sudan,2052,6289
+South Sudan,2053,6212
+South Sudan,2054,6133
+South Sudan,2055,6050
+South Sudan,2056,5962
+South Sudan,2057,5871
+South Sudan,2058,5777
+South Sudan,2059,5680
+South Sudan,2060,5582
+South Sudan,2061,5483
+South Sudan,2062,5385
+South Sudan,2063,5288
+South Sudan,2064,5194
+South Sudan,2065,5101
+South Sudan,2066,5010
+South Sudan,2067,4920
+Sudan,2014,6691
+Sudan,2015,6713
+Sudan,2016,6737
+Sudan,2017,6762
+Sudan,2018,6787
+Sudan,2019,6810
+Sudan,2020,6831
+Sudan,2021,6850
+Sudan,2022,6865
+Sudan,2023,6878
+Sudan,2024,6888
+Sudan,2025,6899
+Sudan,2026,6910
+Sudan,2027,6921
+Sudan,2028,6930
+Sudan,2029,6936
+Sudan,2030,6933
+Sudan,2031,6919
+Sudan,2032,6892
+Sudan,2033,6853
+Sudan,2034,6802
+Sudan,2035,6741
+Sudan,2036,6674
+Sudan,2037,6605
+Sudan,2038,6535
+Sudan,2039,6467
+Sudan,2040,6401
+Sudan,2041,6338
+Sudan,2042,6275
+Sudan,2043,6214
+Sudan,2044,6153
+Sudan,2045,6092
+Sudan,2046,6028
+Sudan,2047,5962
+Sudan,2048,5893
+Sudan,2049,5821
+Sudan,2050,5747
+Sudan,2051,5672
+Sudan,2052,5596
+Sudan,2053,5520
+Sudan,2054,5444
+Sudan,2055,5366
+Sudan,2056,5287
+Sudan,2057,5206
+Sudan,2058,5123
+Sudan,2059,5039
+Sudan,2060,4956
+Sudan,2061,4873
+Sudan,2062,4792
+Sudan,2063,4713
+Sudan,2064,4637
+Sudan,2065,4563
+Sudan,2066,4491
+Sudan,2067,4420
+Suriname,2014,6608
+Suriname,2015,6594
+Suriname,2016,6558
+Suriname,2017,6497
+Suriname,2018,6412
+Suriname,2019,6304
+Suriname,2020,6182
+Suriname,2021,6053
+Suriname,2022,5922
+Suriname,2023,5790
+Suriname,2024,5653
+Suriname,2025,5504
+Suriname,2026,5336
+Suriname,2027,5148
+Suriname,2028,4945
+Suriname,2029,4735
+Suriname,2030,4531
+Suriname,2031,4344
+Suriname,2032,4180
+Suriname,2033,4041
+Suriname,2034,3922
+Suriname,2035,3815
+Suriname,2036,3708
+Suriname,2037,3594
+Suriname,2038,3471
+Suriname,2039,3338
+Suriname,2040,3200
+Suriname,2041,3063
+Suriname,2042,2936
+Suriname,2043,2823
+Suriname,2044,2733
+Suriname,2045,2671
+Suriname,2046,2639
+Suriname,2047,2634
+Suriname,2048,2651
+Suriname,2049,2682
+Suriname,2050,2717
+Suriname,2051,2746
+Suriname,2052,2762
+Suriname,2053,2759
+Suriname,2054,2739
+Suriname,2055,2702
+Suriname,2056,2656
+Suriname,2057,2609
+Suriname,2058,2562
+Suriname,2059,2518
+Suriname,2060,2478
+Suriname,2061,2441
+Suriname,2062,2406
+Suriname,2063,2374
+Suriname,2064,2345
+Suriname,2065,2318
+Suriname,2066,2292
+Suriname,2067,2268
+Swaziland,2014,6717
+Swaziland,2015,6730
+Swaziland,2016,6745
+Swaziland,2017,6763
+Swaziland,2018,6782
+Swaziland,2019,6802
+Swaziland,2020,6822
+Swaziland,2021,6841
+Swaziland,2022,6857
+Swaziland,2023,6869
+Swaziland,2024,6875
+Swaziland,2025,6876
+Swaziland,2026,6870
+Swaziland,2027,6858
+Swaziland,2028,6840
+Swaziland,2029,6817
+Swaziland,2030,6790
+Swaziland,2031,6761
+Swaziland,2032,6729
+Swaziland,2033,6695
+Swaziland,2034,6658
+Swaziland,2035,6618
+Swaziland,2036,6573
+Swaziland,2037,6520
+Swaziland,2038,6459
+Swaziland,2039,6384
+Swaziland,2040,6291
+Swaziland,2041,6180
+Swaziland,2042,6051
+Swaziland,2043,5905
+Swaziland,2044,5744
+Swaziland,2045,5571
+Swaziland,2046,5392
+Swaziland,2047,5211
+Swaziland,2048,5035
+Swaziland,2049,4866
+Swaziland,2050,4709
+Swaziland,2051,4564
+Swaziland,2052,4432
+Swaziland,2053,4313
+Swaziland,2054,4209
+Swaziland,2055,4121
+Swaziland,2056,4046
+Swaziland,2057,3982
+Swaziland,2058,3925
+Swaziland,2059,3871
+Swaziland,2060,3818
+Swaziland,2061,3761
+Swaziland,2062,3699
+Swaziland,2063,3632
+Swaziland,2064,3559
+Swaziland,2065,3483
+Swaziland,2066,3407
+Swaziland,2067,3334
+Syrian Arab Republic,2014,7467
+Syrian Arab Republic,2015,7497
+Syrian Arab Republic,2016,7522
+Syrian Arab Republic,2017,7541
+Syrian Arab Republic,2018,7555
+Syrian Arab Republic,2019,7564
+Syrian Arab Republic,2020,7569
+Syrian Arab Republic,2021,7572
+Syrian Arab Republic,2022,7574
+Syrian Arab Republic,2023,7574
+Syrian Arab Republic,2024,7572
+Syrian Arab Republic,2025,7566
+Syrian Arab Republic,2026,7556
+Syrian Arab Republic,2027,7537
+Syrian Arab Republic,2028,7510
+Syrian Arab Republic,2029,7472
+Syrian Arab Republic,2030,7422
+Syrian Arab Republic,2031,7359
+Syrian Arab Republic,2032,7285
+Syrian Arab Republic,2033,7197
+Syrian Arab Republic,2034,7094
+Syrian Arab Republic,2035,6976
+Syrian Arab Republic,2036,6843
+Syrian Arab Republic,2037,6695
+Syrian Arab Republic,2038,6534
+Syrian Arab Republic,2039,6359
+Syrian Arab Republic,2040,6168
+Syrian Arab Republic,2041,5963
+Syrian Arab Republic,2042,5748
+Syrian Arab Republic,2043,5529
+Syrian Arab Republic,2044,5313
+Syrian Arab Republic,2045,5110
+Syrian Arab Republic,2046,4925
+Syrian Arab Republic,2047,4760
+Syrian Arab Republic,2048,4618
+Syrian Arab Republic,2049,4495
+Syrian Arab Republic,2050,4386
+Syrian Arab Republic,2051,4282
+Syrian Arab Republic,2052,4178
+Syrian Arab Republic,2053,4070
+Syrian Arab Republic,2054,3958
+Syrian Arab Republic,2055,3841
+Syrian Arab Republic,2056,3724
+Syrian Arab Republic,2057,3610
+Syrian Arab Republic,2058,3501
+Syrian Arab Republic,2059,3401
+Syrian Arab Republic,2060,3313
+Syrian Arab Republic,2061,3237
+Syrian Arab Republic,2062,3173
+Syrian Arab Republic,2063,3121
+Syrian Arab Republic,2064,3078
+Syrian Arab Republic,2065,3040
+Syrian Arab Republic,2066,3003
+Syrian Arab Republic,2067,2964
+Tanzania,2014,6806
+Tanzania,2015,6806
+Tanzania,2016,6804
+Tanzania,2017,6803
+Tanzania,2018,6801
+Tanzania,2019,6798
+Tanzania,2020,6795
+Tanzania,2021,6791
+Tanzania,2022,6785
+Tanzania,2023,6778
+Tanzania,2024,6771
+Tanzania,2025,6765
+Tanzania,2026,6761
+Tanzania,2027,6758
+Tanzania,2028,6755
+Tanzania,2029,6751
+Tanzania,2030,6743
+Tanzania,2031,6730
+Tanzania,2032,6711
+Tanzania,2033,6685
+Tanzania,2034,6653
+Tanzania,2035,6618
+Tanzania,2036,6580
+Tanzania,2037,6542
+Tanzania,2038,6504
+Tanzania,2039,6465
+Tanzania,2040,6424
+Tanzania,2041,6379
+Tanzania,2042,6328
+Tanzania,2043,6273
+Tanzania,2044,6213
+Tanzania,2045,6148
+Tanzania,2046,6081
+Tanzania,2047,6013
+Tanzania,2048,5946
+Tanzania,2049,5883
+Tanzania,2050,5828
+Tanzania,2051,5780
+Tanzania,2052,5741
+Tanzania,2053,5711
+Tanzania,2054,5689
+Tanzania,2055,5675
+Tanzania,2056,5666
+Tanzania,2057,5659
+Tanzania,2058,5651
+Tanzania,2059,5638
+Tanzania,2060,5616
+Tanzania,2061,5585
+Tanzania,2062,5543
+Tanzania,2063,5490
+Tanzania,2064,5428
+Tanzania,2065,5359
+Tanzania,2066,5287
+Tanzania,2067,5214
+Timor-Leste,2014,6373
+Timor-Leste,2015,6376
+Timor-Leste,2016,6375
+Timor-Leste,2017,6367
+Timor-Leste,2018,6347
+Timor-Leste,2019,6314
+Timor-Leste,2020,6268
+Timor-Leste,2021,6207
+Timor-Leste,2022,6132
+Timor-Leste,2023,6039
+Timor-Leste,2024,5917
+Timor-Leste,2025,5751
+Timor-Leste,2026,5541
+Timor-Leste,2027,5298
+Timor-Leste,2028,5037
+Timor-Leste,2029,4794
+Timor-Leste,2030,4611
+Timor-Leste,2031,4514
+Timor-Leste,2032,4513
+Timor-Leste,2033,4606
+Timor-Leste,2034,4767
+Timor-Leste,2035,4956
+Timor-Leste,2036,5130
+Timor-Leste,2037,5256
+Timor-Leste,2038,5324
+Timor-Leste,2039,5336
+Timor-Leste,2040,5308
+Timor-Leste,2041,5271
+Timor-Leste,2042,5256
+Timor-Leste,2043,5273
+Timor-Leste,2044,5340
+Timor-Leste,2045,5469
+Timor-Leste,2046,5651
+Timor-Leste,2047,5874
+Timor-Leste,2048,6125
+Timor-Leste,2049,6384
+Timor-Leste,2050,6627
+Timor-Leste,2051,6832
+Timor-Leste,2052,6986
+Timor-Leste,2053,7079
+Timor-Leste,2054,7112
+Timor-Leste,2055,7092
+Timor-Leste,2056,7037
+Timor-Leste,2057,6965
+Timor-Leste,2058,6648.75
+Timor-Leste,2059,6332.5
+Timor-Leste,2060,6016.25
+Timor-Leste,2061,5700
+Timor-Leste,2062,5700
+Timor-Leste,2063,5700
+Timor-Leste,2064,5600
+Timor-Leste,2065,5500
+Timor-Leste,2066,5300
+Timor-Leste,2067,5200
+Togo,2014,6521
+Togo,2015,6570
+Togo,2016,6622
+Togo,2017,6677
+Togo,2018,6734
+Togo,2019,6792
+Togo,2020,6851
+Togo,2021,6911
+Togo,2022,6971
+Togo,2023,7029
+Togo,2024,7084
+Togo,2025,7136
+Togo,2026,7182
+Togo,2027,7222
+Togo,2028,7254
+Togo,2029,7275
+Togo,2030,7286
+Togo,2031,7284
+Togo,2032,7270
+Togo,2033,7244
+Togo,2034,7207
+Togo,2035,7158
+Togo,2036,7099
+Togo,2037,7032
+Togo,2038,6957
+Togo,2039,6874
+Togo,2040,6781
+Togo,2041,6679
+Togo,2042,6569
+Togo,2043,6452
+Togo,2044,6331
+Togo,2045,6206
+Togo,2046,6081
+Togo,2047,5957
+Togo,2048,5837
+Togo,2049,5725
+Togo,2050,5620
+Togo,2051,5524
+Togo,2052,5437
+Togo,2053,5359
+Togo,2054,5288
+Togo,2055,5224
+Togo,2056,5166
+Togo,2057,5111
+Togo,2058,5059
+Togo,2059,5009
+Togo,2060,4962
+Togo,2061,4918
+Togo,2062,4876
+Togo,2063,4835
+Togo,2064,4792
+Togo,2065,4746
+Togo,2066,4695
+Togo,2067,4639
+Tonga,2014,7363
+Tonga,2015,7346
+Tonga,2016,7302
+Tonga,2017,7226
+Tonga,2018,7117
+Tonga,2019,6974
+Tonga,2020,6795
+Tonga,2021,6590
+Tonga,2022,6371
+Tonga,2023,6150
+Tonga,2024,5941
+Tonga,2025,5761
+Tonga,2026,5616
+Tonga,2027,5512
+Tonga,2028,5449
+Tonga,2029,5426
+Tonga,2030,5438
+Tonga,2031,5471
+Tonga,2032,5509
+Tonga,2033,5541
+Tonga,2034,5553
+Tonga,2035,5532
+Tonga,2036,5475
+Tonga,2037,5385
+Tonga,2038,5266
+Tonga,2039,5128
+Tonga,2040,4989
+Tonga,2041,4864
+Tonga,2042,4763
+Tonga,2043,4691
+Tonga,2044,4644
+Tonga,2045,4612
+Tonga,2046,4583
+Tonga,2047,4547
+Tonga,2048,4501
+Tonga,2049,4447
+Tonga,2050,4391
+Tonga,2051,4340
+Tonga,2052,4300
+Tonga,2053,4270
+Tonga,2054,4250
+Tonga,2055,4236
+Tonga,2056,4221
+Tonga,2057,4202
+Tonga,2058,4177
+Tonga,2059,4144
+Tonga,2060,4104
+Tonga,2061,4059
+Tonga,2062,4012
+Tonga,2063,3963
+Tonga,2064,3914
+Tonga,2065,3864
+Tonga,2066,3815
+Tonga,2067,3767
+Tunisia,2014,7043
+Tunisia,2015,7088
+Tunisia,2016,7118
+Tunisia,2017,7125
+Tunisia,2018,7107
+Tunisia,2019,7059
+Tunisia,2020,6978
+Tunisia,2021,6869
+Tunisia,2022,6737
+Tunisia,2023,6590
+Tunisia,2024,6438
+Tunisia,2025,6292
+Tunisia,2026,6160
+Tunisia,2027,6046
+Tunisia,2028,5950
+Tunisia,2029,5867
+Tunisia,2030,5790
+Tunisia,2031,5706
+Tunisia,2032,5606
+Tunisia,2033,5488
+Tunisia,2034,5349
+Tunisia,2035,5189
+Tunisia,2036,5015
+Tunisia,2037,4833
+Tunisia,2038,4645
+Tunisia,2039,4454
+Tunisia,2040,4265
+Tunisia,2041,4077
+Tunisia,2042,3893
+Tunisia,2043,3714
+Tunisia,2044,3380
+Tunisia,2045,3310
+Tunisia,2046,3270
+Tunisia,2047,3120
+Tunisia,2048,2900
+Tunisia,2049,2670
+Tunisia,2050,2510
+Tunisia,2051,2380
+Tunisia,2052,2230
+Tunisia,2053,2090
+Tunisia,2054,2080
+Tunisia,2055,2050
+Tunisia,2056,2000
+Tunisia,2057,2060
+Tunisia,2058,2020
+Tunisia,2059,2040
+Tunisia,2060,2030
+Tunisia,2061,2040
+Tunisia,2062,2060
+Tunisia,2063,2050
+Tunisia,2064,2130
+Tunisia,2065,2150
+Tunisia,2066,2200
+Tunisia,2067,2250
+Uganda,2014,6999
+Uganda,2015,7019
+Uganda,2016,7040
+Uganda,2017,7060
+Uganda,2018,7078
+Uganda,2019,7094
+Uganda,2020,7106
+Uganda,2021,7113
+Uganda,2022,7117
+Uganda,2023,7118
+Uganda,2024,7115
+Uganda,2025,7111
+Uganda,2026,7107
+Uganda,2027,7103
+Uganda,2028,7100
+Uganda,2029,7099
+Uganda,2030,7099
+Uganda,2031,7099
+Uganda,2032,7099
+Uganda,2033,7100
+Uganda,2034,7100
+Uganda,2035,7101
+Uganda,2036,7101
+Uganda,2037,7102
+Uganda,2038,7103
+Uganda,2039,7103
+Uganda,2040,7103
+Uganda,2041,7102
+Uganda,2042,7100
+Uganda,2043,7097
+Uganda,2044,7091
+Uganda,2045,7082
+Uganda,2046,7071
+Uganda,2047,7057
+Uganda,2048,7039
+Uganda,2049,7018
+Uganda,2050,6994
+Uganda,2051,6967
+Uganda,2052,6937
+Uganda,2053,6903
+Uganda,2054,6865
+Uganda,2055,6822
+Uganda,2056,6772
+Uganda,2057,6716
+Uganda,2058,6653
+Uganda,2059,6583
+Uganda,2060,6507
+Uganda,2061,6425
+Uganda,2062,6338
+Uganda,2063,6248
+Uganda,2064,6155
+Uganda,2065,6060
+Uganda,2066,5964
+Uganda,2067,5867
+Vanuatu,2014,7197
+Vanuatu,2015,7120
+Vanuatu,2016,7033
+Vanuatu,2017,6938
+Vanuatu,2018,6836
+Vanuatu,2019,6730
+Vanuatu,2020,6626
+Vanuatu,2021,6526
+Vanuatu,2022,6433
+Vanuatu,2023,6348
+Vanuatu,2024,6272
+Vanuatu,2025,6202
+Vanuatu,2026,6134
+Vanuatu,2027,6067
+Vanuatu,2028,5999
+Vanuatu,2029,5929
+Vanuatu,2030,5858
+Vanuatu,2031,5787
+Vanuatu,2032,5716
+Vanuatu,2033,5645
+Vanuatu,2034,5575
+Vanuatu,2035,5503
+Vanuatu,2036,5430
+Vanuatu,2037,5356
+Vanuatu,2038,5282
+Vanuatu,2039,5209
+Vanuatu,2040,5141
+Vanuatu,2041,5078
+Vanuatu,2042,5022
+Vanuatu,2043,4971
+Vanuatu,2044,4927
+Vanuatu,2045,4887
+Vanuatu,2046,4850
+Vanuatu,2047,4814
+Vanuatu,2048,4775
+Vanuatu,2049,4730
+Vanuatu,2050,4677
+Vanuatu,2051,4614
+Vanuatu,2052,4542
+Vanuatu,2053,4459
+Vanuatu,2054,4368
+Vanuatu,2055,4268
+Vanuatu,2056,4162
+Vanuatu,2057,4056
+Vanuatu,2058,3950
+Vanuatu,2059,3851
+Vanuatu,2060,3760
+Vanuatu,2061,3679
+Vanuatu,2062,3608
+Vanuatu,2063,3549
+Vanuatu,2064,3499
+Vanuatu,2065,3456
+Vanuatu,2066,3419
+Vanuatu,2067,3382
+Zambia,2014,7018
+Zambia,2015,7071
+Zambia,2016,7127
+Zambia,2017,7184
+Zambia,2018,7240
+Zambia,2019,7292
+Zambia,2020,7338
+Zambia,2021,7376
+Zambia,2022,7405
+Zambia,2023,7425
+Zambia,2024,7437
+Zambia,2025,7443
+Zambia,2026,7446
+Zambia,2027,7447
+Zambia,2028,7444
+Zambia,2029,7435
+Zambia,2030,7414
+Zambia,2031,7378
+Zambia,2032,7326
+Zambia,2033,7259
+Zambia,2034,7182
+Zambia,2035,7098
+Zambia,2036,7015
+Zambia,2037,6937
+Zambia,2038,6865
+Zambia,2039,6799
+Zambia,2040,6737
+Zambia,2041,6673
+Zambia,2042,6606
+Zambia,2043,6537
+Zambia,2044,6468
+Zambia,2045,6401
+Zambia,2046,6340
+Zambia,2047,6288
+Zambia,2048,6245
+Zambia,2049,6209
+Zambia,2050,6179
+Zambia,2051,6152
+Zambia,2052,6126
+Zambia,2053,6098
+Zambia,2054,6071
+Zambia,2055,6044
+Zambia,2056,6018
+Zambia,2057,5995
+Zambia,2058,5974
+Zambia,2059,5954
+Zambia,2060,5932
+Zambia,2061,5908
+Zambia,2062,5881
+Zambia,2063,5849
+Zambia,2064,5813
+Zambia,2065,5773
+Zambia,2066,5731
+Zambia,2067,5687
+Zimbabwe,2014,7158
+Zimbabwe,2015,7215
+Zimbabwe,2016,7267
+Zimbabwe,2017,7311
+Zimbabwe,2018,7347
+Zimbabwe,2019,7373
+Zimbabwe,2020,7391
+Zimbabwe,2021,7403
+Zimbabwe,2022,7411
+Zimbabwe,2023,7415
+Zimbabwe,2024,7417
+Zimbabwe,2025,7419
+Zimbabwe,2026,7420
+Zimbabwe,2027,7417
+Zimbabwe,2028,7410
+Zimbabwe,2029,7395
+Zimbabwe,2030,7369
+Zimbabwe,2031,7330
+Zimbabwe,2032,7273
+Zimbabwe,2033,7196
+Zimbabwe,2034,7095
+Zimbabwe,2035,6967
+Zimbabwe,2036,6811
+Zimbabwe,2037,6633
+Zimbabwe,2038,6435
+Zimbabwe,2039,6223
+Zimbabwe,2040,6004
+Zimbabwe,2041,5784
+Zimbabwe,2042,5569
+Zimbabwe,2043,5365
+Zimbabwe,2044,5176
+Zimbabwe,2045,5001
+Zimbabwe,2046,4840
+Zimbabwe,2047,4690
+Zimbabwe,2048,4554
+Zimbabwe,2049,4432
+Zimbabwe,2050,4328
+Zimbabwe,2051,4240
+Zimbabwe,2052,4169
+Zimbabwe,2053,4112
+Zimbabwe,2054,4069
+Zimbabwe,2055,4039
+Zimbabwe,2056,4018
+Zimbabwe,2057,4002
+Zimbabwe,2058,3987
+Zimbabwe,2059,3969
+Zimbabwe,2060,3941
+Zimbabwe,2061,3903
+Zimbabwe,2062,3853
+Zimbabwe,2063,3792
+Zimbabwe,2064,3721
+Zimbabwe,2065,3643
+Zimbabwe,2066,3564
+Zimbabwe,2067,3486
